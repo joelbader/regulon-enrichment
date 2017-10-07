@@ -1,0 +1,198 @@
+Rv0014c	pknB	Transmembrane serine/threonine-protein kinase B PknB (protein kinase B) (STPK B)	15.59	66509.8
+Rv0015c	pknA	Transmembrane serine/threonine-protein kinase A PknA (protein kinase A) (STPK A)	17.467	45597
+Rv0018c	pstP	Phosphoserine/threonine phosphatase PstP	21.637	53779.9
+Rv0019c	fhaB	Conserved protein with FHA domain, FhaB	23.27	17152.1
+Rv0020c	fhaA	Conserved protein with FHA domain, FhaA	23.861	56880.3
+Rv0022c	whiB5	Probable transcriptional regulatory protein WhiB-like WhiB5	27.023	15178.2
+Rv0023	Rv0023	Possible transcriptional regulatory protein	27.595	27155.7
+Rv0042c	Rv0042c	Possible transcriptional regulatory protein (probably MarR-family)	46.581	22410.9
+Rv0043c	Rv0043c	Probable transcriptional regulatory protein (probably GntR-family)	47.366	27328.2
+Rv0067c	Rv0067c	Possible transcriptional regulatory protein (possibly TetR-family)	74.629	20385.4
+Rv0078	Rv0078	Probable transcriptional regulatory protein	86.528	21924.2
+Rv0081	Rv0081	Probable transcriptional regulatory protein	89.575	12324.3
+Rv0117	oxyS	Oxidative stress response regulatory protein OxyS	141.2	34191.2
+Rv0135c	Rv0135c	Possible transcriptional regulatory protein	162.644	21943.1
+Rv0144	Rv0144	Probable transcriptional regulatory protein (possibly TetR-family)	170.284	30610.9
+Rv0153c	ptbB	Phosphotyrosine protein phosphatase PTPB (protein-tyrosine-phosphatase) (PTPase)	181.155	30153.8
+Rv0158	Rv0158	Probable transcriptional regulatory protein (possibly TetR-family)	186.785	24128.1
+Rv0165c	mce1R	Probable transcriptional regulatory protein Mce1R (probably GntR-family)	194.144	24136.5
+Rv0195	Rv0195	Possible two component transcriptional regulatory protein (probably LuxR-family)	230.899	23073.8
+Rv0196	Rv0196	Possible transcriptional regulatory protein	231.647	21241.2
+Rv0212c	nadR	Possible transcriptional regulatory protein NadR (probably AsnC-family)	253.669	35999.2
+Rv0232	Rv0232	Probable transcriptional regulatory protein (probably TetR/AcrR-family)	277.899	25440
+Rv0238	Rv0238	Possible transcriptional regulatory protein (probably TetR-family)	288.428	22496.7
+Rv0260c	Rv0260c	Possible transcriptional regulatory protein	311.514	40732.7
+Rv0273c	Rv0273c	Possible transcriptional regulatory protein	329.705	23242
+Rv0275c	Rv0275c	Possible transcriptional regulatory protein (possibly TetR-family)	330.933	25949.3
+Rv0302	Rv0302	Probable transcriptional regulatory protein (probably TetR/AcrR-family)	364.605	23364.6
+Rv0324	Rv0324	Possible transcriptional regulatory protein (possibly ArsR-family)	391.352	24121.4
+Rv0328	Rv0328	Possible transcriptional regulatory protein (possibly TetR/AcrR-family)	394.111	21379.1
+Rv0339c	Rv0339c	Possible transcriptional regulatory protein	405.95	87743.9
+Rv0348	Rv0348	Possible transcriptional regulatory protein	418.293	24251.2
+Rv0377	Rv0377	Probable transcriptional regulatory protein (probably LysR-family)	454.421	33636.9
+Rv0386	Rv0386	Probable transcriptional regulatory protein (probably LuxR/UhpA-family)	463.411	116792
+Rv0410c	pknG	Serine/threonine-protein kinase PknG (protein kinase G) (STPK G)	495.062	81577.4
+Rv0452	Rv0452	Possible transcriptional regulatory protein	542.142	25325.1
+Rv0465c	Rv0465c	Probable transcriptional regulatory protein	554.882	53040
+Rv0472c	Rv0472c	Probable transcriptional regulatory protein (possibly TetR-family)	562.723	26385.5
+Rv0474	Rv0474	Probable transcriptional regulatory protein	565.021	15364.2
+Rv0485	Rv0485	Possible transcriptional regulatory protein	573.984	46066.6
+Rv0490	senX3	Putative two component sensor histidine kinase SenX3	579.349	44792.7
+Rv0491	regX3	Two component sensory transduction protein RegX3 (transcriptional regulatory protein) (probably LuxR-family)	580.809	24849.4
+Rv0494	Rv0494	Probable transcriptional regulatory protein (probably GntR-family)	584.695	25996.6
+Rv0576	Rv0576	Probable transcriptional regulatory protein (possibly ArsR-family)	669.848	46407.7
+Rv0586	mce2R	Probable transcriptional regulatory protein Mce2R (GntR-family)	684.41	26509.2
+Rv0600c	Rv0600c	Two component sensor kinase [second part]	697.904	17821.7
+Rv0601c	Rv0601c	Two component sensor kinase [first part]	698.524	16595.1
+Rv0602c	tcrA	Two component DNA binding transcriptional regulatory protein TcrA	699.038	28138.2
+Rv0653c	Rv0653c	Possible transcriptional regulatory protein (probably TetR-family)	749.234	24727.2
+Rv0681	Rv0681	Probable transcriptional regulatory protein (possibly TetR-family)	780.721	21230
+Rv0691c	Rv0691c	Probable transcriptional regulatory protein	791.07	22264.3
+Rv0737	Rv0737	Possible transcriptional regulatory protein	829.207	18046.5
+Rv0744c	Rv0744c	Possible transcriptional regulatory protein	834.44	19428.1
+Rv0757	phoP	Possible two component system response transcriptional positive regulator PhoP	851.608	27513.5
+Rv0758	phoR	Possible two component system response sensor kinase membrane associated PhoR	852.396	52016.4
+Rv0792c	Rv0792c	Probable transcriptional regulatory protein (probably GntR-family)	885.837	28959.2
+Rv0818	Rv0818	Transcriptional regulatory protein	910.972	27579.4
+Rv0823c	Rv0823c	Possible transcriptional regulatory protein	916.477	41388.4
+Rv0827c	kmtR	Metal sensor transcriptional regulator KmtR (ArsR-SmtB family)	920.741	14296.3
+Rv0844c	narL	Possible nitrate/nitrite response transcriptional regulatory protein NarL	940.456	22916.4
+Rv0845	Rv0845	Possible two component sensor kinase	941.19	45751.4
+Rv0880	Rv0880	Possible transcriptional regulatory protein (possibly MarR-family)	978.934	15543.9
+Rv0890c	Rv0890c	Probable transcriptional regulatory protein (probably LuxR-family)	989.948	94464.4
+Rv0891c	Rv0891c	Possible transcriptional regulatory protein	992.598	31199.8
+Rv0894	Rv0894	Possible transcriptional regulatory protein (possibly LuxR-family)	996.524	42873.1
+Rv0902c	prrB	Two component sensor histidine kinase PrrB	1004.5	47829.3
+Rv0903c	prrA	Two component response transcriptional regulatory protein PrrA	1005.85	25253.9
+Rv0931c	pknD	Transmembrane serine/threonine-protein kinase D PknD (protein kinase D) (STPK D)	1037.92	69513.2
+Rv0967	csoR	Copper-sensitive operon repressor CsoR	1077.97	12799.7
+Rv0981	mprA	Mycobacterial persistence regulator MRPA (two component response transcriptional regulatory protein)	1096.82	25675.4
+Rv0982	mprB	Two component sensor kinase MprB	1097.51	54407.7
+Rv1019	Rv1019	Probable transcriptional regulatory protein (probably TetR-family)	1138.31	21701.5
+Rv1027c	kdpE	Probable transcriptional regulatory protein KdpE	1148.43	24741.4
+Rv1028c	kdpD	Probable sensor protein KdpD	1149.1	92717.1
+Rv1032c	trcS	Two component sensor histidine kinase TrcS	1156.43	54590.9
+Rv1033c	trcR	Two component transcriptional regulator TrcR	1157.96	29209.4
+Rv1049	Rv1049	Probable transcriptional repressor protein	1172.39	15980.3
+Rv1129c	Rv1129c	Probable transcriptional regulator protein	1253.07	54087.4
+Rv1151c	Rv1151c	Transcriptional regulatory protein	1278.9	25661
+Rv1152	Rv1152	Probable transcriptional regulatory protein	1279.66	13082
+Rv1167c	Rv1167c	Probable transcriptional regulatory protein	1298.09	21962.4
+Rv1219c	Rv1219c	Probable transcriptional regulatory protein	1362.72	23181.4
+Rv1255c	Rv1255c	Probable transcriptional regulatory protein	1402.78	22222.6
+Rv1266c	pknH	Probable transmembrane serine/threonine-protein kinase H PknH (protein kinase H) (STPK H)	1413.96	66753.9
+Rv1267c	embR	Probable transcriptional regulatory protein EmbR	1416.18	41933.5
+Rv1332	Rv1332	Probable transcriptional regulatory protein	1500.93	24054.2
+Rv1353c	Rv1353c	Probable transcriptional regulatory protein	1519.2	28253.2
+Rv1358	Rv1358	Probable transcriptional regulatory protein	1526.61	125056
+Rv1359	Rv1359	Probable transcriptional regulatory protein	1530.17	26886.2
+Rv1379	pyrR	Probable pyrimidine operon regulatory protein PyrR	1552.65	20626.5
+Rv1395	Rv1395	Transcriptional regulatory protein	1571.05	37862.4
+Rv1404	Rv1404	Probable transcriptional regulatory protein	1580.59	17521.1
+Rv1423	whiA	Probable transcriptional regulatory protein WhiA	1597.91	34933
+Rv1453	Rv1453	Possible transcriptional activator protein	1638.38	46561
+Rv1460	Rv1460	Probable transcriptional regulatory protein	1646.19	28147.7
+Rv1473A	Rv1473A	Possible transcriptional regulatory protein	1662.38	7105.08
+Rv1474c	Rv1474c	Probable transcriptional regulatory protein	1662.64	21237.2
+Rv1479	moxR1	Probable transcriptional regulatory protein MoxR1	1669.28	40762.9
+Rv1534	Rv1534	Probable transcriptional regulator	1734.73	24468.8
+Rv1556	Rv1556	Possible regulatory protein	1761	22329.5
+Rv1626	Rv1626	Probable two-component system transcriptional regulator	1828.18	22669.2
+Rv1657	argR	Probable arginine repressor ArgR (AHRC)	1870.84	17349.7
+Rv1674c	Rv1674c	Probable transcriptional regulatory protein	1899.26	23759.2
+Rv1675c	cmr	Probable transcriptional regulatory protein Cmr	1900.24	26793.1
+Rv1719	Rv1719	Probable transcriptional regulatory protein	1945.64	27872.7
+Rv1743	pknE	Probable transmembrane serine/threonine-protein kinase E PknE (protein kinase E) (STPK E)	1969	60512.2
+Rv1746	pknF	Anchored-membrane serine/threonine-protein kinase PknF (protein kinase F) (STPK F)	1972.14	50668.1
+Rv1773c	Rv1773c	Probable transcriptional regulatory protein	2007.02	26600.4
+Rv1776c	Rv1776c	Possible transcriptional regulatory protein	2009.99	20282.2
+Rv1816	Rv1816	Possible transcriptional regulatory protein	2058.26	25334.8
+Rv1846c	blaI	Transcriptional repressor BlaI	2096.18	15211.2
+Rv1909c	furA	Ferric uptake regulation protein FurA (fur)	2156.15	15859.8
+Rv1931c	Rv1931c	Probable transcriptional regulatory protein	2182.46	27963.6
+Rv1963c	mce3R	Probable transcriptional repressor (probably TetR-family) Mce3R	2205.58	44341.7
+Rv1985c	Rv1985c	Probable transcriptional regulatory protein (probably LysR-family)	2228.99	32836.8
+Rv1990c	Rv1990c	Probable transcriptional regulatory protein	2233.3	12488.3
+Rv1994c	cmtR	Metal sensor transcriptional regulator CmtR (ArsR-SmtB family)	2237.63	12495.4
+Rv2011c	Rv2011c	Conserved hypothetical protein, probable transcription repressor.	2258.85	15725.1
+Rv2017	Rv2017	Transcriptional regulatory protein	2264	38605.2
+Rv2021c	Rv2021c	Transcriptional regulatory protein	2266.8	11291.9
+Rv2027c	dosT	Two component sensor histidine kinase DosT	2272.79	62136.5
+Rv2034	Rv2034	ArsR repressor protein	2281.29	11824.4
+Rv2088	pknJ	Transmembrane serine/threonine-protein kinase J PknJ (protein kinase J) (STPK J)	2344.41	61563.3
+Rv2160A	Rv2160A	Conserved hypothetical protein	2421.64	22712.8
+Rv2160c	Rv2160c	Conserved hypothetical protein	2421.66	11819.2
+Rv2175c	Rv2175c	Conserved regulatory protein	2437.45	15743
+Rv2176	pknL	Probable transmembrane serine/threonine-protein kinase L PknL (protein kinase L) (STPK L)	2437.94	42801.7
+Rv2232	ptkA	Protein tyrosine kinase transcriptional regulatory protein PtkA	2506.28	30662.3
+Rv2234	ptpA	Phosphotyrosine protein phosphatase PtpA (protein-tyrosine-phosphatase) (PTPase) (LMW phosphatase)	2507.15	17860
+Rv2250c	Rv2250c	Possible transcriptional regulatory protein	2524.78	20493.5
+Rv2258c	Rv2258c	Possible transcriptional regulatory protein	2530.84	37513.6
+Rv2282c	Rv2282c	Probable transcription regulator (LysR family)	2554.94	32989.1
+Rv2324	Rv2324	Probable transcriptional regulatory protein (probably AsnC-family)	2596.33	16351.6
+Rv2358	smtB	Probable transcriptional regulatory protein SmtB (probably ArsR-family)	2641.25	14421.5
+Rv2359	zur	Probable zinc uptake regulation protein Zur	2641.65	14397.9
+Rv2488c	Rv2488c	Probable transcriptional regulatory protein (LuxR-family)	2797.47	120818
+Rv2506	Rv2506	Probable transcriptional regulatory protein (probably TetR-family)	2821.71	23187.6
+Rv2621c	Rv2621c	Possible transcriptional regulatory protein	2947.88	24241
+Rv2640c	Rv2640c	Possible transcriptional regulatory protein (probably ArsR-family)	2965.48	12365.5
+Rv2642	Rv2642	Possible transcriptional regulatory protein (probably ArsR-family)	2966.53	13111.2
+Rv2711	ideR	Iron-dependent repressor and activator IdeR	3023.56	25232.9
+Rv2718c	nrdR	Probable transcriptional regulatory protein NrdR	3030.41	17177.3
+Rv2720	lexA	Repressor LexA	3031.79	24841.2
+Rv2745c	clgR	Transcriptional regulatory protein ClgR	3058.19	11785.7
+Rv2779c	Rv2779c	Possible transcriptional regulatory protein (probably Lrp/AsnC-family)	3086.22	19871.8
+Rv2788	sirR	Probable transcriptional repressor SirR	3096.96	24919.1
+Rv2884	Rv2884	Probable transcriptional regulatory protein	3193.39	27712.8
+Rv2887	Rv2887	Probable transcriptional regulatory protein	3196.43	14690.1
+Rv2912c	Rv2912c	Probable transcriptional regulatory protein (probably TetR-family)	3219.27	21238.5
+Rv2914c	pknI	Probable transmembrane serine/threonine-protein kinase I PknI (protein kinase I) (STPK I) (phosphorylase B kinase kinase) (hydroxyalkyl-protein kinase)	3221.77	61804.8
+Rv2919c	glnB	Probable nitrogen regulatory protein P-II GlnB	3230.74	12227
+Rv2989	Rv2989	Probable transcriptional regulatory protein	3346.15	24283.9
+Rv3050c	Rv3050c	Probable transcriptional regulatory protein (probably AsnC-family)	3411.22	27586.6
+Rv3055	Rv3055	Possible transcriptional regulatory protein (probably TetR-family)	3416.08	22051.1
+Rv3058c	Rv3058c	Possible transcriptional regulatory protein (probably TetR-family)	3418.73	23803
+Rv3060c	Rv3060c	Probable transcriptional regulatory protein (probably GntR-family)	3421.74	54007.6
+Rv3066	Rv3066	Probable transcriptional regulatory protein (probably DeoR-family)	3430.71	21939.6
+Rv3080c	pknK	Serine/threonine-protein kinase transcriptional regulatory protein PknK (protein kinase K) (STPK K)	3442.66	119418
+Rv3095	Rv3095	Hypothetical transcriptional regulatory protein	3463.97	17801.4
+Rv3124	moaR1	Transcriptional regulatory protein MoaR1	3489.51	32273.4
+Rv3132c	devS	Two component sensor histidine kinase DevS	3497.53	62240.6
+Rv3133c	devR	Two component transcriptional regulatory protein DevR (probably LuxR/UhpA-family)	3499.26	23261.9
+Rv3143	Rv3143	Probable response regulator	3509.65	14353.6
+Rv3160c	Rv3160c	Possible transcriptional regulatory protein (probably TetR-family)	3529.34	23120.7
+Rv3164c	moxR3	Probable methanol dehydrogenase transcriptional regulatory protein MoxR3	3532.94	35300.8
+Rv3167c	Rv3167c	Probable transcriptional regulatory protein (probably TetR-family)	3535.43	22095.4
+Rv3173c	Rv3173c	Probable transcriptional regulatory protein (probably TetR/AcrR-family)	3541.44	21566.6
+Rv3183	Rv3183	Possible transcriptional regulatory protein	3550.72	11802.5
+Rv3197A	whiB7	Probable transcriptional regulatory protein WhiB-like WhiB7	3568.4	10106.7
+Rv3208	Rv3208	Probable transcriptional regulatory protein (probably TetR-family)	3585	25166.3
+Rv3219	whiB1	Transcriptional regulatory protein WhiB-like WhiB1. Contains [4FE-4S]2+ cluster.	3595.71	9318.55
+Rv3220c	Rv3220c	Probable two component sensor kinase	3596.03	54012.5
+Rv3245c	mtrB	Two component sensory transduction histidine kinase MtrB	3624.91	61636.6
+Rv3246c	mtrA	Two component sensory transduction transcriptional regulatory protein MtrA	3626.66	25279.3
+Rv3249c	Rv3249c	Possible transcriptional regulatory protein (probably TetR-family)	3629.75	22767.9
+Rv3260c	whiB2	Probable transcriptional regulatory protein WhiB-like WhiB2	3639.87	10138.5
+Rv3291c	lrpA	Probable transcriptional regulatory protein LrpA (Lrp/AsnC-family)	3671.84	16510.6
+Rv3295	Rv3295	Probable transcriptional regulatory protein (probably TetR-family)	3676.07	24805.3
+Rv3334	Rv3334	Probable transcriptional regulatory protein (probably MerR-family)	3721.26	16169.2
+Rv3405c	Rv3405c	Possible transcriptional regulatory protein	3824.7	20608.6
+Rv3416	whiB3	Transcriptional regulatory protein WhiB-like WhiB3. Contains [4FE-4S] cluster.	3834.89	11612.2
+Rv3557c	Rv3557c	Transcriptional regulatory protein (probably TetR-family)	3997.03	22905.9
+Rv3574	kstR	Transcriptional regulatory protein KstR (probably TetR-family)	4016.48	21935.1
+Rv3575c	Rv3575c	Transcriptional regulatory protein (probably LacI-family)	4017.09	38177.7
+Rv3583c	Rv3583c	Possible transcription factor	4025.06	17907.4
+Rv3676	crp	Transcriptional regulatory protein Crp (Crp/Fnr-family)	4116.48	24759.3
+Rv3681c	whiB4	Probable transcriptional regulatory protein WhiB-like WhiB4	4121.2	13179
+Rv3692	moxR2	Probable methanol dehydrogenase transcriptional regulatory protein MoxR2	4133.52	37904.4
+Rv3736	Rv3736	Transcriptional regulatory protein (probably AraC/XylS-family)	4186.63	37973.6
+Rv3744	nmtR	Metal sensor transcriptional regulator (ArsR-SmtB family)	4195.44	12835.5
+Rv3764c	tcrY	Possible two component sensor kinase TcrY	4209.58	50312.4
+Rv3765c	tcrX	Probable two component transcriptional regulatory protein TcrX	4211.08	25843.8
+Rv3830c	Rv3830c	Transcriptional regulatory protein (probably TetR-family)	4305.06	23124.2
+Rv3833	Rv3833	Transcriptional regulatory protein (probably AraC-family)	4306.87	29472.6
+Rv3840	Rv3840	Possible transcriptional regulatory protein	4313.57	14339.2
+Rv3849	espR	ESX-1 transcriptional regulatory protein EspR	4323.5	14708.7
+Rv3853	rraA	Regulator of RNase E activity a RraA	4325.5	16203.4
+Rv3855	ethR	Transcriptional regulatory repressor protein (TetR-family) EthR	4327.55	23724.7
+Rv3862c	whiB6	Possible transcriptional regulatory protein WhiB-like WhiB6	4338.17	12792.4

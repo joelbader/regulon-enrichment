@@ -1,0 +1,14 @@
+all_function_categories.csv
+CDC1551_genes.fa
+blast_results.xml
+__pycache__/
+EDGE-pro_output/*
+RNAseq_rawReads/*
+2002_CDC1551_blast_db/
+Downloads/1-s2.0-S147297920400023X-mmc1.xls
+Downloads/2002_CDC1551_annot.gbk
+Downloads/CDC1551_genomic.gbff
+Downloads/MMI_2779_sm_sup.xlsx
+Downloads/tfoe.searchable_130115.xlsx
+Analysis_Output/
+*.swp

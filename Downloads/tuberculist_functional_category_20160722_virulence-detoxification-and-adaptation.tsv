@@ -1,0 +1,239 @@
+Rv0024	Rv0024	Putative secreted protein P60-related protein	28.362	30276.4
+Rv0064A	vapB1	Possible antitoxin VapB1	71.589	8717.84
+Rv0065	vapC1	Possible toxin VapC1	71.821	14339.4
+Rv0126	treS	Trehalose synthase TreS	152.324	68593
+Rv0127	mak	Maltokinase Mak	154.232	49879.1
+Rv0134	ephF	Possible epoxide hydrolase EphF (epoxide hydratase) (arene-oxide hydratase)	161.771	33796.7
+Rv0167	yrbE1A	Conserved integral membrane protein YrbE1A	196.861	27743.1
+Rv0168	yrbE1B	Conserved integral membrane protein YrbE1B	197.66	30281.4
+Rv0169	mce1A	Mce-family protein Mce1A	198.534	47786.4
+Rv0170	mce1B	Mce-family protein Mce1B	199.895	37727.2
+Rv0171	mce1C	Mce-family protein Mce1C	200.932	53817.3
+Rv0172	mce1D	Mce-family protein Mce1D	202.476	56498.4
+Rv0174	mce1F	Mce-family protein Mce1F	205.231	54005.4
+Rv0186A	mymT	Metallothionein, MymT	218.39	5718.63
+Rv0239	vapB24	Possible antitoxin VapB24	289.104	9138.34
+Rv0240	vapC24	Possible toxin VapC24. Contains PIN domain.	289.345	16393.7
+Rv0251c	hsp	Heat shock protein Hsp (heat-stress-induced ribosome-binding protein A)	302.173	17785.9
+Rv0262c	aac	Aminoglycoside 2'-N-acetyltransferase Aac (Aac(2')-IC)	314.309	20005.6
+Rv0277c	vapC25	Possible toxin VapC25. Contains PIN domain.	332.708	15887.3
+Rv0277A	vapB25	Possible antitoxin VapB25	333.16	9049.99
+Rv0300	vapB2	Possible antitoxin VapB2	363.826	8088.31
+Rv0301	vapC2	Possible toxin VapC2	364.044	15713.9
+Rv0350	dnaK	Probable chaperone protein DnaK (heat shock protein 70) (heat shock 70 kDa protein) (HSP70)	419.835	66830.9
+Rv0351	grpE	Probable GrpE protein (HSP-70 cofactor)	421.709	24500.6
+Rv0352	dnaJ1	Probable chaperone protein DnaJ1	422.452	41345.1
+Rv0353	hspR	Probable heat shock protein transcriptional repressor HspR (MerR family)	423.639	14126.2
+Rv0384c	clpB	Probable endopeptidase ATP binding protein (chain B) ClpB (ClpB protein) (heat shock protein F84.1)	459.456	92536.2
+Rv0432	sodC	Periplasmic superoxide dismutase [Cu-Zn] SodC	519.6	23844.5
+Rv0440	groEL2	60 kDa chaperonin 2 GroEL2 (protein CPN60-2) (GroEL protein 2) (65 kDa antigen) (heat shock protein 65) (cell wall protein A) (antigen A)	528.608	56726.7
+Rv0456A	mazF1	Possible toxin MazF1	547.076	9925.4
+Rv0456B	mazE1	Possible antitoxin MazE1	547.344	6772.83
+Rv0549c	vapC3	Possible toxin VapC3	640.228	14667.8
+Rv0550c	vapB3	Possible antitoxin VapB3	640.638	9525.76
+Rv0554	bpoC	Possible peroxidase BpoC (non-haem peroxidase)	645.467	28349.4
+Rv0563	htpX	Probable protease transmembrane protein heat shock protein HtpX	653.879	30681.9
+Rv0581	vapB26	Possible antitoxin VapB26	677.71	7572.66
+Rv0582	vapC26	Possible toxin VapC26. Contains PIN domain.	677.922	14471.4
+Rv0587	yrbE2A	Conserved hypothetical integral membrane protein YrbE2A	685.129	27327.3
+Rv0588	yrbE2B	Conserved hypothetical integral membrane protein YrbE2B	685.928	30968.1
+Rv0589	mce2A	Mce-family protein Mce2A	686.821	43456.5
+Rv0590	mce2B	Mce-family protein Mce2B	688.032	29164.3
+Rv0590A	Rv0590A	Mce-family related protein	688.808	9180.56
+Rv0591	mce2C	Mce-family protein Mce2C	689.059	50764.1
+Rv0592	mce2D	Mce-family protein Mce2D	690.501	54539.8
+Rv0594	mce2F	Mce-family protein Mce2F	693.237	54194.3
+Rv0595c	vapC4	Possible toxin VapC4	694.839	14080.1
+Rv0596c	vapB4	Possible antitoxin VapB4	695.228	9681.06
+Rv0598c	vapC27	Possible toxin VapC27. Contains PIN domain.	697.154	14786.1
+Rv0599c	vapB27	Possible antitoxin VapB27	697.564	8212.41
+Rv0608	vapB28	Possible antitoxin VapB28	703.244	8813.12
+Rv0609	vapC28	Possible toxin VapC28. Contains PIN domain.	703.486	14501.2
+Rv0616A	vapB29	Possible antitoxin VapB29	710.782	8163.17
+Rv0617	vapC29	Possible toxin VapC29. Contains PIN domain.	711.006	13937.8
+Rv0623	vapB30	Possible antitoxin VapB30	716.41	9139.52
+Rv0624	vapC30	Possible toxin VapC30. Contains PIN domain.	716.664	14250
+Rv0626	vapB5	Possible antitoxin VapB5	718.025	9492.84
+Rv0627	vapC5	Possible toxin VapC5	718.282	14376.4
+Rv0634c	Rv0634c	Possible glyoxalase II (hydroxyacylglutathione hydrolase) (GLX II)	730.32	25896.1
+Rv0656c	vapC6	Possible toxin VapC6	752.984	13941.7
+Rv0657c	vapB6	Possible antitoxin VapB6	753.462	5872.72
+Rv0659c	mazF2	Toxin MazF2	754.685	11320.1
+Rv0660c	mazE2	Possible antitoxin MazE2	754.98	9169.01
+Rv0661c	vapC7	Possible toxin VapC7	755.335	15245.4
+Rv0662c	vapB7	Possible antitoxin VapB7	755.769	9450.99
+Rv0664	vapB8	Possible antitoxin VapB8	758.532	9250.2
+Rv0665	vapC8	Possible toxin VapC8	758.801	11558.3
+Rv0748	vapB31	Possible antitoxin VapB31	840.947	9114.28
+Rv0749	vapC31	Possible toxin VapC31. Contains PIN domain.	841.228	15831.3
+Rv0798c	cfp29	29 KDa antigen CFP29	891.472	28830.4
+Rv0871	cspB	Probable cold shock-like protein B CspB	967.898	14989
+Rv0959A	vapB9	Possible antitoxin VapB9	1073.33	7917.97
+Rv0960	vapC9	Possible toxin VapC9	1073.55	13859
+Rv1026	Rv1026	Conserved protein	1147.02	33631.4
+Rv1082	mca	Mycothiol conjugate amidase Mca (mycothiol S-conjugate amidase)	1206.52	32699.7
+Rv1085c	Rv1085c	Possible hemolysin-like protein	1209.76	26034.5
+Rv1102c	mazF3	Toxin MazF3	1230.66	11049.8
+Rv1103c	mazE3	Possible antitoxin MazE3	1230.97	11394.8
+Rv1113	vapB32	Possible antitoxin VapB32	1239.42	6973.03
+Rv1114	vapC32	Possible toxin VapC32. Contains PIN domain.	1239.61	13444.6
+Rv1123c	bpoB	Possible peroxidase BpoB (non-haem peroxidase)	1246.14	32543.7
+Rv1124	ephC	Probable epoxide hydrolase EphC (epoxide hydratase)	1247.13	34694.6
+Rv1241	vapB33	Possible antitoxin VapB33	1384.28	9918.25
+Rv1242	vapC33	Possible toxin VapC33. Contains PIN domain.	1384.54	15873.1
+Rv1246c	relE	Toxin RelE	1388.69	11031.6
+Rv1247c	relB	Antitoxin RelB	1388.97	9766.97
+Rv1397c	vapC10	Possible toxin VapC10	1574.11	14952.4
+Rv1398c	vapB10	Possible antitoxin VapB10	1574.51	9443.58
+Rv1477	ripA	Peptidoglycan hydrolase	1666.99	49808.1
+Rv1478	Rv1478	Possible invasion protein	1668.42	24624
+Rv1494	mazE4	Possible antitoxin MazE4	1686.27	11173.4
+Rv1495	mazF4	Possible toxin MazF4	1686.57	11378
+Rv1560	vapB11	Possible antitoxin VapB11	1764.76	8209.32
+Rv1561	vapC11	Possible toxin VapC11	1764.98	14650.8
+Rv1562c	treZ	Maltooligosyltrehalose trehalohydrolase TreZ	1765.4	64076.7
+Rv1563c	treY	Maltooligosyltrehalose synthase TreY	1767.14	82706.8
+Rv1564c	treX	Probable maltooligosyltrehalose synthase TreX	1769.44	81081.1
+Rv1566c	Rv1566c	Possible Inv protein	1773.93	23964.6
+Rv1608c	bcpB	Probable peroxidoxin BcpB	1807.3	16894.5
+Rv1636	TB15.3	Iron-regulated universal stress protein family protein TB15.3	1842.45	15312.4
+Rv1694	tlyA	2'-O-methyltransferase TlyA	1917.94	28042.1
+Rv1720c	vapC12	Possible toxin VapC12	1947.03	13818
+Rv1721c	vapB12	Possible antitoxin VapB12	1947.42	8226.39
+Rv1740	vapB34	Possible antitoxin VapB34	1967.7	7607.8
+Rv1741	vapC34	Possible toxin VapC34. Contains PIN domain.	1967.92	8884.14
+Rv1838c	vapC13	Possible toxin VapC13	2087.26	14693.9
+Rv1839c	vapB13	Possible antitoxin VapB13	2087.65	10438.7
+Rv1901	cinA	Probable CinA-like protein CinA	2147.66	45512
+Rv1908c	katG	Catalase-peroxidase-peroxynitritase T KatG	2153.89	80572.8
+Rv1932	tpx	Probable thiol peroxidase Tpx	2183.37	16896.1
+Rv1938	ephB	Probable epoxide hydrolase EphB (epoxide hydratase)	2191.03	39265.3
+Rv1942c	mazF5	Possible toxin MazF5	2194.64	11787.8
+Rv1943c	mazE5	Possible antitoxin MazE5	2194.97	13560.1
+Rv1952	vapB14	Possible antitoxin VapB14	2200.73	7667.82
+Rv1953	vapC14	Possible toxin VapC14	2200.94	11596.3
+Rv1955	higB	Possible toxin HigB	2201.72	14397.8
+Rv1956	higA	Possible antitoxin HigA	2202.14	16760.2
+Rv1959c	parE1	Possible toxin ParE1	2203.68	11268.6
+Rv1960c	parD1	Possible antitoxin ParD1	2203.97	9207.17
+Rv1962c	vapC35	Possible toxin VapC35. Contains PIN domain.	2204.87	14488.6
+Rv1962A	vapB35	Possible antitoxin VapB35	2205.28	9786.26
+Rv1964	yrbE3A	Conserved hypothetical integral membrane protein YrbE3A	2207.7	27493.8
+Rv1965	yrbE3B	Conserved hypothetical integral membrane protein YrbE3B	2208.51	28144
+Rv1966	mce3A	Mce-family protein Mce3A	2209.33	45000.1
+Rv1967	mce3B	Mce-family protein Mce3B	2210.6	36515
+Rv1968	mce3C	Mce-family protein Mce3C	2211.63	43671.7
+Rv1969	mce3D	Mce-family protein Mce3D	2212.85	44387.7
+Rv1971	mce3F	Mce-family protein Mce3F	2215.26	46725.5
+Rv1982c	vapC36	Possible toxin VapC36. Contains PIN domain.	2225.41	14724.9
+Rv1982A	vapB36	Possible antitoxin VapB36	2225.84	9528.88
+Rv1991c	mazF6	Toxin MazF6	2234.3	12230.1
+Rv1991A	mazE6	Antitoxin MazE6	2234.64	9290.34
+Rv1996	Rv1996	Universal stress protein family protein	2239	33879.7
+Rv2005c	Rv2005c	Universal stress protein family protein	2251	30985.4
+Rv2006	otsB1	Probable trehalose-6-phosphate phosphatase OtsB1 (trehalose-phosphatase) (TPP)	2252	145752
+Rv2009	vapB15	Antitoxin VapB15	2258.03	8851.73
+Rv2010	vapC15	Toxin VapC15	2258.27	14731
+Rv2026c	Rv2026c	Universal stress protein family protein	2271.86	31456
+Rv2028c	Rv2028c	Universal stress protein family protein	2274.57	29441.6
+Rv2031c	hspX	Heat shock protein HspX (alpha-crystallin homolog) (14 kDa antigen) (HSP16.3)	2278.5	16227.3
+Rv2063	mazE7	Antitoxin MazE7	2320.83	8450.25
+Rv2063A	mazF7	Possible toxin MazF7	2321.06	14217.4
+Rv2103c	vapC37	Possible toxin VapC37. Contains PIN domain.	2364.09	15662.1
+Rv2104c	vapB37	Possible antitoxin VapB37	2364.53	9417.57
+Rv2142c	parE2	Possible toxin ParE2	2402.19	12312.9
+Rv2142A	parD2	Possible antitoxin ParD2	2402.51	7880.7
+Rv2190c	Rv2190c	Conserved hypothetical protein	2452.11	39738.1
+Rv2214c	ephD	Possible short-chain dehydrogenase EphD	2479.92	64029.8
+Rv2231A	vapC16	Possible toxin VapC16	2505.74	15424.5
+Rv2231B	vapB16	Possible antitoxin VapB16	2506.21	6490.67
+Rv2238c	ahpE	Probable peroxiredoxin AhpE	2510.72	16819
+Rv2274c	mazF8	Possible toxin MazF8	2546.49	11045.7
+Rv2274A	mazE8	Possible antitoxin MazE8	2546.84	9255.63
+Rv2299c	htpG	Probable chaperone protein HtpG (heat shock protein) (HSP90 family protein) (high temperature protein G)	2570.06	72961.1
+Rv2303c	Rv2303c	Probable antibiotic-resistance protein	2574.1	34550.5
+Rv2319c	Rv2319c	Universal stress protein family protein	2591.85	31834.6
+Rv2373c	dnaJ2	Probable chaperone protein DnaJ2	2652.84	40456.8
+Rv2374c	hrcA	Probable heat shock protein transcriptional repressor HrcA	2654.06	36474.5
+Rv2416c	eis	Enhanced intracellular survival protein Eis, GCN5-related N-acetyltransferase	2714.12	43771.8
+Rv2427A	oxyR'	Transcriptional regulator OxyR', pseudogene	2725.57	18544.1
+Rv2428	ahpC	Alkyl hydroperoxide reductase C protein AhpC (alkyl hydroperoxidase C)	2726.19	21566.3
+Rv2429	ahpD	Alkyl hydroperoxide reductase D protein AhpD (alkyl hydroperoxidase D)	2726.81	18780.6
+Rv2493	vapB38	Possible antitoxin VapB38	2808.08	7864.93
+Rv2494	vapC38	Possible toxin VapC38. Contains PIN domain.	2808.31	15392.9
+Rv2521	bcp	Probable bacterioferritin comigratory protein Bcp	2837.68	17045.3
+Rv2526	vapB17	Possible antitoxin VapB17	2851.09	8242.33
+Rv2527	vapC17	Possible toxin VapC17	2851.31	15175.3
+Rv2530c	vapC39	Possible toxin VapC39. Contains PIN domain.	2854.27	14732.7
+Rv2530A	vapB39	Possible antitoxin VapB39	2854.68	7993.94
+Rv2545	vapB18	Possible antitoxin VapB18	2867.78	10093.8
+Rv2546	vapC18	Possible toxin VapC18	2868.15	15045
+Rv2547	vapB19	Possible antitoxin VapB19	2868.61	9453.63
+Rv2548	vapC19	Possible toxin VapC19	2868.86	13728.7
+Rv2549c	vapC20	Possible toxin VapC20	2869.73	14619.5
+Rv2550c	vapB20	Possible antitoxin VapB20	2870.12	9098.33
+Rv2581c	Rv2581c	Possible glyoxalase II (hydroxyacylglutathione hydrolase) (GLX II)	2906.09	24165.6
+Rv2595	vapB40	Possible antitoxin VapB40	2925.49	9249.66
+Rv2596	vapC40	Possible toxin VapC40. Contains PIN domain.	2925.73	14382.3
+Rv2601A	vapB41	Possible antitoxin VapB41	2930.07	10454
+Rv2602	vapC41	Possible toxin VapC41. Contains PIN domain.	2930.34	16026.4
+Rv2623	TB31.7	Universal stress protein family protein TB31.7	2949.59	31652.1
+Rv2624c	Rv2624c	Universal stress protein family protein	2950.49	29400.5
+Rv2740	ephG	Epoxide hydrolase	3053.23	16593
+Rv2757c	vapC21	Possible toxin VapC21	3070.17	15773
+Rv2758c	vapB21	Possible antitoxin VapB21	3070.58	9493.77
+Rv2759c	vapC42	Possible toxin VapC42. Contains PIN domain.	3070.88	14340
+Rv2760c	vapB42	Possible antitoxin VapB42	3071.27	10115.3
+Rv2801c	mazF9	Toxin MazF9	3110.17	12858.7
+Rv2801A	mazE9	Possible antitoxin MazE9	3110.51	8231.01
+Rv2829c	vapC22	Possible toxin VapC22	3136.62	14610.7
+Rv2830c	vapB22	Possible antitoxin VapB22	3137.01	7483.5
+Rv2862A	vapB23	Possible antitoxin VapB23	3174.75	9514.61
+Rv2863	vapC23	Possible toxin VapC23	3174.99	14237.3
+Rv2865	relF	Antitoxin RelF	3177.54	10183.4
+Rv2866	relG	Toxin RelG	3177.82	10204.8
+Rv2871	vapB43	Possible antitoxin VapB43	3183.14	9013.22
+Rv2872	vapC43	Possible toxin VapC43. Contains PIN domain.	3183.38	16595.7
+Rv3063	cstA	Probable carbon starvation protein A homolog CstA	3427.24	80131.2
+Rv3082c	virS	Virulence-regulating transcriptional regulator VirS (AraC/XylS family)	3447.4	37789.3
+Rv3098A	Rv3098A	PemK-like protein	3467.61	11826.6
+Rv3100c	smpB	Probable SSRA-binding protein SmpB	3469.3	18197.7
+Rv3134c	Rv3134c	Universal stress protein family protein	3499.94	28007.9
+Rv3168	Rv3168	Putative aminoglycoside phosphotransferase	3536.1	42529.2
+Rv3171c	hpx	Possible non-heme haloperoxidase Hpx	3539.85	32127.8
+Rv3176c	mesT	Probable epoxide hydrolase MesT (epoxide hydratase) (arene-oxide hydratase)	3544.34	35229.7
+Rv3177	Rv3177	Possible peroxidase (non-haem peroxidase)	3545.45	30880.9
+Rv3269	Rv3269	Conserved protein	3650.23	9750.17
+Rv3320c	vapC44	Possible toxin VapC44. Contains PIN domain.	3707.64	15834.2
+Rv3321c	vapB44	Possible antitoxin VapB44	3708.07	8849.86
+Rv3357	relJ	Antitoxin RelJ	3770.77	10194.3
+Rv3358	relK	Toxin RelK	3771.04	10070.3
+Rv3372	otsB2	Trehalose 6-phosphate phosphatase OtsB2 (trehalose-phosphatase) (TPP)	3786.31	41688.2
+Rv3384c	vapC46	Possible toxin VapC46. Contains PIN domain.	3799.24	14316.7
+Rv3385c	vapB46	Possible antitoxin VapB46	3799.64	11030.6
+Rv3407	vapB47	Possible antitoxin VapB47	3826.25	11009.7
+Rv3408	vapC47	Possible toxin VapC47. Contains PIN domain.	3826.55	14669.8
+Rv3417c	groEL1	60 kDa chaperonin 1 GroEL1 (protein CPN60-1) (GroEL protein 1)	3835.27	55877.5
+Rv3418c	groES	10 kDa chaperonin GroES (protein CPN10) (protein GroES) (BCG-a heat shock protein) (10 kDa antigen)	3836.99	10772.2
+Rv3473c	bpoA	Possible peroxidase BpoA (non-haem peroxidase)	3889.95	28172.7
+Rv3490	otsA	Alpha, alpha-trehalose-phosphate synthase [UDP-forming] OtsA (trehalose-6-phosphate synthase) (UDP-glucose-glucosephosphate glucosyltransferase) (trehalosephosphate-UDP glucosyltransferase) (trehalose-6-phosphate synthetase) (trehalose-phosphate synthase) (trehalose-phosphate synthetase) (transglucosylase) (trehalosephosphate-UDP glucosyl transferase)	3908.24	55862.5
+Rv3494c	mce4F	Mce-family protein Mce4F	3911.68	59636.8
+Rv3496c	mce4D	Mce-family protein Mce4D	3914.53	47201.4
+Rv3497c	mce4C	Mce-family protein Mce4C	3915.88	38132.4
+Rv3498c	mce4B	Mce-family protein Mce4B	3916.95	36880.3
+Rv3499c	mce4A	Mce-family protein Mce4A	3918	42418.3
+Rv3500c	yrbE4B	Conserved integral membrane protein YrbE4B. Possible ABC transporter.	3919.22	29563.5
+Rv3501c	yrbE4A	Conserved integral membrane protein YrbE4A. Possible ABC transporter.	3920.1	26621.7
+Rv3617	ephA	Probable epoxide hydrolase EphA (epoxide hydratase) (arene-oxide hydratase)	4057.73	35096.6
+Rv3648c	cspA	Probable cold shock protein A CspA	4088.33	7370.2
+Rv3660c	Rv3660c	Conserved hypothetical protein	4098.1	35807.2
+Rv3661	Rv3661	Conserved hypothetical protein	4099.65	30679.1
+Rv3670	ephE	Possible epoxide hydrolase EphE (epoxide hydratase) (arene-oxide hydratase)	4111.35	36333.6
+Rv3697c	vapC48	Possible toxin VapC48. Contains PIN domain.	4139.81	16312.8
+Rv3697A	vapB48	Possible antitoxin VapB48	4140.24	8464.61
+Rv3756c	proZ	Possible osmoprotectant (glycine betaine/carnitine/choline/L-proline) transport integral membrane protein ABC transporter ProZ	4201.89	24181.9
+Rv3757c	proW	Possible osmoprotectant (glycine betaine/carnitine/choline/L-proline) transport integral membrane protein ABC transporter ProW	4202.61	24108.9
+Rv3758c	proV	Possible osmoprotectant (glycine betaine/carnitine/choline/L-proline) transport ATP-binding protein ABC transporter ProV	4203.29	39552.3
+Rv3759c	proX	Possible osmoprotectant (glycine betaine/carnitine/choline/L-proline) binding lipoprotein ProX	4204.43	33357.9
+Rv3846	sodA	Superoxide dismutase [FE] SodA	4320.7	23001.9
+Rv3922c	Rv3922c	Possible hemolysin	4410.05	13311.2

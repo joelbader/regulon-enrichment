@@ -1,0 +1,772 @@
+Rv0007	Rv0007	Possible conserved membrane protein	9.914	31040.9
+Rv0008c	Rv0008c	Possible membrane protein	11.874	15670.9
+Rv0010c	Rv0010c	Probable conserved membrane protein	13.133	15166.7
+Rv0011c	Rv0011c	Probable conserved transmembrane protein	13.714	10429.7
+Rv0012	Rv0012	Probable conserved membrane protein	14.089	28337.5
+Rv0016c	pbpA	Probable penicillin-binding protein PbpA	18.759	51575.6
+Rv0017c	rodA	Probable cell division protein RodA	20.231	50610.8
+Rv0037c	Rv0037c	Probable conserved integral membrane protein	39.877	45834.1
+Rv0039c	Rv0039c	Possible conserved transmembrane protein	42.004	11292.3
+Rv0040c	mtc28	Secreted proline rich protein Mtc28 (proline rich 28 kDa antigen)	42.433	31923.5
+Rv0048c	Rv0048c	Possible membrane protein	51.828	30785
+Rv0050	ponA1	Probable bifunctional penicillin-binding protein 1A/1B PonA1 (murein polymerase) (PBP1): penicillin-insensitive transglycosylase (peptidoglycan TGASE) + penicillin-sensitive transpeptidase (DD-transpeptidase)	53.663	71118.3
+Rv0051	Rv0051	Probable conserved transmembrane protein	55.696	61208.5
+Rv0064	Rv0064	Probable conserved transmembrane protein	68.62	107369
+Rv0072	Rv0072	Probable glutamine-transport transmembrane protein ABC transporter	80.624	36410.1
+Rv0073	Rv0073	Probable glutamine-transport ATP-binding protein ABC transporter	81.676	35768.9
+Rv0076c	Rv0076c	Probable membrane protein	85.183	14649.1
+Rv0090	Rv0090	Possible membrane protein	98.48	27805.7
+Rv0092	ctpA	Cation transporter P-type ATPase a CtpA	100.583	78850.7
+Rv0093c	Rv0093c	Probable conserved membrane protein	102.815	29599
+Rv0102	Rv0102	Probable conserved integral membrane protein	117.714	70356.6
+Rv0103c	ctpB	Probable cation-transporter P-type ATPase B CtpB	119.915	77477.4
+Rv0107c	ctpI	Probable cation-transporter ATPase I CtpI	125.643	169575
+Rv0110	Rv0110	Probable conserved integral membrane protein	133.02	26887.9
+Rv0112	gca	Possible GDP-mannose 4,6-dehydratase Gca (GDP-D-mannose dehydratase)	136.289	35280.4
+Rv0113	gmhA	Probable sedoheptulose-7-phosphate isomerase GmhA (phosphoheptose isomerase)	137.319	20890.6
+Rv0114	gmhB	Possible D-alpha,beta-D-heptose-1,7-biphosphate phosphatase GmhB (D-glycero-D-manno-heptose 7-phosphate kinase)	137.941	20511.4
+Rv0115	hddA	Possible D-alpha-D-heptose-7-phosphate kinase HddA	138.513	40826.5
+Rv0116c	ldtA	Probable L,D-transpeptidase LdtA	140.267	26915.7
+Rv0128	Rv0128	Probable conserved transmembrane protein	155.667	27529.8
+Rv0143c	Rv0143c	Probable conserved transmembrane protein	168.704	50808.1
+Rv0173	lprK	Possible Mce-family lipoprotein LprK (Mce-family lipoprotein Mce1E)	204.065	42239.6
+Rv0175	Rv0175	Probable conserved Mce associated membrane protein	206.814	22323.9
+Rv0176	Rv0176	Probable conserved Mce associated transmembrane protein	207.452	35405.1
+Rv0178	Rv0178	Probable conserved Mce associated membrane protein	208.938	25879.7
+Rv0179c	lprO	Possible lipoprotein LprO	209.703	39160.3
+Rv0180c	Rv0180c	Probable conserved transmembrane protein	210.892	47593.4
+Rv0188	Rv0188	Probable conserved transmembrane protein	219.486	15124.7
+Rv0191	Rv0191	Probable conserved integral membrane protein	222.289	42910.9
+Rv0192A	Rv0192A	Conserved secreted protein	223.607	11474.3
+Rv0194	Rv0194	Probable transmembrane multidrug efflux pump	226.878	129251
+Rv0199	Rv0199	Probable conserved membrane protein	236.55	23520.3
+Rv0200	Rv0200	Possible conserved transmembrane protein	237.206	24028.8
+Rv0202c	mmpL11	Probable conserved transmembrane transport protein MmpL11	238.392	103502
+Rv0203	Rv0203	Possible exported protein	241.514	13901
+Rv0204c	Rv0204c	Probable conserved transmembrane protein	241.976	44004.2
+Rv0205	Rv0205	Probable conserved transmembrane protein	243.384	38038.1
+Rv0206c	mmpL3	Possible conserved transmembrane transport protein MmpL3	244.484	100872
+Rv0218	Rv0218	Probable conserved transmembrane protein	260.924	47361.6
+Rv0219	Rv0219	Probable conserved transmembrane protein	262.254	20082.6
+Rv0225	Rv0225	Possible conserved protein	268.663	42054.3
+Rv0226c	Rv0226c	Probable conserved transmembrane protein	269.834	59107.2
+Rv0227c	Rv0227c	Probable conserved membrane protein	271.574	45527.8
+Rv0229c	Rv0229c	Possible conserved membrane protein with PIN domain	274.306	25183.8
+Rv0235c	Rv0235c	Probable conserved transmembrane protein	281.166	54837.2
+Rv0236c	aftD	Possible arabinofuranosyltransferase AftD	282.649	146248
+Rv0236A	Rv0236A	Small secreted protein	286.898	5833.81
+Rv0237	lpqI	Probable conserved lipoprotein LpqI	287.186	39518.9
+Rv0246	Rv0246	Probable conserved integral membrane protein	296.809	45293.6
+Rv0261c	narK3	Probable integral membrane nitrite extrusion protein NarK3 (nitrite facilitator)	312.759	49356.5
+Rv0265c	Rv0265c	Probable periplasmic iron-transport lipoprotein	316.511	35252.3
+Rv0267	narU	Probable integral membrane nitrite extrusion protein NarU (nitrite facilitator)	321.331	49133.5
+Rv0282	eccA3	ESX conserved component EccA3. ESX-3 type VII secretion system protein.	342.13	68106.6
+Rv0283	eccB3	ESX conserved component EccB3. ESX-3 type VII secretion system protein. Possible membrane protein.	344.022	55942.5
+Rv0284	eccC3	ESX conserved component EccC3. ESX-3 type VII secretion system protein. Possible membrane protein.	345.635	145138
+Rv0287	esxG	ESAT-6 like protein EsxG (conserved protein TB9.8)	351.525	9777.94
+Rv0288	esxH	Low molecular weight protein antigen 7 EsxH (10 kDa antigen) (CFP-7) (protein TB10.4)	351.848	10390.6
+Rv0289	espG3	ESX-3 secretion-associated protein EspG3	352.149	31558.8
+Rv0290	eccD3	ESX conserved component EccD3. ESX-3 type VII secretion system protein. Probable transmembrane protein.	353.083	47944
+Rv0292	eccE3	ESX conserved component EccE3. ESX-3 type VII secretion system protein. Probable transmembrane protein.	355.88	35932.1
+Rv0308	Rv0308	Probable conserved integral membrane protein	377.113	25613.4
+Rv0309	Rv0309	Possible conserved exported protein	377.931	22528.8
+Rv0314c	Rv0314c	Possible conserved membrane protein	382.879	22531.2
+Rv0318c	Rv0318c	Probable conserved integral membrane protein	386.305	27208.1
+Rv0320	Rv0320	Possible conserved exported protein	387.888	23058.2
+Rv0341	iniB	Isoniazid inductible gene protein IniB	409.362	43921.2
+Rv0342	iniA	Isoniazid inductible gene protein IniA	410.838	70082.9
+Rv0343	iniC	Isoniazid inductible gene protein IniC	412.757	52986.9
+Rv0344c	lpqJ	Probable lipoprotein LpqJ	414.381	19276.7
+Rv0346c	ansP2	Possible L-asparagine permease AnsP2 (L-asparagine transport protein)	415.502	52194.7
+Rv0347	Rv0347	Probable conserved membrane protein	417.304	36565
+Rv0359	Rv0359	Probable conserved integral membrane protein	437.518	28089.3
+Rv0361	Rv0361	Probable conserved membrane protein	438.822	29982.3
+Rv0362	mgtE	Possible Mg2+ transport transmembrane protein MgtE	439.871	49285.3
+Rv0364	Rv0364	Possible conserved transmembrane protein	442.395	24489.1
+Rv0379	secE2	Possible protein transport protein SecE2	455.977	7966.14
+Rv0383c	Rv0383c	Possible conserved secreted protein	458.461	31801.4
+Rv0394c	Rv0394c	Possible secreted protein	474.122	25278.7
+Rv0398c	Rv0398c	Possible secreted protein	476.679	21655.3
+Rv0399c	lpqK	Possible conserved lipoprotein LpqK	477.327	44308.7
+Rv0401	Rv0401	Probable conserved transmembrane protein	479.789	12641.1
+Rv0402c	mmpL1	Probable conserved transmembrane transport protein MmpL1	480.355	104806
+Rv0403c	mmpS1	Probable conserved membrane protein MmpS1	483.228	15260.6
+Rv0411c	glnH	Probable glutamine-binding lipoprotein GlnH (GLNBP)	497.314	35405.7
+Rv0412c	Rv0412c	Possible conserved membrane protein	498.3	47083.6
+Rv0418	lpqL	Probable lipoprotein aminopeptidase LpqL	503.496	52042.4
+Rv0419	lpqM	Possible lipoprotein peptidase LpqM	505.086	52949.1
+Rv0420c	Rv0420c	Possible transmembrane protein	506.561	15113.4
+Rv0425c	ctpH	Possible metal cation transporting P-type ATPase CtpH	510.702	159773
+Rv0426c	Rv0426c	Possible transmembrane protein	515.373	13930.2
+Rv0431	Rv0431	Putative tuberculin related peptide	519.073	16905.2
+Rv0435c	Rv0435c	Putative conserved ATPase	522.347	75314
+Rv0446c	Rv0446c	Possible conserved transmembrane protein	534.445	28221
+Rv0450c	mmpL4	Probable conserved transmembrane transport protein MmpL4	538.588	105202
+Rv0451c	mmpS4	Probable conserved membrane protein MmpS4	541.488	15371.5
+Rv0461	Rv0461	Probable transmembrane protein	552.026	18589.6
+Rv0463	Rv0463	Probable conserved membrane protein	554.016	10111.1
+Rv0473	Rv0473	Possible conserved transmembrane protein	563.564	50556.9
+Rv0475	hbhA	Iron-regulated heparin binding hemagglutinin HbhA (adhesin)	565.797	21534.5
+Rv0476	Rv0476	Possible conserved transmembrane protein	566.508	9166.13
+Rv0477	Rv0477	Possible conserved secreted protein	566.776	15658.5
+Rv0479c	Rv0479c	Probable conserved membrane protein	567.921	37016
+Rv0482	murB	Probable UDP-N-acetylenolpyruvoylglucosamine reductase MurB (UDP-N-acetylmuramate dehydrogenase)	570.539	38521
+Rv0483	lprQ	Probable conserved lipoprotein LprQ	571.71	47858.8
+Rv0488	Rv0488	Probable conserved integral membrane protein	577.664	20950.9
+Rv0497	Rv0497	Probable conserved transmembrane protein	587.377	33092.1
+Rv0506	mmpS2	Probable conserved membrane protein MmpS2	596.759	15931.6
+Rv0507	mmpL2	Probable conserved transmembrane transport protein MmpL2	597.199	106202
+Rv0513	Rv0513	Possible conserved transmembrane protein	605.604	19401.3
+Rv0514	Rv0514	Possible transmembrane protein	606.149	10291
+Rv0518	Rv0518	Possible exported protein	610.188	24603.9
+Rv0519c	Rv0519c	Possible conserved membrane protein	611.172	31349.7
+Rv0522	gabP	Probable GABA permease GabP (4-amino butyrate transport carrier) (GAMA-aminobutyrate permease)	613.038	46030.8
+Rv0528	Rv0528	Probable conserved transmembrane protein	618.305	57131.2
+Rv0531	Rv0531	Possible conserved membrane protein	622.329	11436.5
+Rv0537c	Rv0537c	Probable integral membrane protein	628.298	50170.4
+Rv0538	Rv0538	Possible conserved membrane protein	630.04	55076
+Rv0541c	Rv0541c	Probable conserved integral membrane protein	633.055	47728.2
+Rv0544c	Rv0544c	Possible conserved transmembrane protein	635.935	9747.62
+Rv0545c	pitA	Probable low-affinity inorganic phosphate transporter integral membrane protein PitA	636.21	42713
+Rv0556	Rv0556	Probable conserved transmembrane protein	647.959	18725
+Rv0559c	Rv0559c	Possible conserved secreted protein	650.407	12116.7
+Rv0583c	lpqN	Probable conserved lipoprotein LpqN	678.389	23682.4
+Rv0584	Rv0584	Possible conserved exported protein	679.229	92953
+Rv0585c	Rv0585c	Probable conserved integral membrane protein	681.885	84041.6
+Rv0593	lprL	Possible Mce-family lipoprotein LprL (Mce-family lipoprotein Mce2E)	692.024	43142.3
+Rv0603	Rv0603	Possible exported protein	699.856	10182.1
+Rv0604	lpqO	Probable conserved lipoprotein LpqO	700.239	32887.1
+Rv0615	Rv0615	Probable integral membrane protein	710.345	8221.76
+Rv0621	Rv0621	Possible membrane protein	714.202	36801.3
+Rv0622	Rv0622	Possible membrane protein	715.37	33420.3
+Rv0625c	Rv0625c	Probable conserved transmembrane protein	717.153	25212.1
+Rv0633c	Rv0633c	Possible exported protein	729.327	32261.7
+Rv0638	secE1	Probable preprotein translocase SecE1	733.737	16924.3
+Rv0655	mkl	Possible ribonucleotide-transport ATP-binding protein ABC transporter Mkl	751.517	39362.2
+Rv0658c	Rv0658c	Probable conserved integral membrane protein	753.693	25095
+Rv0666	Rv0666	Possible membrane protein	759.136	5816.75
+Rv0671	lpqP	Possible conserved lipoprotein LpqP	770.582	29579.4
+Rv0676c	mmpL5	Probable conserved transmembrane transport protein MmpL5	775.586	104785
+Rv0677c	mmpS5	Possible conserved membrane protein MmpS5	778.477	15248.5
+Rv0680c	Rv0680c	Probable conserved transmembrane protein	780.042	13166.9
+Rv0686	Rv0686	Probable membrane protein	786.149	28543.2
+Rv0713	Rv0713	Probable conserved transmembrane protein	809.946	33925.1
+Rv0724	sppA	Possible protease IV SppA (endopeptidase IV) (signal peptide peptidase)	815.663	65935.9
+Rv0732	secY	Probable preprotein translocase SecY	824.8	47579.3
+Rv0774c	Rv0774c	Probable conserved exported protein	867.44	30653.9
+Rv0779c	Rv0779c	Possible conserved transmembrane protein	872.672	21572.2
+Rv0783c	emrB	Possible multidrug resistance integral membrane efflux protein EmrB	876.818	56587
+Rv0806c	cpsY	Possible UDP-glucose-4-epimerase CpsY (galactowaldenase) (UDP-galactose-4-epimerase) (uridine diphosphate galactose-4-epimerase) (uridine diphospho-galactose-4-epimerase)	899.732	60268
+Rv0817c	Rv0817c	Probable conserved exported protein	910.03	28567.7
+Rv0820	phoT	Probable phosphate-transport ATP-binding protein ABC transporter PhoT	912.726	28029.1
+Rv0821c	phoY2	Probable phosphate-transport system transcriptional regulatory protein PhoY2	913.558	23513.8
+Rv0835	lpqQ	Possible lipoprotein LpqQ	930.953	22870.7
+Rv0838	lpqR	Probable conserved lipoprotein LpqR	934.72	27288.9
+Rv0841	Rv0841	Probable conserved transmembrane protein	937.593	8118.54
+Rv0842	Rv0842	Probable conserved integral membrane protein	938.112	43836.6
+Rv0847	lpqS	Probable lipoprotein LpqS	944.343	13486.7
+Rv0849	Rv0849	Probable conserved integral membrane transport protein	946.056	44513.8
+Rv0867c	rpfA	Possible resuscitation-promoting factor RpfA	964.312	39974.7
+Rv0870c	Rv0870c	Possible conserved integral membrane protein	967.344	13687.8
+Rv0875c	Rv0875c	Possible conserved exported protein	973.806	17800.5
+Rv0876c	Rv0876c	Possible conserved transmembrane protein	974.291	57937.5
+Rv0879c	Rv0879c	Possible conserved transmembrane protein	978.481	9512.22
+Rv0882	Rv0882	Probable transmembrane protein	980.225	9629.48
+Rv0888	Rv0888	Probable exported protein	987.233	52034.2
+Rv0899	ompA	Outer membrane protein A OmpA	1002.81	33542.1
+Rv0900	Rv0900	Possible membrane protein	1003.8	5244.97
+Rv0901	Rv0901	Possible conserved exported or membrane protein	1003.96	18909.5
+Rv0907	Rv0907	Conserved protein	1010.14	56718.3
+Rv0908	ctpE	Probable metal cation transporter ATPase P-type CtpE	1011.73	84973.5
+Rv0912	Rv0912	Probable conserved transmembrane protein	1016.24	15438.2
+Rv0917	betP	Possible glycine betaine transport integral membrane protein BetP	1022.09	63868.5
+Rv0924c	mntH	Divalent cation-transport integral membrane protein MntH (BRAMP) (MRAMP)	1030.58	44972.3
+Rv0928	pstS3	Periplasmic phosphate-binding lipoprotein PstS3 (PBP-3) (PstS3) (PHOS1)	1034.9	37935.1
+Rv0929	pstC2	Phosphate-transport integral membrane ABC transporter PstC2	1036.03	34229.5
+Rv0930	pstA1	Probable phosphate-transport integral membrane ABC transporter PstA1	1037	33466
+Rv0932c	pstS2	Periplasmic phosphate-binding lipoprotein PstS2 (PBP-2) (PstS2)	1039.94	37832
+Rv0933	pstB	Phosphate-transport ATP-binding protein ABC transporter PstB	1041.26	29996.4
+Rv0934	pstS1	Periplasmic phosphate-binding lipoprotein PstS1 (PBP-1) (PstS1)	1042.11	38211.1
+Rv0935	pstC1	Phosphate-transport integral membrane ABC transporter PstC1	1043.3	34793.4
+Rv0936	pstA2	Phosphate-transport integral membrane ABC transporter PstA2	1044.32	32235.9
+Rv0954	Rv0954	Probable conserved transmembrane protein	1065.13	30203.7
+Rv0955	Rv0955	Probable conserved integral membrane protein	1066.08	46056.5
+Rv0961	Rv0961	Probable integral membrane protein	1074.07	12382.7
+Rv0962c	lprP	Possible lipoprotein LprP	1074.44	24398.5
+Rv0969	ctpV	Probable metal cation transporter P-type ATPase CtpV	1078.74	80102.5
+Rv0970	Rv0970	Probable conserved integral membrane protein	1081.05	22887.3
+Rv0985c	mscL	Possible large-conductance ion mechanosensitive channel MscL	1101.03	16023.5
+Rv0986	Rv0986	Probable adhesion component transport ATP-binding protein ABC transporter	1101.8	27373.1
+Rv0987	Rv0987	Probable adhesion component transport transmembrane protein ABC transporter	1102.54	93605.8
+Rv0988	Rv0988	Possible conserved exported protein	1105.12	42776
+Rv0996	Rv0996	Probable conserved transmembrane protein	1112.38	39519.2
+Rv1002c	Rv1002c	Conserved membrane protein	1118.43	55498.9
+Rv1004c	Rv1004c	Probable membrane protein	1120.89	38753.8
+Rv1008	tatD	Probable deoxyribonuclease TatD (YJJV protein)	1127.09	29065.1
+Rv1009	rpfB	Probable resuscitation-promoting factor RpfB	1128.09	38078.4
+Rv1016c	lpqT	Probable conserved lipoprotein LpqT	1134.79	24062.5
+Rv1018c	glmU	Probable UDP-N-acetylglucosamine pyrophosphorylase GlmU	1136.57	51584
+Rv1022	lpqU	Probable conserved lipoprotein LpqU	1143.74	25800.2
+Rv1024	Rv1024	Possible conserved membrane protein	1145.86	24570
+Rv1028A	kdpF	Probable membrane protein KdpF	1151.92	3256.01
+Rv1029	kdpA	Probable potassium-transporting ATPase a chain KdpA (potassium-translocating ATPase a chain) (ATP phosphohydrolase [potassium-transporting] a chain) (potassium binding and translocating subunit A)	1152.01	60163.2
+Rv1030	kdpB	Probable potassium-transporting P-type ATPase B chain KdpB (potassium-translocating ATPase B chain) (ATP phosphohydrolase [potassium-transporting] B chain) (potassium binding and translocating subunit B)	1153.72	74601.5
+Rv1031	kdpC	Probable potassium-transporting ATPase C chain KdpC (potassium-translocating ATPase C chain) (ATP phosphohydrolase [potassium-transporting] C chain) (potassium binding and translocating subunit C)	1155.85	20027.9
+Rv1037c	esxI	Putative ESAT-6 like protein EsxI (ESAT-6 like protein 1)	1160.54	9832.78
+Rv1038c	esxJ	ESAT-6 like protein EsxJ (ESAT-6 like protein 2)	1160.85	10993.2
+Rv1064c	lpqV	Possible lipoprotein LpqV	1186.9	14078
+Rv1072	Rv1072	Probable conserved transmembrane protein	1196.28	29111.4
+Rv1075c	Rv1075c	Conserved exported protein	1199.43	32847.1
+Rv1081c	Rv1081c	Probable conserved membrane protein	1205.98	15384.7
+Rv1086	Rv1086	Short (C15) chain Z-isoprenyl diphosphate synthase (Z-FPP synthase) (Z-farnesyl diphosphate synthase) (Z-FPP synthetase) (Z-farnesyl diphosphate synthetase) (geranyltranstransferase) (farnesyl pyrophosphate synthetase)	1210.59	29378.2
+Rv1087A	Rv1087A	Conserved hypothetical protein	1214.04	11526
+Rv1097c	Rv1097c	Probable membrane glycine and proline rich protein	1225.26	29873.6
+Rv1101c	Rv1101c	Conserved membrane protein	1229.39	41698.6
+Rv1110	lytB2	Probable LYTB-related protein LytB2	1236.19	36297.1
+Rv1115	Rv1115	Possible exported protein	1240.19	24050.3
+Rv1132	Rv1132	Conserved membrane protein	1257.32	64019.7
+Rv1139c	Rv1139c	Conserved hypothetical membrane protein	1266.48	18962.7
+Rv1140	Rv1140	Probable integral membrane protein	1267.35	30425.8
+Rv1145	mmpL13a	Probable conserved transmembrane transport protein MmpL13a	1272.42	32545.8
+Rv1146	mmpL13b	Probable conserved transmembrane transport protein MmpL13b	1273.35	50027.4
+Rv1159	pimE	Mannosyltransferase PimE	1284.99	47102.4
+Rv1166	lpqW	Probable conserved lipoprotein LpqW	1296.15	66130.2
+Rv1174c	TB8.4	Low molecular weight T-cell antigen TB8.4	1305.67	10881.3
+Rv1183	mmpL10	Probable conserved transmembrane transport protein MmpL10	1321.52	106383
+Rv1184c	Rv1184c	Possible exported protein	1324.53	37818.4
+Rv1197	esxK	ESAT-6 like protein EsxK (ESAT-6 like protein 3)	1340.66	10963.2
+Rv1198	esxL	Putative ESAT-6 like protein EsxL (ESAT-6 like protein 4)	1341.01	9927.97
+Rv1200	Rv1200	Probable conserved integral membrane transport protein	1342.94	44575.5
+Rv1216c	Rv1216c	Probable conserved integral membrane protein	1359.47	24861.6
+Rv1217c	Rv1217c	Probable tetronasin-transport integral membrane protein ABC transporter	1360.16	56618.3
+Rv1218c	Rv1218c	Probable tetronasin-transport ATP-binding protein ABC transporter	1361.8	33448.1
+Rv1224	tatB	Probable protein TatB	1367.46	14082
+Rv1226c	Rv1226c	Probable transmembrane protein	1368.83	52598.5
+Rv1227c	Rv1227c	Probable transmembrane protein	1370.29	19370.3
+Rv1228	lpqX	Probable lipoprotein LpqX	1370.92	19513.1
+Rv1230c	Rv1230c	Possible membrane protein	1372.96	41384.8
+Rv1231c	Rv1231c	Probable membrane protein	1374.32	20413.3
+Rv1233c	Rv1233c	Conserved hypothetical membrane protein	1376.23	19898.7
+Rv1234	Rv1234	Probable transmembrane protein	1376.98	18604.5
+Rv1235	lpqY	Probable sugar-binding lipoprotein LpqY	1377.52	49761.4
+Rv1236	sugA	Probable sugar-transport integral membrane protein ABC transporter SugA	1378.93	33019
+Rv1237	sugB	Probable sugar-transport integral membrane protein ABC transporter SugB	1379.85	29125.7
+Rv1238	sugC	Probable sugar-transport ATP-binding protein ABC transporter SugC	1380.68	42915.2
+Rv1239c	corA	Possible magnesium and cobalt transport transmembrane protein CorA	1381.94	41468.8
+Rv1244	lpqZ	Probable lipoprotein LpqZ	1386.86	29569.9
+Rv1249c	Rv1249c	Possible membrane protein	1393.19	27571.3
+Rv1250	Rv1250	Probable drug-transport integral membrane protein	1394.18	60908.2
+Rv1252c	lprE	Probable lipoprotein LprE	1399.3	20409.8
+Rv1258c	Rv1258c	Probable conserved integral membrane transport protein	1406.08	43287.3
+Rv1269c	Rv1269c	Conserved probable secreted protein	1418.58	12550.2
+Rv1270c	lprA	Possible lipoprotein LprA	1419.01	24874
+Rv1271c	Rv1271c	Conserved hypothetical secreted protein	1419.96	11589.2
+Rv1272c	Rv1272c	Probable drugs-transport transmembrane ATP-binding protein ABC transporter	1420.41	68272.6
+Rv1273c	Rv1273c	Probable drugs-transport transmembrane ATP-binding protein ABC transporter	1422.3	62116
+Rv1274	lprB	Possible lipoprotein LprB	1424.2	19707.2
+Rv1275	lprC	Possible lipoprotein LprC	1424.75	18870.7
+Rv1280c	oppA	Probable periplasmic oligopeptide-binding lipoprotein OppA	1431.67	63444.5
+Rv1281c	oppD	Probable oligopeptide-transport ATP-binding protein ABC transporter OppD	1433.43	65293
+Rv1282c	oppC	Probable oligopeptide-transport integral membrane protein ABC transporter OppC	1435.27	31374.2
+Rv1283c	oppB	Probable oligopeptide-transport integral membrane protein ABC transporter OppB	1436.14	35083.2
+Rv1291c	Rv1291c	Conserved hypothetical secreted protein	1445.5	11025.5
+Rv1302	rfe	Probable undecapaprenyl-phosphate alpha-N-acetylglucosaminyltransferase Rfe (UDP-GlcNAc transferase)	1458.3	42225
+Rv1303	Rv1303	Conserved hypothetical transmembrane protein	1459.77	16862.9
+Rv1312	Rv1312	Conserved hypothetical secreted protein	1467.69	16594.4
+Rv1315	murA	Probable UDP-N-acetylglucosamine 1-carboxyvinyltransferase MurA	1470.32	44031.4
+Rv1337	Rv1337	Probable integral membrane protein	1504.36	25702.6
+Rv1338	murI	Probable glutamate racemase MurI	1505.07	28642.8
+Rv1342c	Rv1342c	Conserved membrane protein	1508.18	13382
+Rv1343c	lprD	Probable conserved lipoprotein LprD	1508.54	14241.2
+Rv1348	irtA	Iron-regulated transporter IrtA	1513.05	92965.9
+Rv1349	irtB	Iron-regulated transporter IrtB	1515.62	60954.4
+Rv1362c	Rv1362c	Possible membrane protein	1533.95	23471.2
+Rv1363c	Rv1363c	Possible membrane protein	1534.61	28308.3
+Rv1368	lprF	Probable conserved lipoprotein LprF	1541.02	26851.6
+Rv1371	Rv1371	Probable conserved membrane protein	1543.36	55092.3
+Rv1382	Rv1382	Probable export or membrane protein	1555.48	18189.1
+Rv1401	Rv1401	Possible membrane protein	1576.93	21257.3
+Rv1410c	Rv1410c	Aminoglycosides/tetracycline-transport integral membrane protein	1586.21	54688.5
+Rv1411c	lprG	Conserved lipoprotein LprG	1587.77	24547.8
+Rv1417	Rv1417	Possible conserved membrane protein	1592.15	16351.1
+Rv1418	lprH	Probable lipoprotein LprH	1592.64	24287.7
+Rv1424c	Rv1424c	Possible membrane protein	1598.89	27427.5
+Rv1431	Rv1431	Conserved membrane protein	1608.08	65322.2
+Rv1433	Rv1433	Possible conserved exported protein	1611.43	28701.5
+Rv1435c	Rv1435c	Probable conserved proline, glycine, valine-rich secreted protein	1612.34	18487.8
+Rv1440	secG	Probable protein-export membrane protein (translocase subunit) SecG	1617.84	8162.87
+Rv1456c	Rv1456c	Probable unidentified antibiotic-transport integral membrane ABC transporter	1641.49	32336.5
+Rv1457c	Rv1457c	Probable unidentified antibiotic-transport integral membrane ABC transporter	1642.54	27338.7
+Rv1458c	Rv1458c	Probable unidentified antibiotic-transport ATP-binding protein ABC transporter	1643.32	33726.6
+Rv1459c	Rv1459c	Possible conserved integral membrane protein	1644.36	62693.4
+Rv1463	Rv1463	Probable conserved ATP-binding protein ABC transporter	1650.72	28822.7
+Rv1469	ctpD	Probable cation transporter P-type ATPase D CtpD	1656.96	67885
+Rv1473	Rv1473	Probable macrolide-transport ATP-binding protein ABC transporter	1660.66	58392.2
+Rv1476	Rv1476	Possible membrane protein	1666.2	19601.1
+Rv1481	Rv1481	Probable membrane protein	1671.38	36029.9
+Rv1487	Rv1487	Conserved membrane protein	1676.94	15159
+Rv1488	Rv1488	Possible exported conserved protein	1677.4	41250.2
+Rv1490	Rv1490	Probable membrane protein	1679.32	48117.8
+Rv1491c	Rv1491c	Conserved membrane protein	1681.21	26543.5
+Rv1496	Rv1496	Possible transport system kinase	1686.88	36256.4
+Rv1508c	Rv1508c	Probable membrane protein	1698.09	63856.9
+Rv1510	Rv1510	Conserved probable membrane protein	1701.3	44293.4
+Rv1517	Rv1517	Conserved hypothetical transmembrane protein	1708.87	26864.3
+Rv1522c	mmpL12	Probable conserved transmembrane transport protein MmpL12	1714.17	122398
+Rv1539	lspA	Probable lipoprotein signal peptidase LspA	1742.24	21312.8
+Rv1541c	lprI	Possible lipoprotein LprI	1743.78	21624.4
+Rv1557	mmpL6	Probable conserved transmembrane transport protein MmpL6	1761.74	42389.5
+Rv1565c	Rv1565c	Conserved hypothetical membrane protein	1771.64	80162.7
+Rv1567c	Rv1567c	Probable hypothetical membrane protein	1774.86	10362.2
+Rv1591	Rv1591	Probable transmembrane protein	1791.57	23150.8
+Rv1607	chaA	Probable ionic transporter integral membrane protein ChaA	1806.18	36771.6
+Rv1610	Rv1610	Possible conserved membrane protein	1809.44	24586.5
+Rv1614	lgt	Possible prolipoprotein diacylglyceryl transferases Lgt	1813.17	50392.2
+Rv1615	Rv1615	Probable membrane protein	1815.25	15441.9
+Rv1616	Rv1616	Conserved membrane protein	1815.68	14029.7
+Rv1619	Rv1619	Conserved membrane protein	1818.57	52642.1
+Rv1624c	Rv1624c	Probable conserved membrane protein	1826	20371.7
+Rv1634	Rv1634	Possible drug efflux membrane protein	1839.17	47681.2
+Rv1635c	Rv1635c	Probable mannosyltransferase. Probable conserved transmembrane protein.	1840.57	60035.2
+Rv1639c	Rv1639c	Conserved hypothetical membrane protein	1846.99	51791.9
+Rv1648	Rv1648	Probable transmembrane protein	1857.73	28142.3
+Rv1667c	Rv1667c	Probable second part of macrolide-transport ATP-binding protein ABC transporter	1893.58	24439.6
+Rv1668c	Rv1668c	Probable first part of macrolide-transport ATP-binding protein ABC transporter	1894.22	40339.1
+Rv1671	Rv1671	Probable membrane protein	1896.47	14266.9
+Rv1672c	Rv1672c	Probable conserved integral membrane transport protein	1896.88	45633.5
+Rv1677	dsbF	Probable conserved lipoprotein DsbF	1901.75	19205.8
+Rv1678	Rv1678	Probable integral membrane protein	1902.4	31637.2
+Rv1686c	Rv1686c	Probable conserved integral membrane protein ABC transporter	1911.4	24392.3
+Rv1687c	Rv1687c	Probable conserved ATP-binding protein ABC transporter	1912.15	27557.7
+Rv1690	lprJ	Probable lipoprotein LprJ	1915.53	13106.2
+Rv1698	mctB	Outer membrane protein MctB	1922.74	32391.4
+Rv1704c	cycA	Probable D-serine/alanine/glycine transporter protein CycA	1929.79	60047.2
+Rv1707	Rv1707	Probable conserved transmembrane protein	1934.88	51171.1
+Rv1708	Rv1708	Putative initiation inhibitor protein	1936.36	34362.4
+Rv1709	scpA	Possible segregation and condensation protein ScpA	1937.31	30536.8
+Rv1710	scpB	Possible segregation and condensation protein ScpB	1938.15	25244.6
+Rv1730c	Rv1730c	Possible penicillin-binding protein	1955.69	55782.9
+Rv1733c	Rv1733c	Probable conserved transmembrane protein	1959.85	22457.8
+Rv1735c	Rv1735c	Hypothetical membrane protein	1961.29	17769.8
+Rv1737c	narK2	Possible nitrate/nitrite transporter NarK2	1964.18	41109.1
+Rv1739c	Rv1739c	Probable sulphate-transport transmembrane protein ABC transporter	1965.95	59366.9
+Rv1744c	Rv1744c	Probable membrane protein	1970.99	12718
+Rv1747	Rv1747	Probable conserved transmembrane ATP-binding protein ABC transporter	1973.63	92121.2
+Rv1749c	Rv1749c	Possible integral membrane protein	1977.33	20596.9
+Rv1758	cut1	Probable cutinase Cut1	1989.04	17868.3
+Rv1761c	Rv1761c	Possible exported protein	1994.67	13487.5
+Rv1779c	Rv1779c	Possible integral membrane protein	2012.69	63511.7
+Rv1782	eccB5	ESX conserved component EccB5. ESX-5 type VII secretion system protein. Probable membrane protein.	2017.74	53689.2
+Rv1783	eccC5	ESX conserved component EccC5. ESX-5 type VII secretion system protein.	2019.26	152740
+Rv1792	esxM	ESAT-6 like protein EsxM	2030.35	10865.1
+Rv1793	esxN	Putative ESAT-6 like protein EsxN (ESAT-6 like protein 5)	2030.69	9941.95
+Rv1795	eccD5	ESX conserved component EccD5. ESX-5 type VII secretion system protein. Probable membrane protein.	2032.24	53435.2
+Rv1797	eccE5	ESX conserved component EccE5. ESX-5 type VII secretion system protein. Probable membrane protein.	2035.48	44178.1
+Rv1798	eccA5	ESX conserved component EccA5. ESX-5 type VII secretion system protein.	2036.7	67756.1
+Rv1799	lppT	Probable lipoprotein LppT	2039.16	6164.36
+Rv1811	mgtC	Possible Mg2+ transport P-type ATPase C MgtC	2053.44	24806.6
+Rv1819c	bacA	Probable drug-transport transmembrane ATP-binding protein ABC transporter BacA	2062.81	71299.1
+Rv1821	secA2	Possible preprotein translocase ATPase SecA2	2066.46	88919.7
+Rv1824	Rv1824	Conserved hypothetical membrane protein	2070.65	12750.2
+Rv1841c	Rv1841c	Conserved hypothetical membrane protein	2089.68	36685
+Rv1842c	Rv1842c	Conserved hypothetical membrane protein	2090.72	48092
+Rv1845c	blaR	Possible sensor-transducer protein BlaR	2095.22	32704.6
+Rv1857	modA	Probable molybdate-binding lipoprotein ModA	2104.99	26544.4
+Rv1858	modB	Probable molybdenum-transport integral membrane protein ABC transporter ModB	2105.77	27676.1
+Rv1859	modC	Probable molybdenum-transport ATP-binding protein ABC transporter ModC	2106.57	38610.2
+Rv1860	apa	Alanine and proline rich secreted protein Apa (fibronectin attachment protein) (immunogenic protein MPT32) (antigen MPT-32) (45-kDa glycoprotein) (45/47 kDa antigen)	2107.74	32720.8
+Rv1861	Rv1861	Probable conserved transmembrane protein	2109.17	10330.2
+Rv1863c	Rv1863c	Probable conserved integral membrane protein	2110.59	26939.1
+Rv1877	Rv1877	Probable conserved integral membrane protein	2125.9	72353.8
+Rv1881c	lppE	Possible conserved lipoprotein LppE	2131.91	14942.9
+Rv1884c	rpfC	Probable resuscitation-promoting factor RpfC	2133.73	18014.5
+Rv1888c	Rv1888c	Possible transmembrane protein	2137.52	21638.8
+Rv1892	Rv1892	Probable membrane protein	2140.17	11408.5
+Rv1899c	lppD	Possible lipoprotein LppD	2145.21	35071.8
+Rv1902c	nanT	Probable sialic acid-transport integral membrane protein NanT	2149.01	46420.6
+Rv1903	Rv1903	Probable conserved membrane protein	2150.36	15199.3
+Rv1910c	Rv1910c	Probable exported protein	2156.71	19849.6
+Rv1911c	lppC	Probable lipoprotein LppC	2157.38	19798.3
+Rv1920	Rv1920	Probable membrane protein	2171.62	31948.8
+Rv1921c	lppF	Probable conserved lipoprotein LppF	2172.52	44995.7
+Rv1922	Rv1922	Probable conserved lipoprotein	2174.07	39062
+Rv1926c	mpt63	Immunogenic protein Mpt63 (antigen Mpt63/MPB63) (16 kDa immunoprotective extracellular protein)	2178.96	16514
+Rv1946c	lppG	Possible lipoprotein	2197.51	15799.5
+Rv1970	lprM	Possible Mce-family lipoprotein LprM (Mce-family lipoprotein Mce3E)	2214.12	40184.4
+Rv1972	Rv1972	Probable conserved Mce associated membrane protein	2216.59	20601.4
+Rv1973	Rv1973	Possible conserved Mce associated membrane protein	2217.16	16792.1
+Rv1974	Rv1974	Probable conserved membrane protein	2217.66	13491.3
+Rv1979c	Rv1979c	Possible conserved permease	2221.72	51084.1
+Rv1980c	mpt64	Immunogenic protein Mpt64 (antigen Mpt64/MPB64)	2223.34	24823.1
+Rv1984c	cfp21	Probable cutinase precursor CFP21	2227.91	21782.4
+Rv1986	Rv1986	Probable conserved integral membrane protein	2230.01	20743.6
+Rv1987	Rv1987	Possible chitinase	2231.03	14919
+Rv1992c	ctpG	Probable metal cation transporter P-type ATPase G CtpG	2234.99	79277.4
+Rv1997	ctpF	Probable metal cation transporter P-type ATPase A CtpF	2240.16	95014.6
+Rv1999c	Rv1999c	Probable conserved integral membrane protein	2243.82	45267.4
+Rv2025c	Rv2025c	Conserved membrane protein	2270.75	35206.6
+Rv2037c	Rv2037c	Conserved transmembrane protein	2282.75	34656.5
+Rv2038c	Rv2038c	Probable sugar-transport ATP-binding protein ABC transporter	2283.72	38886.7
+Rv2039c	Rv2039c	Probable sugar-transport integral membrane protein ABC transporter	2284.8	31575.6
+Rv2040c	Rv2040c	Probable sugar-transport integral membrane protein ABC transporter	2285.63	33326.7
+Rv2041c	Rv2041c	Probable sugar-binding lipoprotein	2286.53	47876.2
+Rv2046	lppI	Probable lipoprotein LppI	2291.27	22202
+Rv2051c	ppm1	Polyprenol-monophosphomannose synthase Ppm1	2308.13	93792.4
+Rv2053c	fxsA	Probable transmembrane protein FxsA	2312.52	18086.3
+Rv2060	Rv2060	Possible conserved integral membrane protein	2316.28	13664.8
+Rv2075c	Rv2075c	Possible hypothetical exported or envelope protein	2331.42	51580.5
+Rv2077c	Rv2077c	Possible conserved transmembrane protein	2333.32	33321.3
+Rv2080	lppJ	Lipoprotein LppJ	2337.31	20323.7
+Rv2081c	Rv2081c	Conserved transmembrane protein	2338.06	14238.3
+Rv2091c	Rv2091c	Probable membrane protein	2348.56	26019.8
+Rv2093c	tatC	Sec-independent protein translocase transmembrane protein TatC	2352.1	33822.8
+Rv2094c	tatA	Sec-independent protein translocase membrane-bound protein TatA	2353.05	8909.12
+Rv2113	Rv2113	Probable integral membrane protein	2372.63	42394.2
+Rv2115c	mpa	Mycobacterial proteasome ATPase Mpa	2374.46	67401.1
+Rv2116	lppK	Conserved lipoprotein LppK	2376.57	19728.4
+Rv2120c	Rv2120c	Probable conserved integral membrane protein	2379.25	16371.5
+Rv2127	ansP1	L-asparagine permease AnsP1	2388.62	52429
+Rv2128	Rv2128	Conserved transmembrane protein	2390.08	7403.91
+Rv2136c	Rv2136c	Possible conserved transmembrane protein	2396.01	29733
+Rv2138	lppL	Probable conserved lipoprotein LppL	2397.33	36818.6
+Rv2144c	Rv2144c	Probable transmembrane protein	2404.17	12027.3
+Rv2145c	wag31	Diviva family protein Wag31	2404.62	28277.2
+Rv2146c	Rv2146c	Possible conserved transmembrane protein	2405.67	10804.3
+Rv2150c	ftsZ	Cell division protein FtsZ	2408.39	38755.9
+Rv2151c	ftsQ	Possible cell division protein FtsQ	2409.7	33933.5
+Rv2152c	murC	Probable UDP-N-acetylmuramate-alanine ligase MurC	2410.64	51144.5
+Rv2153c	murG	Probable UPD-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol-N-acetylglucosamine transferase MurG	2412.12	41828.1
+Rv2154c	ftsW	FtsW-like protein FtsW	2413.35	56304.6
+Rv2155c	murD	Probable UDP-N-acetylmuramoylalanine-D-glutamate ligase MurD	2414.93	49313.4
+Rv2156c	murX	Probable phospho-N-acetylmuramoyl-pentappeptidetransferase MurX	2416.4	37713.4
+Rv2157c	murF	Probable UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate-D-alanyl-D-alanyl ligase MurF	2417.47	51632.6
+Rv2158c	murE	Probable UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase MurE	2419	55308.7
+Rv2163c	pbpB	Probable penicillin-binding membrane protein PbpB	2425.05	72504.9
+Rv2164c	Rv2164c	Probable conserved proline rich membrane protein	2427.08	39647.5
+Rv2169c	Rv2169c	Probable conserved transmembrane protein	2431.56	14570.8
+Rv2171	lppM	Probable conserved lipoprotein LppM	2432.95	23814
+Rv2174	mptA	Alpha(1->6)mannosyltransferase. Possible conserved integral membrane protein.	2435.91	55293.7
+Rv2180c	Rv2180c	Probable conserved integral membrane protein	2442.33	33195.2
+Rv2181	Rv2181	Alpha(1->2)mannosyltransferase	2443.3	47143.1
+Rv2197c	Rv2197c	Probable conserved transmembrane protein	2461.5	22480.1
+Rv2198c	mmpS3	Probable conserved membrane protein MmpS3	2462.15	30955
+Rv2199c	Rv2199c	Possible conserved integral membrane protein	2463.23	14865.2
+Rv2203	Rv2203	Possible conserved membrane protein	2468.23	24371.6
+Rv2206	Rv2206	Probable conserved transmembrane protein	2470.62	26184.2
+Rv2209	Rv2209	Probable conserved integral membrane protein	2473.4	53579
+Rv2219	Rv2219	Probable conserved transmembrane protein	2486.24	26863.6
+Rv2219A	Rv2219A	Probable conserved membrane protein	2486.99	14704.7
+Rv2223c	Rv2223c	Probable exported protease	2493.84	55077.8
+Rv2224c	caeA	Probable carboxylesterase CaeA	2495.46	55892.4
+Rv2235	Rv2235	Probable conserved transmembrane protein	2507.64	29762.4
+Rv2253	Rv2253	Possible secreted unknown protein	2527.98	17831.3
+Rv2254c	Rv2254c	Probable integral membrane protein	2528.52	15849
+Rv2265	Rv2265	Possible conserved integral membrane protein	2538.7	41858.4
+Rv2270	lppN	Probable lipoprotein LppN	2544.7	18081.4
+Rv2272	Rv2272	Probable conserved transmembrane protein	2545.74	12962.2
+Rv2273	Rv2273	Probable conserved transmembrane protein	2546.1	11407.4
+Rv2281	pitB	Putative phosphate-transport permease PitB	2553.17	58789.4
+Rv2287	yjcE	Probable conserved integral membrane transport protein YjcE	2559.7	57491.4
+Rv2290	lppO	Probable conserved lipoprotein LppO	2562.6	17324.3
+Rv2301	cut2	Probable cutinase Cut2	2573.01	23894.1
+Rv2306A	Rv2306A	Possible conserved membrane protein	2577.11	21232.7
+Rv2306B	Rv2306B	Possible conserved membrane protein	2577.49	15939.4
+Rv2316	uspA	Probable sugar-transport integral membrane protein ABC transporter UspA	2588.84	31531.4
+Rv2317	uspB	Probable sugar-transport integral membrane protein ABC transporter UspB	2589.7	29931.5
+Rv2318	uspC	Probable periplasmic sugar-binding lipoprotein UspC	2590.52	46990.7
+Rv2320c	rocE	Probable cationic amino acid transport integral membrane protein RocE	2592.72	49928.7
+Rv2326c	Rv2326c	Possible transmembrane ATP-binding protein ABC transporter	2597.85	72835.5
+Rv2329c	narK1	Probable nitrite extrusion protein 1 NarK1 (nitrite facilitator 1)	2601.91	55136.4
+Rv2330c	lppP	Probable lipoprotein LppP	2603.7	18827.7
+Rv2333c	stp	Integral membrane drug efflux protein Stp	2606.71	57115.4
+Rv2339	mmpL9	Probable conserved transmembrane transport protein MmpL9	2614.69	104613
+Rv2341	lppQ	Probable conserved lipoprotein LppQ	2619.6	14140.9
+Rv2345	Rv2345	Possible conserved transmembrane protein	2623.82	70029.7
+Rv2346c	esxO	Putative ESAT-6 like protein EsxO (ESAT-6 like protein 6)	2625.89	9954.01
+Rv2347c	esxP	Putative ESAT-6 like protein EsxP (ESAT-6 like protein 7)	2626.22	10977.2
+Rv2361c	Rv2361c	Long (C50) chain Z-isoprenyl diphosphate synthase (Z-decaprenyl diphosphate synthase)	2642.58	33759.3
+Rv2366c	Rv2366c	Probable conserved transmembrane protein	2647.06	47195.2
+Rv2376c	cfp2	Low molecular weight antigen CFP2 (low molecular weight protein antigen 2) (CFP-2)	2655.61	16635
+Rv2389c	rpfD	Probable resuscitation-promoting factor RpfD	2683.25	15678.5
+Rv2395	Rv2395	Probable conserved integral membrane protein	2690.07	68251.6
+Rv2397c	cysA1	Sulfate-transport ATP-binding protein ABC transporter CysA1	2693.91	37443.8
+Rv2398c	cysW	Probable sulfate-transport integral membrane protein ABC transporter CysW	2694.98	29288.7
+Rv2399c	cysT	Probable sulfate-transport integral membrane protein ABC transporter CysT	2695.8	29682.9
+Rv2400c	subI	Probable sulfate-binding lipoprotein SubI	2696.64	37418.3
+Rv2401A	Rv2401A	Possible conserved membrane protein	2698.04	7402.83
+Rv2403c	lppR	Probable conserved lipoprotein LppR	2700.53	26306.8
+Rv2434c	Rv2434c	Probable conserved transmembrane protein	2729.11	52272.6
+Rv2437	Rv2437	Conserved transmembrane protein	2734.38	15283
+Rv2443	dctA	Probable C4-dicarboxylate-transport transmembrane protein DctA	2740.71	50988
+Rv2446c	Rv2446c	Probable conserved integral membrane protein	2745.77	13310.9
+Rv2450c	rpfE	Probable resuscitation-promoting factor RpfE	2751.66	17438.2
+Rv2456c	Rv2456c	Probable conserved integral membrane transport protein	2756.94	43133.4
+Rv2459	Rv2459	Probable conserved integral membrane transport protein	2760.85	53479.4
+Rv2462c	tig	Probable trigger factor (TF) protein Tig	2763.89	50584
+Rv2473	Rv2473	Possible alanine and proline rich membrane protein	2775.57	25101.3
+Rv2477c	Rv2477c	Probable macrolide-transport ATP-binding protein ABC transporter	2782.37	61893.1
+Rv2507	Rv2507	Possible conserved proline rich membrane protein	2822.44	28520.2
+Rv2508c	Rv2508c	Probable conserved integral membrane leucine and alanine rich protein	2823.26	46074.1
+Rv2518c	ldtB	Probable L,D-transpeptidase LdtB	2834.11	43365.9
+Rv2520c	Rv2520c	Possible conserved membrane protein	2837.39	8341.7
+Rv2536	Rv2536	Probable conserved transmembrane protein	2860.45	24626.3
+Rv2543	lppA	Probable conserved lipoprotein LppA	2866.47	24148.4
+Rv2544	lppB	Probable conserved lipoprotein LppB	2867.12	24175.4
+Rv2553c	Rv2553c	Probable conserved membrane protein	2872.01	45473.8
+Rv2560	Rv2560	Probable proline and glycine rich transmembrane protein	2880.07	33124.4
+Rv2563	Rv2563	Probable glutamine-transport transmembrane protein ABC transporter	2882.29	36025.4
+Rv2564	glnQ	Probable glutamine-transport ATP-binding protein ABC transporter GlnQ	2883.34	35428.7
+Rv2571c	Rv2571c	Probable transmembrane alanine and valine and leucine rich protein	2894.89	36789.9
+Rv2575	Rv2575	Possible conserved membrane glycine rich protein	2899.34	30806.2
+Rv2576c	Rv2576c	Possible conserved membrane protein	2900.23	15760.9
+Rv2585c	Rv2585c	Possible conserved lipoprotein	2911	58602.6
+Rv2586c	secF	Probable protein-export membrane protein SecF	2912.68	47013.6
+Rv2587c	secD	Probable protein-export membrane protein SecD	2914.01	60235.1
+Rv2588c	yajC	Probable conserved membrane protein secretion factor YajC	2915.85	12966.6
+Rv2597	Rv2597	Probable membrane protein	2926.35	21910.9
+Rv2599	Rv2599	Probable conserved membrane protein	2927.48	14954.8
+Rv2600	Rv2600	Probable conserved integral membrane protein	2927.99	13645.5
+Rv2609c	Rv2609c	Probable conserved membrane protein	2936.81	38096.4
+Rv2617c	Rv2617c	Probable transmembrane protein	2945.85	15584.4
+Rv2620c	Rv2620c	Probable conserved transmembrane protein	2947.46	14606.7
+Rv2625c	Rv2625c	Probable conserved transmembrane alanine and leucine rich protein	2951.32	41480.2
+Rv2637	dedA	Possible transmembrane protein DedA	2963.59	23003.2
+Rv2639c	Rv2639c	Probable conserved integral membrane protein	2965.03	11719.8
+Rv2643	arsC	Probable arsenic-transport integral membrane protein ArsC	2966.91	53225.8
+Rv2668	Rv2668	Possible exported alanine and valine rich protein	2984.73	18345.8
+Rv2673	aftC	Possible arabinofuranosyltransferase AftC	2989.29	48882.7
+Rv2684	arsA	Probable arsenic-transport integral membrane protein ArsA	3000.61	45155.7
+Rv2685	arsB1	Probable arsenic-transport integral membrane protein ArsB1	3001.98	45237.7
+Rv2686c	Rv2686c	Antibiotic-transport integral membrane leucine and alanine and valine rich protein ABC transporter	3003.28	27111.5
+Rv2687c	Rv2687c	Antibiotic-transport integral membrane leucine and valine rich protein ABC transporter	3004.03	25575.9
+Rv2688c	Rv2688c	Antibiotic-transport ATP-binding protein ABC transporter	3004.75	33099.7
+Rv2690c	Rv2690c	Probable conserved integral membrane alanine and valine and leucine rich protein	3007.24	70770
+Rv2691	ceoB	TRK system potassium uptake protein CeoB	3009.34	24239.5
+Rv2692	ceoC	TRK system potassium uptake protein CeoC	3010.02	23947.4
+Rv2693c	Rv2693c	Probable conserved integral membrane alanine and leucine rich protein	3010.7	23768.9
+Rv2698	Rv2698	Probable conserved alanine rich transmembrane protein	3014.17	17530.5
+Rv2700	Rv2700	Possible conserved secreted alanine rich protein	3015.2	22627.5
+Rv2709	Rv2709	Probable conserved transmembrane protein	3021.84	16810.4
+Rv2719c	Rv2719c	Possible conserved membrane protein	3031.04	17323.8
+Rv2721c	Rv2721c	Possible conserved transmembrane alanine and glycine rich protein	3032.52	72339.7
+Rv2723	Rv2723	Probable conserved integral membrane protein	3034.91	43679.4
+Rv2729c	Rv2729c	Probable conserved integral membrane alanine valine and leucine rich protein	3041.57	31028
+Rv2732c	Rv2732c	Probable conserved transmembrane protein	3044.38	21989.4
+Rv2743c	Rv2743c	Possible conserved transmembrane alanine rich protein	3056.42	28961.6
+Rv2748c	ftsK	Possible cell division transmembrane protein FtsK	3059.85	94406.5
+Rv2767c	Rv2767c	Possible membrane protein	3076.37	12937.8
+Rv2772c	Rv2772c	Probable conserved transmembrane protein	3081.12	17326.3
+Rv2784c	lppU	Probable lipoprotein LppU	3092.95	18133.3
+Rv2790c	ltp1	Probable lipid-transfer protein Ltp1	3098.96	42904.1
+Rv2796c	lppV	Probable conserved lipoprotein LppV	3105.06	20197
+Rv2799	Rv2799	Probable membrane protein	3107.77	22870
+Rv2806	Rv2806	Possible membrane protein	3113.27	6904.13
+Rv2832c	ugpC	Probable Sn-glycerol-3-phosphate transport ATP-binding protein ABC transporter UgpC	3138.1	39311
+Rv2833c	ugpB	Probable Sn-glycerol-3-phosphate-binding lipoprotein UgpB	3139.17	46725.3
+Rv2834c	ugpE	Probable Sn-glycerol-3-phosphate transport integral membrane protein ABC transporter UgpE	3140.49	30583.4
+Rv2835c	ugpA	Probable Sn-glycerol-3-phosphate transport integral membrane protein ABC transporter UgpA	3141.31	34110.8
+Rv2843	Rv2843	Probable conserved transmembrane alanine rich protein	3150.17	17735.1
+Rv2846c	efpA	Possible integral membrane efflux protein EfpA	3153.04	55579.5
+Rv2856	nicT	Possible nickel-transport integral membrane protein NicT	3166.68	40534.4
+Rv2864c	Rv2864c	Possible penicillin-binding lipoprotein	3175.45	63014.4
+Rv2869c	rip	Membrane bound metalloprotease	3180.55	42834.2
+Rv2873	mpt83	Cell surface lipoprotein Mpt83 (lipoprotein P23)	3183.91	22070.1
+Rv2875	mpt70	Major secreted immunogenic protein Mpt70	3187.03	19072.5
+Rv2876	Rv2876	Possible conserved transmembrane protein	3187.66	11805.5
+Rv2877c	Rv2877c	Probable conserved integral membrane protein	3188.01	29289.7
+Rv2878c	mpt53	Soluble secreted antigen Mpt53 precursor	3188.88	18383
+Rv2903c	lepB	Probable signal peptidase I LepB (SPASE I) (leader peptidase I).	3212.97	31848.2
+Rv2905	lppW	Probable conserved alanine rich lipoprotein LppW	3214.63	33402
+Rv2911	dacB2	Probable penicillin-binding protein DacB2 (D-alanyl-D-alanine carboxypeptidase) (DD-peptidase) (DD-carboxypeptidase) (PBP) (DD-transpeptidase) (serine-type D-ala-D-ala carboxypeptidase) (D-amino acid hydrolase)	3218.34	29746.7
+Rv2916c	ffh	Probable signal recognition particle protein Ffh (fifty-four homolog) (SRP protein)	3224.71	54969.5
+Rv2920c	amt	Probable ammonium-transport integral membrane protein Amt	3231.07	49209.4
+Rv2921c	ftsY	Probable cell division protein FtsY (SRP receptor) (signal recognition particle receptor)	3232.87	43999.2
+Rv2922c	smc	Probable chromosome partition protein Smc	3234.19	130605
+Rv2936	drrA	Daunorubicin-dim-transport ATP-binding protein ABC transporter DrrA	3272.21	35818.2
+Rv2937	drrB	Daunorubicin-dim-transport integral membrane protein ABC transporter DrrB	3273.21	31108.9
+Rv2938	drrC	Probable daunorubicin-dim-transport integral membrane protein ABC transporter DrrC	3274.07	29593.4
+Rv2942	mmpL7	Conserved transmembrane transport protein MmpL7	3285.07	95121.9
+Rv2945c	lppX	Probable conserved lipoprotein LppX	3290.62	24140.2
+Rv2963	Rv2963	Probable integral membrane protein	3315.24	43696.6
+Rv2965c	kdtB	Probable phosphopantetheine adenylyltransferase KdtB (pantetheine- phosphate adenylyltransferase) (PPAT) (dephospho-CoA pyrophosphorylase)	3318.33	17628.3
+Rv2968c	Rv2968c	Probable conserved integral membrane protein	3323.07	23100.7
+Rv2969c	Rv2969c	Possible conserved membrane or secreted protein	3323.71	26829.5
+Rv2972c	Rv2972c	Possible conserved membrane or exported protein	3327.02	25856.1
+Rv2980	Rv2980	Possible conserved secreted protein	3335.96	18752.5
+Rv2981c	ddlA	Probable D-alanine--D-alanine ligase DdlA (D-alanylalanine synthetase) (D-ala-D-ala ligase)	3336.8	39678.2
+Rv2994	Rv2994	Probable conserved integral membrane protein	3351.27	47046.1
+Rv2999	lppY	Probable conserved lipoprotein LppY	3357.6	33949.6
+Rv3000	Rv3000	Possible conserved transmembrane protein	3358.61	23399.6
+Rv3004	cfp6	Low molecular weight protein antigen 6 (CFP-6)	3363.35	12223.3
+Rv3006	lppZ	Probable conserved lipoprotein LppZ	3364.71	38752.1
+Rv3016	lpqA	Probable lipoprotein LpqA	3375.76	22143.1
+Rv3017c	esxQ	ESAT-6 like protein EsxQ (TB12.9) (ESAT-6 like protein 8)	3376.49	12922.3
+Rv3019c	esxR	Secreted ESAT-6 like protein EsxR (TB10.3) (ESAT-6 like protein 9)	3378.71	10312.4
+Rv3020c	esxS	ESAT-6 like protein EsxS	3379.04	9842.03
+Rv3036c	TB22.2	Probable conserved secreted protein TB22.2	3396.46	24406.7
+Rv3041c	Rv3041c	Probable conserved ATP-binding protein ABC transporter	3401.05	31249.4
+Rv3044	fecB	Probable FEIII-dicitrate-binding periplasmic lipoprotein FecB	3405.14	36910.4
+Rv3064c	Rv3064c	Probable conserved integral membrane protein	3429.82	15133.8
+Rv3065	mmr	Multidrugs-transport integral membrane protein Mmr	3430.39	11065.3
+Rv3069	Rv3069	Probable conserved transmembrane protein	3433.69	14268.8
+Rv3070	Rv3070	Probable conserved integral membrane protein	3434.09	13166.6
+Rv3092c	Rv3092c	Probable conserved integral membrane protein	3460.81	31852.8
+Rv3101c	ftsX	Putative cell division protein FtsX (septation component-transport integral membrane protein ABC transporter)	3469.79	32787.4
+Rv3102c	ftsE	Putative cell division ATP-binding protein FtsE (septation component-transport ATP-binding protein ABC transporter)	3470.68	25596.5
+Rv3104c	Rv3104c	Possible conserved transmembrane protein	3471.85	33380.6
+Rv3162c	Rv3162c	Possible integral membrane protein	3531.21	14442.2
+Rv3163c	Rv3163c	Possible conserved secreted protein	3531.64	45798.8
+Rv3193c	Rv3193c	Probable conserved transmembrane protein	3560.19	107470
+Rv3194c	Rv3194c	Possible conserved secreted protein	3563.26	35440.6
+Rv3197	Rv3197	Probable conserved ATP-binding protein ABC transporter	3567.02	49121.9
+Rv3200c	Rv3200c	Possible transmembrane cation transporter	3572.6	38099.9
+Rv3213c	Rv3213c	Possible SOJ/para-related protein	3590.69	28575.3
+Rv3217c	Rv3217c	Probable conserved integral membrane protein	3593.8	14259.9
+Rv3236c	Rv3236c	Probable conserved integral membrane transport protein	3611.96	39043.2
+Rv3238c	Rv3238c	Probable conserved integral membrane protein	3613.66	28031.2
+Rv3239c	Rv3239c	Probable conserved transmembrane transport protein	3614.46	110199
+Rv3240c	secA1	Probable preprotein translocase SecA1 1 subunit	3617.68	105990
+Rv3244c	lpqB	Probable conserved lipoprotein LpqB	3623.16	61151.1
+Rv3253c	Rv3253c	Possible cationic amino acid transport integral membrane protein	3632.1	52519.7
+Rv3264c	manB	D-alpha-D-mannose-1-phosphate guanylyltransferase ManB (D-alpha-D-heptose-1-phosphate guanylyltransferase)	3644.9	37839
+Rv3265c	wbbL1	dTDP-RHA:a-D-GlcNAc-diphosphoryl polyprenol, a-3-L-rhamnosyl transferase WbbL1 (alpha-L-rhamnose-(1->3)-alpha-D-GlcNAc(1->P)-P-decaprenyl)	3645.98	33262.8
+Rv3270	ctpC	Probable metal cation-transporting P-type ATPase C CtpC	3650.53	76495.1
+Rv3271c	Rv3271c	Probable conserved integral membrane protein	3652.68	23633
+Rv3277	Rv3277	Probable conserved transmembrane protein	3659.88	30078.7
+Rv3278c	Rv3278c	Probable conserved transmembrane protein	3660.65	19820
+Rv3289c	Rv3289c	Possible transmembrane protein	3670.03	13151.6
+Rv3298c	lpqC	Possible esterase lipoprotein LpqC	3682.11	31368.3
+Rv3301c	phoY1	Probable phosphate-transport system transcriptional regulatory protein PhoU homolog 1 PhoY1	3686.91	24826.5
+Rv3310	sapM	Acid phosphatase (acid phosphomonoesterase) (phosphomonoesterase) (glycerophosphatase)	3697.2	31807
+Rv3312A	Rv3312A	Secreted protein antigen	3700.71	10768
+Rv3330	dacB1	Probable penicillin-binding protein DacB1 (D-alanyl-D-alanine carboxypeptidase) (DD-peptidase) (DD-carboxypeptidase) (PBP) (DD-transpeptidase) (serine-type D-ala-D-ala carboxypeptidase) (D-amino acid hydrolase)	3715.78	41682.3
+Rv3331	sugI	Probable sugar-transport integral membrane protein SugI	3717.09	53011.1
+Rv3332	nagA	Probable N-acetylglucosamine-6-phosphate deacetylase NagA (GlcNAc 6-P deacetylase)	3718.59	38773
+Rv3335c	Rv3335c	Probable conserved integral membrane protein	3721.73	31293
+Rv3346c	Rv3346c	Conserved transmembrane protein	3743.2	8932.67
+Rv3355c	Rv3355c	Probable integral membrane protein	3769.51	10142.1
+Rv3382c	lytB1	Probable LYTB-related protein LytB1	3796.45	34666.3
+Rv3390	lpqD	Probable conserved lipoprotein LpqD	3804.86	25056.4
+Rv3395A	Rv3395A	Probable membrane protein	3811.72	22057.7
+Rv3402c	Rv3402c	Conserved hypothetical protein	3820.65	44897.2
+Rv3434c	Rv3434c	Possible conserved transmembrane protein	3853.22	26844.5
+Rv3435c	Rv3435c	Probable conserved transmembrane protein	3853.94	30604.6
+Rv3437	Rv3437	Possible conserved transmembrane protein	3856.91	17877.5
+Rv3444c	esxT	Putative ESAT-6 like protein EsxT	3862.62	11120.4
+Rv3445c	esxU	ESAT-6 like protein EsxU	3862.95	11401.8
+Rv3447c	eccC4	ESX conserved component EccC4. ESX-4 type VII secretion system protein. Probable membrane protein.	3864.53	131896
+Rv3448	eccD4	ESX conserved component EccD4. ESX-4 type VII secretion system protein. Probable integral membrane protein.	3868.35	46730.8
+Rv3450c	eccB4	ESX conserved component EccB4. ESX-4 type VII secretion system protein. Probable membrane protein.	3871.08	48167.2
+Rv3451	cut3	Probable cutinase precursor Cut3	3872.62	26472.1
+Rv3452	cut4	Probable cutinase precursor Cut4	3873.45	23081.2
+Rv3453	Rv3453	Possible conserved transmembrane protein	3874.4	11859.6
+Rv3454	Rv3454	Probable conserved integral membrane protein	3874.82	45778.9
+Rv3476c	kgtP	Probable dicarboxylic acid transport integral membrane protein KgtP (dicarboxylate transporter)	3892.37	49516.6
+Rv3479	Rv3479	Possible transmembrane protein	3895.82	109260
+Rv3481c	Rv3481c	Probable integral membrane protein	3900.49	23793.4
+Rv3482c	Rv3482c	Probable conserved membrane protein	3901.32	28501.2
+Rv3483c	Rv3483c	Possible exported protein	3902.15	22950.6
+Rv3495c	lprN	Possible Mce-family lipoprotein LprN (Mce-family lipoprotein Mce4E)	3913.38	41293
+Rv3524	Rv3524	Probable conserved membrane protein	3960.75	36285.8
+Rv3576	lppH	Possible conserved lipoprotein LppH	4018.36	25020.1
+Rv3578	arsB2	Possible arsenical pump integral membrane protein ArsB2	4020.14	42524.9
+Rv3584	lpqE	Possible conserved lipoprotein LpqE	4025.83	18786.6
+Rv3587c	Rv3587c	Probable conserved membrane protein	4028.97	27066.9
+Rv3593	lpqF	Probable conserved lipoprotein LpqF	4034.35	48487.8
+Rv3604c	Rv3604c	Probable conserved transmembrane protein rich in alanine and arginine and proline	4046.3	43058.4
+Rv3605c	Rv3605c	Probable conserved secreted protein	4047.71	16789.6
+Rv3610c	ftsH	Membrane-bound protease FtsH (cell division protein)	4050.6	81985.5
+Rv3614c	espD	ESX-1 secretion-associated protein EspD	4054.14	19802.5
+Rv3615c	espC	ESX-1 secretion-associated protein EspC	4054.81	10795
+Rv3616c	espA	ESX-1 secretion-associated protein A, EspA	4055.2	39888.3
+Rv3619c	esxV	Putative ESAT-6 like protein EsxV (ESAT-6 like protein 1)	4059.98	9832.78
+Rv3620c	esxW	Putative ESAT-6 like protein EsxW (ESAT-6 like protein 10)	4060.29	11023.2
+Rv3623	lpqG	Probable conserved lipoprotein LpqG	4062.53	24836.8
+Rv3625c	mesJ	Possible cell cycle protein MesJ	4063.9	34129.9
+Rv3629c	Rv3629c	Probable conserved integral membrane protein	4067.96	39311.5
+Rv3630	Rv3630	Probable conserved integral membrane protein	4069.18	43467.1
+Rv3632	Rv3632	Possible conserved membrane protein	4071.24	13068.5
+Rv3635	Rv3635	Probable conserved transmembrane protein	4073.63	63529.8
+Rv3641c	fic	Possible cell filamentation protein Fic	4079.93	23948.7
+Rv3645	Rv3645	Probable conserved transmembrane protein	4082.81	58759.3
+Rv3657c	Rv3657c	Possible conserved alanine rich membrane protein	4095.54	19129.4
+Rv3658c	Rv3658c	Probable conserved transmembrane protein	4096.14	27632.7
+Rv3663c	dppD	Probable dipeptide-transport ATP-binding protein ABC transporter DppD	4102.03	58943.6
+Rv3664c	dppC	Probable dipeptide-transport integral membrane protein ABC transporter DppC	4103.67	27846.8
+Rv3665c	dppB	Probable dipeptide-transport integral membrane protein ABC transporter DppB	4104.53	32536.7
+Rv3666c	dppA	Probable periplasmic dipeptide-binding lipoprotein DppA	4105.46	58381.5
+Rv3669	Rv3669	Probable conserved transmembrane protein	4110.83	18887.1
+Rv3675	Rv3675	Possible membrane protein	4116	13734.8
+Rv3679	Rv3679	Probable anion transporter ATPase	4118.78	35856.3
+Rv3680	Rv3680	Probable anion transporter ATPase	4119.79	41404.6
+Rv3682	ponA2	Probable bifunctional membrane-associated penicillin-binding protein 1A/1B PonA2 (murein polymerase) [includes: penicillin-insensitive transglycosylase (peptidoglycan TGASE) + penicillin-sensitive transpeptidase (DD-transpeptidase)]	4121.92	84635.8
+Rv3689	Rv3689	Probable conserved transmembrane protein	4130.36	46419.6
+Rv3690	Rv3690	Probable conserved membrane protein	4131.74	23719.6
+Rv3693	Rv3693	Possible conserved membrane protein	4134.73	47687.2
+Rv3694c	Rv3694c	Possible conserved transmembrane protein	4136.12	35439
+Rv3695	Rv3695	Possible conserved membrane protein	4137.21	33167.9
+Rv3723	Rv3723	Probable conserved transmembrane protein	4168.54	27367.4
+Rv3724A	cut5a	Probable cutinase precursor [first part] Cut5a	4169.47	8423.82
+Rv3724B	cut5b	Probable cutinase [second part] Cut5b	4169.61	18755.2
+Rv3728	Rv3728	Probable conserved two-domain membrane protein	4174.87	111232
+Rv3737	Rv3737	Probable conserved transmembrane protein	4187.7	54775.5
+Rv3743c	ctpJ	Probable cation transporter P-type ATPase CtpJ	4193.39	68612.7
+Rv3760	Rv3760	Possible conserved membrane protein	4205.54	10533.7
+Rv3763	lpqH	19 kDa lipoprotein antigen precursor LpqH	4209.05	15114.8
+Rv3779	Rv3779	Probable conserved transmembrane protein alanine and leucine rich	4224.98	71762.8
+Rv3781	rfbE	Probable O-antigen/lipopolysaccharide transport ATP-binding protein ABC transporter RfbE	4227.53	29960.3
+Rv3782	glfT1	UDP-galactofuranosyl transferase GlfT1	4228.35	33864
+Rv3783	rfbD	Probable O-antigen/lipopolysaccharide transport integral membrane protein ABC transporter RfbD	4229.26	32336.3
+Rv3789	Rv3789	GTRA family protein	4235.37	13377
+Rv3792	aftA	Arabinofuranosyltransferase AftA	4237.93	69515.3
+Rv3793	embC	Integral membrane indolylacetylinositol arabinosyltransferase EmbC (arabinosylindolylacetylinositol synthase)	4239.86	117490
+Rv3794	embA	Integral membrane indolylacetylinositol arabinosyltransferase EmbA (arabinosylindolylacetylinositol synthase)	4243.23	115692
+Rv3795	embB	Integral membrane indolylacetylinositol arabinosyltransferase EmbB (arabinosylindolylacetylinositol synthase)	4246.51	118021
+Rv3802c	Rv3802c	Probable conserved membrane protein	4263.35	35448.3
+Rv3805c	aftB	Possible arabinofuranosyltransferase AftB	4266.95	68709.6
+Rv3806c	ubiA	Decaprenylphosphoryl-5-phosphoribose (DPPR) synthase (decaprenyl-phosphate 5-phosphoribosyltransferase)	4268.92	32654.5
+Rv3807c	Rv3807c	Possible conserved transmembrane protein	4269.84	17218.4
+Rv3808c	glfT2	Bifunctional UDP-galactofuranosyl transferase GlfT2	4270.37	71506.5
+Rv3809c	glf	UDP-galactopyranose mutase Glf (UDP-GALP mutase) (NAD+-flavin adenine dinucleotide-requiring enzyme)	4272.28	45814.4
+Rv3810	pirG	Exported repetitive protein precursor PirG (cell surface protein) (EXP53)	4273.74	27668.4
+Rv3821	Rv3821	Probable conserved integral membrane protein	4285.97	24627.3
+Rv3823c	mmpL8	Conserved integral membrane transport protein MmpL8	4288.26	115998
+Rv3835	Rv3835	Conserved membrane protein	4309.05	47043.3
+Rv3843c	Rv3843c	Probable conserved transmembrane protein	4315.57	37352.8
+Rv3848	Rv3848	Probable conserved transmembrane protein	4322.33	31962.1
+Rv3851	Rv3851	Possible membrane protein	4324.68	9528.12
+Rv3857c	Rv3857c	Possible membrane protein	4329.42	6764.04
+Rv3864	espE	ESX-1 secretion-associated protein EspE	4340.27	42068.8
+Rv3865	espF	ESX-1 secretion-associated protein EspF	4341.57	10618
+Rv3866	espG1	ESX-1 secretion-associated protein EspG1	4341.88	30064.1
+Rv3867	espH	ESX-1 secretion-associated protein EspH	4342.77	19945.6
+Rv3868	eccA1	ESX conserved component EccA1. ESX-1 type VII secretion system protein.	4343.31	62425.6
+Rv3869	eccB1	ESX conserved component EccB1. ESX-1 type VII secretion system protein. Possible membrane protein.	4345.04	51092.7
+Rv3870	eccCa1	ESX conserved component EccCa1. ESX-1 type VII secretion system protein. Possible transmembrane protein.	4346.48	80913
+Rv3871	eccCb1	ESX conserved component EccCb1. ESX-1 type VII secretion system protein.	4348.83	64560.8
+Rv3874	esxB	10 kDa culture filtrate antigen EsxB (LHP) (CFP10)	4352.27	10793.8
+Rv3875	esxA	6 kDa early secretory antigenic target EsxA (ESAT-6)	4352.61	9903.87
+Rv3876	espI	ESX-1 secretion-associated protein EspI. Conserved proline and alanine rich protein.	4353.01	70645.1
+Rv3877	eccD1	ESX conserved component EccD1. ESX-1 type VII secretion system protein. Probable transmembrane protein.	4355.01	53981.3
+Rv3878	espJ	ESX-1 secretion-associated protein EspJ. Conserved alanine rich protein.	4356.69	27395.3
+Rv3879c	espK	ESX-1 secretion-associated protein EspK. Alanine and proline rich protein.	4357.59	74492.3
+Rv3880c	espL	ESX-1 secretion-associated protein EspL	4360.2	12167.5
+Rv3881c	espB	Secreted ESX-1 substrate protein B, EspB. Conserved alanine and glycine rich protein	4360.54	47593.8
+Rv3882c	eccE1	ESX conserved component EccE1. ESX-1 type VII secretion system protein. Possible membrane protein.	4362.03	50396.7
+Rv3884c	eccA2	ESX conserved component EccA2. ESX-2 type VII secretion system protein. Probable CbxX/CfqX family protein.	4364.98	68041.1
+Rv3885c	eccE2	ESX conserved component EccE2. ESX-2 type VII secretion system protein. Possible membrane protein.	4366.91	57638.1
+Rv3887c	eccD2	ESX conserved component EccD2. ESX-2 type VII secretion system protein. Probable transmembrane protein.	4370.15	53246.1
+Rv3888c	Rv3888c	Probable conserved membrane protein	4371.68	37691.8
+Rv3889c	espG2	ESX-2 secretion-associated protein EspG2	4372.8	29596
+Rv3890c	esxC	ESAT-6 like protein EsxC (ESAT-6 like protein 11)	4373.73	9919.88
+Rv3891c	esxD	Possible ESAT-6 like protein EsxD	4374.05	11161.5
+Rv3894c	eccC2	ESX conserved component EccC2. ESX-2 type VII secretion system protein. Possible membrane protein.	4376.26	153700
+Rv3895c	eccB2	ESX conserved component EccB2. ESX-2 type VII secretion system protein. Probable membrane protein.	4380.45	51587
+Rv3901c	Rv3901c	Possible membrane protein	4386.37	15430.4
+Rv3904c	esxE	Putative ESAT-6 like protein EsxE (hypothetical alanine rich protein) (ESAT-6 like protein 12)	4390.44	9570.75
+Rv3905c	esxF	Putative ESAT-6 like protein EsxF (hypothetical alanine and glycine rich protein) (ESAT-6 like protein 13)	4390.72	10459.6
+Rv3910	Rv3910	Probable conserved transmembrane protein	4396.6	123564
+Rv3917c	parB	Probable chromosome partitioning protein ParB	4405.46	37018.3
+Rv3918c	parA	Probable chromosome partitioning protein ParA	4406.49	37516.8
+Rv3919c	gid	Probable glucose-inhibited division protein B Gid	4407.53	24031.9
+Rv3921c	Rv3921c	Probable conserved transmembrane protein	4408.97	40884.4

@@ -1,0 +1,242 @@
+Rv0001	dnaA	Chromosomal replication initiator protein DnaA	0.001	56548.6
+Rv0002	dnaN	DNA polymerase III (beta chain) DnaN (DNA nucleotidyltransferase)	2.052	42113.1
+Rv0003	recF	DNA replication and repair protein RecF (single-strand DNA binding protein)	3.28	42180.2
+Rv0005	gyrB	DNA gyrase (subunit B) GyrB (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	5.24	74058.7
+Rv0006	gyrA	DNA gyrase (subunit A) GyrA (DNA topoisomerase (ATP-hydrolysing)) (DNA topoisomerase II) (type II DNA topoisomerase)	7.302	92274.3
+Rv0009	ppiA	Probable iron-regulated peptidyl-prolyl cis-trans isomerase A PpiA (PPIase A) (rotamase A)	12.468	19239.4
+Rv0041	leuS	Probable leucyl-tRNA synthetase LeuS (leucine--tRNA ligase) (LEURS)	43.562	107563
+Rv0053	rpsF	30S ribosomal protein S6 RpsF	58.192	10934.7
+Rv0054	ssb	Single-strand binding protein Ssb (helix-destabilizing protein)	58.586	17321.1
+Rv0055	rpsR1	30S ribosomal protein S18-1 RpsR1	59.122	9543.21
+Rv0056	rplI	50S ribosomal protein L9 RplI	59.409	16169.6
+Rv0058	dnaB	Probable replicative DNA helicase DnaB	60.396	96916.7
+Rv0071	Rv0071	Possible maturase	79.486	26891.8
+Rv0105c	rpmB1	50S ribosomal protein L28-1 RpmB1	123.98	10530.1
+Rv0120c	fusA2	Probable elongation factor G FusA2 (EF-G)	145.627	75630.5
+Rv0182c	sigG	Probable alternative RNA polymerase sigma factor SigG (RNA polymerase ECF type sigma factor)	213.028	40982.7
+Rv0233	nrdB	Ribonucleoside-diphosphate reductase (beta chain) NrdB (ribonucleotide reductase small chain)	278.585	35656.1
+Rv0413	mutT3	Possible mutator protein MutT3 (7,8-dihydro-8-oxoguanine-triphosphatase) (8-oxo-dGTPase) (dGTP pyrophosphohydrolase)	499.713	23481.2
+Rv0427c	xthA	Probable exodeoxyribonuclease III protein XthA (exonuclease III) (EXO III) (AP endonuclease VI)	516.017	32108.3
+Rv0429c	def	Probable polypeptide deformylase Def (PDF) (formylmethionine deformylase)	517.803	20938.7
+Rv0444c	rskA	Anti-sigma factor RskA (regulator of sigma K)	533.091	23883.1
+Rv0445c	sigK	Alternative RNA polymerase sigma factor SigK	533.833	21034.7
+Rv0516c	Rv0516c	Possible anti-anti-sigma factor	608.059	16987.4
+Rv0570	nrdZ	Probable ribonucleoside-diphosphate reductase (large subunit) NrdZ (ribonucleotide reductase)	661.295	74489
+Rv0629c	recD	Probable exonuclease V (alpha chain) RecD (exodeoxyribonuclease V alpha chain) (exodeoxyribonuclease V polypeptide)	720.005	61714.7
+Rv0630c	recB	Probable exonuclease V (beta chain) RecB (exodeoxyribonuclease V beta chain)(exodeoxyribonuclease V polypeptide) (chi-specific endonuclease)	721.729	118722
+Rv0631c	recC	Probable exonuclease V (gamma chain) RecC (exodeoxyribonuclease V gamma chain)(exodeoxyribonuclease V polypeptide)	725.013	119501
+Rv0634B	rpmG2	50S ribosomal protein L33 RpmG2	731.712	6495.51
+Rv0639	nusG	Probable transcription antitermination protein NusG	734.254	25414.5
+Rv0640	rplK	50S ribosomal protein L11 RplK	735.022	15003.4
+Rv0641	rplA	50S ribosomal protein L1 RplA	735.517	24756.4
+Rv0651	rplJ	50S ribosomal protein L10 RplJ	748.276	18478.3
+Rv0652	rplL	50S ribosomal protein L7/L12 RplL (SA1)	748.849	13440.5
+Rv0667	rpoB	DNA-directed RNA polymerase (beta chain) RpoB (transcriptase beta chain) (RNA polymerase beta subunit)	759.807	129218
+Rv0668	rpoC	DNA-directed RNA polymerase (beta' chain) RpoC (transcriptase beta' chain) (RNA polymerase beta' subunit).	763.37	146737
+Rv0670	end	Probable endonuclease IV End (endodeoxyribonuclease IV) (apurinase)	769.792	26813.1
+Rv0682	rpsL	30S ribosomal protein S12 RpsL	781.56	13849.2
+Rv0683	rpsG	30S ribosomal protein S7 RpsG	781.934	17600.4
+Rv0684	fusA1	Probable elongation factor G FusA1 (EF-G)	782.485	77170.5
+Rv0685	tuf	Probable iron-regulated elongation factor TU Tuf (EF-TU)	784.821	43561.5
+Rv0700	rpsJ	30S ribosomal protein S10 RpsJ (transcription antitermination factor NusE)	800.487	11399.2
+Rv0701	rplC	50S ribosomal protein L3 RplC	800.809	23090.5
+Rv0702	rplD	50S ribosomal protein L4 RplD	801.462	23742.9
+Rv0703	rplW	50S ribosomal protein L23 RplW	802.133	10957.8
+Rv0704	rplB	50S ribosomal protein L2 RplB	802.528	30576.8
+Rv0705	rpsS	30S ribosomal protein S19 RpsS	803.411	10803.5
+Rv0706	rplV	50S ribosomal protein L22 RplV	803.689	20380.5
+Rv0707	rpsC	30S ribosomal protein S3 RpsC	804.282	29987.9
+Rv0708	rplP	50S ribosomal protein L16 RplP	805.11	15692.2
+Rv0709	rpmC	50S ribosomal protein L29 RpmC	805.526	8859.01
+Rv0710	rpsQ	30S ribosomal protein S17 RpsQ	805.756	14840.4
+Rv0714	rplN	50S ribosomal protein L14 RplN	811.373	13395.6
+Rv0715	rplX	50S ribosomal protein L24 RplX	811.742	11475.2
+Rv0716	rplE	50S ribosomal protein L5 RplE	812.059	21019.3
+Rv0717	rpsN1	30S ribosomal protein S14 RpsN1	812.627	6825.19
+Rv0718	rpsH	30S ribosomal protein S8 RpsH	812.976	14411.6
+Rv0719	rplF	50S ribosomal protein L6 RplF	813.398	19377.3
+Rv0720	rplR	50S ribosomal protein L18 RplR	813.94	13184.1
+Rv0721	rpsE	30S ribosomal protein S5 RpsE	814.328	22888.2
+Rv0722	rpmD	50S ribosomal protein L30 RpmD	814.993	7346.54
+Rv0723	rplO	50S ribosomal protein L15 RplO	815.19	15501
+Rv0735	sigL	Probable alternative RNA polymerase sigma factor SigL	827.543	19506
+Rv0736	rslA	Anti-sigma factor RslA	828.14	25937.6
+Rv0861c	ercc3	DNA helicase Ercc3	958.523	59772.2
+Rv0937c	mku	DNA end-binding protein, Mku	1045.2	30904
+Rv0938	ligD	ATP dependent DNA ligase LigD (ATP dependent polydeoxyribonucleotide synthase) (thermostable DNA ligase) (ATP dependent polynucleotide ligase) (sealase) (DNA repair enzyme) (DNA joinase)	1046.14	83572.4
+Rv0944	Rv0944	Possible formamidopyrimidine-DNA glycosylase (FAPY-DNA glycosylase)	1053.77	16462.9
+Rv0949	uvrD1	Probable ATP-dependent DNA helicase II UvrD1	1058.26	85049.9
+Rv0979A	rpmF	50S ribosomal protein L32 RpmF	1094.89	6506.69
+Rv0995	rimJ	Ribosomal-protein-alanine acetyltransferase RimJ (acetylating enzyme for N-terminal of ribosomal protein S5)	1111.61	22190.5
+Rv1007c	metS	Methionyl-tRNA synthetase MetS (MetRS) (methionine--tRNA ligase)	1125.44	58092.6
+Rv1010	ksgA	Probable dimethyladenosine transferase KsgA (S-adenosylmethionine-6-N', N'-adenosyl(rRNA) dimethyltransferase) (16S rRNA dimethylase) (high level kasugamycin resistance protein KsgA) (kasugamycin dimethyltransferase)	1129.15	34645.7
+Rv1015c	rplY	50S ribosomal protein L25 RplY	1133.92	22441.2
+Rv1020	mfd	Probable transcription-repair coupling factor Mfd (TRCF)	1138.97	132908
+Rv1080c	greA	Probable transcription elongation factor GreA (transcript cleavage factor GreA)	1205.3	17854.7
+Rv1107c	xseB	Probable exodeoxyribonuclease VII (small subunit) XseB (exonuclease VII small subunit)	1233.97	9322.33
+Rv1108c	xseA	Probable exodeoxyribonuclease VII (large subunit) XseA (exonuclease VII large subunit)	1234.21	44596.3
+Rv1160	mutT2	Probable mutator protein MutT2 (7,8-dihydro-8-oxoguanine-triphosphatase) (8-oxo-dGTPase)	1286.59	15160.3
+Rv1165	typA	Possible GTP-binding translation elongation factor TypA (tyrosine phosphorylated protein A) (GTP-binding protein)	1294.17	67548.2
+Rv1189	sigI	Possible alternative RNA polymerase sigma factor SigI	1332.09	31431.1
+Rv1210	tagA	Probable DNA-3-methyladenine glycosylase I TagA (tag I) (3-methyladenine-DNA glycosylase I, constitutive) (DNA-3-methyladenine glycosidase I)	1353.52	22973
+Rv1221	sigE	Alternative RNA polymerase sigma factor SigE	1364.41	28877.2
+Rv1222	rseA	Anti-sigma factor RseA	1365.34	16250.1
+Rv1253	deaD	Probable cold-shock DeaD-box protein A homolog DeaD (ATP-dependent RNA helicase dead homolog)	1399.97	61452.6
+Rv1259	udgB	Probable uracil DNA glycosylase, UdgB	1407.34	31783.6
+Rv1292	argS	Probable arginyl-tRNA synthetase ArgS (ARGRS) (arginine--tRNA ligase)	1446.38	59677.4
+Rv1297	rho	Probable transcription termination factor Rho homolog	1453.2	65101.4
+Rv1298	rpmE	50S ribosomal protein L31 RpmE	1455.16	8753.03
+Rv1299	prfA	Probable peptide chain release factor 1 PrfA (RF-1)	1455.49	39036.5
+Rv1316c	ogt	Methylated-DNA--protein-cysteine methyltransferase Ogt (6-O-methylguanine-DNA methyltransferase) (O-6-methylguanine-DNA-alkyltransferase)	1477.13	17858.2
+Rv1317c	alkA	Probable bifunctional regulatory protein and DNA repair enzyme AlkA (regulatory protein of adaptative response) (methylphosphotriester-DNA--protein-cysteine S-methyltransferase)	1477.63	53710.5
+Rv1329c	dinG	Probable ATP-dependent helicase DinG	1497.19	70135.5
+Rv1340	rphA	Probable ribonuclease RphA (RNase PH) (tRNA nucleotidyltransferase)	1506.76	27319
+Rv1364c	Rv1364c	Possible sigma factor regulatory protein	1535.68	69524.1
+Rv1365c	rsfA	Anti-anti-sigma factor RsfA (anti-sigma factor antagonist) (regulator of sigma F A)	1537.78	13589.4
+Rv1388	mihF	Putative integration host factor MihF	1563.69	20817.1
+Rv1390	rpoZ	Probable DNA-directed RNA polymerase (omega chain) RpoZ (transcriptase omega chain) (RNA polymerase omega subunit)	1565.09	11810.2
+Rv1402	priA	Putative primosomal protein N' PriA (replication factor Y)	1577.61	69839.1
+Rv1406	fmt	Probable methionyl-tRNA formyltransferase Fmt	1582.17	32659.6
+Rv1407	fmu	Probable Fmu protein (sun protein)	1583.1	48493.4
+Rv1420	uvrC	Probable excinuclease ABC (subunit C - nuclease) UvrC	1594.04	71582.1
+Rv1536	ileS	Isoleucyl-tRNA synthetase IleS	1736.52	117308
+Rv1537	dinX	Probable DNA polymerase IV DinX (pol IV 1) (DNA nucleotidyltransferase (DNA-directed))	1739.86	49075.6
+Rv1547	dnaE1	Probable DNA polymerase III (alpha chain) DnaE1 (DNA nucleotidyltransferase)	1747.69	129323
+Rv1629	polA	Probable DNA polymerase I PolA	1830.67	98440
+Rv1630	rpsA	30S ribosomal protein S1 RpsA	1833.54	53201.8
+Rv1633	uvrB	Probable excinuclease ABC (subunit B - helicase) UvrB	1837.07	78038.3
+Rv1638	uvrA	Probable excinuclease ABC (subunit A - DNA-binding ATPase) UvrA	1843.74	106099
+Rv1640c	lysX	Lysyl-tRNA synthetase 2 LysX	1848.52	128208
+Rv1641	infC	Probable initiation factor if-3 InfC	1852.27	22315.4
+Rv1642	rpmI	50S ribosomal protein L35 RpmI	1852.93	7220.35
+Rv1643	rplT	50S ribosomal protein L20 RplT	1853.18	14526.7
+Rv1644	tsnR	Possible 23S rRNA methyltransferase TsnR	1853.61	26848
+Rv1649	pheS	Probable phenylalanyl-tRNA synthetase, alpha chain PheS	1858.73	37371.4
+Rv1650	pheT	Probable phenylalanyl-tRNA synthetase, beta chain PheT	1859.76	88374
+Rv1688	mpg	Possible 3-methyladenine DNA glycosylase Mpg	1912.98	21340.1
+Rv1689	tyrS	Probable tyrosyl-tRNA synthase TyrS (TYRRS)	1913.6	46330.4
+Rv1696	recN	Probable DNA repair protein RecN (recombination protein N)	1919.68	62196.9
+Rv1700	Rv1700	NUDIX hydrolase	1925.58	22860.8
+Rv1981c	nrdF1	Ribonucleoside-diphosphate reductase (beta chain) NrdF1 (ribonucleotide reductase small subunit) (R2F protein)	2224.22	36589.9
+Rv2055c	rpsR2	30S ribosomal protein S18 RpsR2	2314.09	9696.24
+Rv2056c	rpsN2	30S ribosomal protein S14 RpsN2	2314.35	11409.2
+Rv2057c	rpmG1	50S ribosomal protein L33 RpmG1	2314.66	6588.57
+Rv2058c	rpmB2	50S ribosomal protein L28 RpmB2	2314.82	9077.42
+Rv2069	sigC	RNA polymerase sigma factor, ECF subfamily, SigC	2326.94	19965.5
+Rv2090	Rv2090	Probable 5'-3' exonuclease	2347.37	41939
+Rv2092c	helY	ATP-dependent DNA helicase HelY	2349.33	99574
+Rv2101	helZ	Probable helicase HelZ	2360.24	111612
+Rv2191	Rv2191	Conserved hypothetical protein	2453.82	69148.1
+Rv2228c	Rv2228c	Multifunctional protein. Has RNASE H, alpha-ribazole phosphatase, and acid phosphatase activities.	2501.64	39113.1
+Rv2343c	dnaG	Probable DNA primase DnaG	2620.53	69593
+Rv2357c	glyS	Probable glycyl-tRNA synthetase GlyS (glycine--tRNA ligase) (GLYRS)	2639.67	52905.7
+Rv2362c	recO	Possible DNA repair protein RecO	2643.46	28723.9
+Rv2412	rpsT	30S ribosomal protein S20 RpsT	2710.07	9372.81
+Rv2441c	rpmA	50S ribosomal protein L27 RpmA	2739.77	8968.23
+Rv2442c	rplU	50S ribosomal protein L21 RplU	2740.05	11151.1
+Rv2444c	rne	Possible ribonuclease E Rne	2742.12	103358
+Rv2448c	valS	Probable valyl-tRNA synthase protein ValS (valyl-tRNA synthetase) (valine--tRNA ligase) (valine translase)	2747.59	97820.5
+Rv2464c	Rv2464c	Possible DNA glycosylase	2766.86	29681.9
+Rv2528c	mrr	Probable restriction system protein Mrr	2851.75	33648.2
+Rv2533c	nusB	N utilization substance protein NusB (NusB protein)	2858.25	16740.2
+Rv2534c	efp	Probable elongation factor P Efp	2858.73	20375.1
+Rv2555c	alaS	Probable alanyl-tRNA synthetase AlaS (alanine--tRNA ligase) (alanine translase) (ALARS)	2873.77	97324.8
+Rv2572c	aspS	Probable aspartyl-tRNA synthetase AspS (aspartate--tRNA ligase) (ASPRS) (aspartic acid translase)	2896.01	65194.8
+Rv2580c	hisS	Probable histidyl-tRNA synthetase HisS (histidine--tRNA ligase) (HISRS) (histidine--translase)	2904.82	45117.1
+Rv2582	ppiB	Probable peptidyl-prolyl cis-trans isomerase B PpiB (cyclophilin) (PPIase) (rotamase) (peptidylprolyl isomerase)	2906.81	32370.9
+Rv2592c	ruvB	Probable holliday junction DNA helicase RuvB	2923.2	36626.9
+Rv2593c	ruvA	Probable holliday junction DNA helicase RuvA	2924.23	20189.2
+Rv2594c	ruvC	Probable crossover junction endodeoxyribonuclease RuvC (holliday junction nuclease) (holliday junction resolvase)	2924.82	19753.8
+Rv2614c	thrS	Probable threonyl-tRNA synthetase ThrS (threonine-tRNA synthetase)(ThrRS) (threonine-tRNA ligase)	2941.19	77121.9
+Rv2703	sigA	RNA polymerase sigma factor SigA (sigma-A)	3017.83	57768.2
+Rv2710	sigB	RNA polymerase sigma factor SigB	3022.46	36343.4
+Rv2736c	recX	Regulatory protein RecX	3048.56	19145.8
+Rv2737c	recA	RecA protein (recombinase A) [contains: endonuclease PI-MTUI (MTU RecA intein)].	3049.05	85389.1
+Rv2755c	hsdS.1	Possible type I restriction/modification system specificity determinant (fragment) HsdS.1 (S protein)	3068.19	9475.7
+Rv2756c	hsdM	Possible type I restriction/modification system DNA methylase HsdM (M protein) (DNA methyltransferase)	3068.46	60084.1
+Rv2761c	hsdS	Possible type I restriction/modification system specificity determinant HsdS (S protein)	3071.55	39211.9
+Rv2783c	gpsI	Bifunctional protein polyribonucleotide nucleotidyltransferase GpsI: guanosine pentaphosphate synthetase + polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase) (pnpase)	3090.34	79734.7
+Rv2785c	rpsO	30S ribosomal protein S15 RpsO	3093.48	10443.2
+Rv2793c	truB	Probable tRNA pseudouridine synthase B TruB (tRNA pseudouridine 55 synthase) (PSI55 synthase) (pseudouridylate synthase) (uracil hydrolyase)	3102.36	31819.5
+Rv2836c	dinF	Possible DNA-damage-inducible protein F DinF	3142.31	44737.9
+Rv2838c	rbfA	Probable ribosome-binding factor a RbfA (P15B protein)	3144.62	18998.3
+Rv2839c	infB	Probable translation initiation factor if-2 InfB	3145.17	94008.9
+Rv2841c	nusA	Probable N utilization substance protein A NusA	3148.39	37641.6
+Rv2845c	proS	Probable prolyl-tRNA synthetase ProS (proline--tRNA ligase) (PRORS) (global RNA synthesis factor) (proline translase)	3151.2	63269.6
+Rv2882c	frr	Ribosome recycling factor Frr (ribosome releasing factor) (RRF)	3191.64	20827.6
+Rv2889c	tsf	Probable elongation factor Tsf (EF-ts)	3198.29	28754.7
+Rv2890c	rpsB	30S ribosomal protein S2 RpsB	3199.12	31089.3
+Rv2902c	rnhB	Probable ribonuclease HII protein RnhB (RNase HII)	3212.16	27645.7
+Rv2904c	rplS	50S ribosomal protein L19 RplS	3213.91	13013.1
+Rv2906c	trmD	Probable tRNA (guanine-N1)-methyltransferase TrmD (M1G-methyltransferase) (tRNA [GM37] methyltransferase)	3215.67	25134.4
+Rv2907c	rimM	Probable 16S rRNA processing protein RimM	3216.36	18616
+Rv2909c	rpsP	30S ribosomal protein S16 RpsP	3217.16	17437.1
+Rv2924c	fpg	Probable formamidopyrimidine-DNA glycosylase Fpg (FAPY-DNA glycosylase)	3238.6	31950.7
+Rv2925c	rnc	Probable ribonuclease III Rnc (RNase III)	3239.83	25398.9
+Rv2973c	recG	Probable ATP-dependent DNA helicase RecG	3327.73	80329
+Rv2976c	ung	Probable uracil-DNA glycosylase Ung (UDG)	3332.07	24449.1
+Rv2985	mutT1	Possible hydrolase MutT1	3342.17	34748.3
+Rv2986c	hupB	DNA-binding protein HU homolog HupB (histone-like protein) (HLP) (21-kDa laminin-2-binding protein)	3343.18	22187.3
+Rv2992c	gltS	Glutamyl-tRNA synthetase GltS (glutamate--tRNA ligase) (glutamyl-tRNA synthase) (GLURS)	3348.8	53832
+Rv3009c	gatB	Probable glutamyl-tRNA(GLN) amidotransferase (subunit B) GatB (Glu-ADT subunit B)	3367.26	54632.9
+Rv3011c	gatA	Probable glutamyl-tRNA(GLN) amidotransferase (subunit A) GatA (Glu-ADT subunit A)	3369.95	51388.2
+Rv3012c	gatC	Probable glutamyl-tRNA(GLN) amidotransferase (subunit C) GatC (Glu-ADT subunit C)	3371.43	10716
+Rv3014c	ligA	DNA ligase [NAD dependent] LigA (polydeoxyribonucleotide synthase [NAD+])	3372.54	75257.1
+Rv3024c	trmU	Probable tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase TrmU	3382.78	38120.1
+Rv3048c	nrdF2	Ribonucleoside-diphosphate reductase (beta chain) NrdF2 (ribonucleotide reductase small subunit) (R2F protein)	3408.4	36959.5
+Rv3051c	nrdE	Ribonucleoside-diphosphate reductase (alpha chain) NrdE (ribonucleotide reductase small subunit) (R1F protein)	3412.08	79290.8
+Rv3052c	nrdI	Probable NrdI protein	3414.23	16490.7
+Rv3053c	nrdH	Probable glutaredoxin electron transport component of NRDEF (glutaredoxin-like protein) NrdH	3414.72	8418.67
+Rv3056	dinP	Possible DNA-damage-inducible protein P DinP (DNA polymerase V) (pol IV 2) (DNA nucleotidyltransferase (DNA-directed))	3416.71	37562.2
+Rv3062	ligB	Probable ATP-dependent DNA ligase LigB (polydeoxyribonucleotide synthase [ATP]) (polynucleotide ligase [ATP]) (sealase) (DNA repair protein) (DNA joinase)	3425.58	53704.6
+Rv3105c	prfB	Probable peptide chain release factor 2 PrfB (RF-2)	3472.77	42125
+Rv3198c	uvrD2	Probable ATP-dependent DNA helicase II UvrD2	3569.11	75603.7
+Rv3201c	Rv3201c	Probable ATP-dependent DNA helicase	3573.73	116689
+Rv3202c	Rv3202c	Possible ATP-dependent DNA helicase	3577.03	110729
+Rv3204	Rv3204	Possible DNA-methyltransferase (modification methylase)	3581.31	11017.7
+Rv3211	rhlE	Probable ATP-dependent RNA helicase RhlE	3587.8	56703.1
+Rv3221A	rshA	Anti-sigma factor RshA	3598.05	11257.7
+Rv3223c	sigH	Alternative RNA polymerase sigma-E factor (sigma-24) SigH (RPOE)	3598.9	24225.1
+Rv3241c	Rv3241c	Conserved protein	3620.61	24534.7
+Rv3263	Rv3263	Probable DNA methylase (modification methylase) (methyltransferase)	3643.18	60673.5
+Rv3286c	sigF	Alternative RNA polymerase sigma factor SigF	3668.17	28761.6
+Rv3287c	rsbW	Anti-sigma factor RsbW (sigma negative effector)	3668.95	15550.6
+Rv3296	lhr	Probable ATP-dependent helicase Lhr (large helicase-related protein)	3676.77	161348
+Rv3297	nei	Probable endonuclease VIII Nei	3681.32	28525.6
+Rv3328c	sigJ	Probable alternative RNA polymerase sigma factor (fragment) SigJ	3713.39	33530.2
+Rv3336c	trpS	Probable tryptophanyl-tRNA synthetase TrpS (tryptophan--tRNA ligase) (TRPRS) (tryptophan translase)	3722.62	36272
+Rv3366	spoU	Probable tRNA/rRNA methylase SpoU (tRNA/rRNA methyltransferase)	3777.74	16516.9
+Rv3370c	dnaE2	Probable DNA polymerase III (alpha chain) DnaE2 (DNA nucleotidyltransferase)	3781.5	116484
+Rv3414c	sigD	Probable alternative RNA polymerase sigma-D factor SigD	3833.04	22919.2
+Rv3420c	rimI	Ribosomal-protein-alanine acetyltransferase RimI (acetylating enzyme for N-terminal of ribosomal protein S18)	3838.59	17357.4
+Rv3442c	rpsI	30S ribosomal protein S9 RpsI	3861.5	16436
+Rv3443c	rplM	50S ribosomal protein L13 RplM	3861.95	16304.9
+Rv3455c	truA	Probable tRNA pseudouridine synthase a TruA (pseudouridylate synthase I) (pseudouridine synthase I) (uracil hydrolyase)	3876.05	28059.9
+Rv3456c	rplQ	50S ribosomal protein L17 RplQ	3876.89	19475.2
+Rv3457c	rpoA	Probable DNA-directed RNA polymerase (alpha chain) RpoA (transcriptase alpha chain) (RNA polymerase alpha subunit) (DNA-directed RNA nucleotidyltransferase)	3877.46	37706.5
+Rv3458c	rpsD	30S ribosomal protein S4 RpsD	3878.66	23475.8
+Rv3459c	rpsK	30S ribosomal protein S11 RpsK	3879.27	14784.9
+Rv3460c	rpsM	30S ribosomal protein S13 RpsM	3879.7	14350.7
+Rv3461c	rpmJ	50S ribosomal protein L36 RpmJ	3880.29	4311.18
+Rv3462c	infA	Probable translation initiation factor if-1 InfA	3880.43	8488.93
+Rv3580c	cysS1	Cysteinyl-tRNA synthetase 1 CysS1 (cysteine--tRNA ligase 1) (CYSRS 1) (cysteine translase)	4022.39	51822.5
+Rv3585	radA	DNA repair protein RadA (DNA repair protein SMS)	4026.44	49881
+Rv3589	mutY	Probable adenine glycosylase MutY	4030.49	33684.4
+Rv3597c	lsr2	Iron-regulated H-NS-like protein Lsr2	4040.98	12098.4
+Rv3598c	lysS	Lysyl-tRNA synthetase 1 LysS (lysine--tRNA ligase 1) (LysRS 1) (lysine translase)	4041.42	55677.3
+Rv3644c	Rv3644c	Possible DNA polymerase	4081.52	41784.5
+Rv3646c	topA	DNA topoisomerase I TopA (omega-protein) (relaxing enzyme) (untwisting enzyme) (swivelase) (type I DNA topoisomerase) (nicking-closing enzyme) (TOPO I)	4084.45	102318
+Rv3649	Rv3649	Probable helicase	4088.78	81410.4
+Rv3674c	nth	Probable endonuclease III Nth (DNA-(apurinic or apyrimidinic site)lyase) (AP lyase) (AP endonuclease class I) (endodeoxyribonuclease (apurinic or apyrimidinic)) (deoxyribonuclease (apurinic or apyrimidinic))	4115.16	26998.3
+Rv3687c	rsfB	Anti-anti-sigma factor RsfB (anti-sigma factor antagonist) (regulator of sigma F B)	4129.32	12632.5
+Rv3711c	dnaQ	Probable DNA polymerase III (epsilon subunit) DnaQ	4155.74	35749.9
+Rv3715c	recR	Probable recombination protein RecR	4159.89	22119.3
+Rv3721c	dnaZX	DNA polymerase III (subunit gamma/tau) DnaZ/X	4165	61891.3
+Rv3731	ligC	Possible ATP-dependent DNA ligase LigC (polydeoxyribonucleotide synthase [ATP]) (polynucleotide ligase [ATP]) (sealase) (DNA repair protein) (DNA joinase)	4181.76	40159.7
+Rv3834c	serS	SERYL-tRNA synthetase SerS (serine--tRNA ligase) (SERRS) (serine translase)	4307.65	45292.3
+Rv3852	hns	Possible histone-like protein Hns	4325.07	13823.1
+Rv3907c	pcnA	Probable poly(A) polymerase PcnA (polynucleotide adenylyltransferase) (NTP polymerase) (RNA adenylating enzyme) (poly(A) polymerase)	4391.63	53055.4
+Rv3908	mutT4	Possible mutator protein MutT4	4393.45	27139.4
+Rv3911	sigM	Possible alternative RNA polymerase sigma factor SigM	4400.19	24404.6
+Rv3923c	rnpA	Ribonuclease P protein component RnpA (RNaseP protein) (RNase P protein) (protein C5)	4410.41	13924.2
+Rv3924c	rpmH	50S ribosomal protein L34 RpmH	4410.79	5592.55

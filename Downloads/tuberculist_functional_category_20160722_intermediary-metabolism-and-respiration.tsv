@@ -1,0 +1,936 @@
+Rv0013	trpG	Possible anthranilate synthase component II TrpG (glutamine amidotransferase)	14.914	24626.9
+Rv0032	bioF2	Possible 8-amino-7-oxononanoate synthase BioF2 (AONS) (8-amino-7-ketopelargonate synthase) (7-keto-8-amino-pelargonic acid synthetase) (7-KAP synthetase) (L-alanine--pimelyl CoA ligase)	34.295	86243.3
+Rv0044c	Rv0044c	Possible oxidoreductase	48.233	28524.3
+Rv0046c	ino1	myo-inositol-1-phosphate synthase Ino1 (inositol 1-phosphate synthetase) (D-glucose 6-phosphate cycloaldolase) (glucose 6-phosphate cyclase) (glucocycloaldolase)	50.021	40093.6
+Rv0062	celA1	Possible cellulase CelA1 (endoglucanase) (endo-1,4-beta-glucanase) (FI-cmcase) (carboxymethyl cellulase)	65.552	39974
+Rv0063	Rv0063	Possible oxidoreductase	66.923	49283.4
+Rv0066c	icd2	Probable isocitrate dehydrogenase [NADP] Icd2 (oxalosuccinate decarboxylase) (IDH) (NADP+-specific ICDH) (IDP)	72.274	82550
+Rv0068	Rv0068	Probable oxidoreductase	75.301	32398.9
+Rv0069c	sdaA	Probable L-serine dehydratase SdaA (L-serine deaminase) (SDH) (L-SD)	76.237	48576.2
+Rv0070c	glyA2	Serine hydroxymethyltransferase GlyA2 (serine methylase 2) (SHMT 2)	77.619	45525.7
+Rv0075	Rv0075	Probable aminotransferase	83.996	42766
+Rv0077c	Rv0077c	Probable oxidoreductase	85.636	29686.3
+Rv0082	Rv0082	Probable oxidoreductase	89.924	16259.9
+Rv0083	Rv0083	Probable oxidoreductase	90.4	65627.9
+Rv0084	hycD	Possible formate hydrogenlyase HycD (FHL)	92.328	32153.3
+Rv0085	hycP	Possible hydrogenase HycP	93.289	23042.4
+Rv0086	hycQ	Possible hydrogenase HycQ	93.951	49226.7
+Rv0087	hycE	Possible formate hydrogenase HycE (FHL)	95.414	53457.7
+Rv0089	Rv0089	Possible methyltransferase/methylase	97.758	21564.1
+Rv0091	mtn	Probable bifunctional MTA/SAH nucleosidase Mtn: 5'-methylthioadenosine nucleosidase (methylthioadenosine methylthioribohydrolase) + S-adenosylhomocysteine nucleosidase (S-adenosyl-L-homocysteine homocysteinylribohydrolase)	99.684	27339.6
+Rv0097	Rv0097	Possible oxidoreductase	106.734	32641.3
+Rv0111	Rv0111	Possible transmembrane acyltransferase	133.95	74340.3
+Rv0118c	oxcA	Probable oxalyl-CoA decarboxylase OxcA	142.128	61171.3
+Rv0125	pepA	Probable serine protease PepA (serine proteinase) (MTB32A)	151.148	34926.1
+Rv0130	htdZ	Probable 3-hydroxyl-thioester dehydratase	157.847	16007.2
+Rv0132c	fgd2	Putative F420-dependent glucose-6-phosphate dehydrogenase Fgd2	159.7	38445.3
+Rv0133	Rv0133	GCN5-related N-acetyltransferase	160.869	22827.1
+Rv0136	cyp138	Probable cytochrome P450 138 Cyp138	163.366	49260.6
+Rv0137c	msrA	Probable peptide methionine sulfoxide reductase MsrA (protein-methionine-S-oxide reductase) (peptide met(O) reductase)	164.712	20484.8
+Rv0139	Rv0139	Possible oxidoreductase	165.827	36976.2
+Rv0147	Rv0147	Probable aldehyde dehydrogenase (NAD+) dependent	173.238	55035.1
+Rv0148	Rv0148	Probable short-chain type dehydrogenase/reductase	174.833	29778.7
+Rv0149	Rv0149	Possible quinone oxidoreductase (NADPH:quinone oxidoreductase) (zeta-crystallin)	175.7	33278.5
+Rv0155	pntAa	Probable NAD(P) transhydrogenase (subunit alpha) PntAa [first part; catalytic part] (pyridine nucleotide transhydrogenase subunit alpha) (nicotinamide nucleotide transhydrogenase subunit alpha)	183.622	37693.9
+Rv0156	pntAb	Probable NAD(P) transhydrogenase (subunit alpha) PntAb [second part; integral membrane protein] (pyridine nucleotide transhydrogenase subunit alpha) (nicotinamide nucleotide transhydrogenase subunit alpha)	184.723	11782.1
+Rv0157	pntB	Probable NAD(P) transhydrogenase (subunit beta) PntB [integral membrane protein] (pyridine nucleotide transhydrogenase subunit beta) (nicotinamide nucleotide transhydrogenase subunit beta)	185.052	48858.3
+Rv0161	Rv0161	Possible oxidoreductase	190.607	47355.9
+Rv0162c	adhE1	Probable zinc-type alcohol dehydrogenase (E subunit) AdhE1	191.984	39333.3
+Rv0183	Rv0183	Possible lysophospholipase	214.088	30261.6
+Rv0186	bglS	Probable beta-glucosidase BglS (gentiobiase) (cellobiase) (beta-D-glucoside glucohydrolase)	216.269	73520.2
+Rv0187	Rv0187	Probable O-methyltransferase	218.705	23079.4
+Rv0189c	ilvD	Probable dihydroxy-acid dehydratase IlvD (dad)	219.996	59351.7
+Rv0197	Rv0197	Possible oxidoreductase	232.231	82571.7
+Rv0198c	zmp1	Probable zinc metalloprotease Zmp1	234.516	73881.6
+Rv0208c	Rv0208c	Hypothetical methlytransferase (methylase)	248.115	28546.9
+Rv0211	pckA	Probable iron-regulated phosphoenolpyruvate carboxykinase [GTP] PckA (phosphoenolpyruvate carboxylase) (PEPCK)(pep carboxykinase)	251.782	67253.1
+Rv0213c	Rv0213c	Possible methyltransferase (methylase)	254.637	48053.6
+Rv0216	Rv0216	Double hotdog hydratase	258.913	35756.5
+Rv0217c	lipW	Possible esterase LipW	259.923	32184.8
+Rv0220	lipC	Probable esterase LipC	262.812	44307.6
+Rv0223c	Rv0223c	Probable aldehyde dehydrogenase	266.301	51157.4
+Rv0224c	Rv0224c	Possible methyltransferase (methylase)	267.863	27478.4
+Rv0228	Rv0228	Probable integral membrane acyltransferase	273.055	43295.9
+Rv0234c	gabD1	Succinate-semialdehyde dehydrogenase [NADP+] dependent (SSDH) GabD1	279.605	54299.6
+Rv0241c	htdX	Probable 3-hydroxyacyl-thioester dehydratase HtdX	289.812	30162.9
+Rv0245	Rv0245	Possible oxidoreductase	296.005	17006.5
+Rv0247c	Rv0247c	Probable succinate dehydrogenase [iron-sulfur subunit] (succinic dehydrogenase)	298.116	28625.9
+Rv0248c	Rv0248c	Probable succinate dehydrogenase [iron-sulfur subunit] (succinic dehydrogenase)	298.863	70680.6
+Rv0249c	Rv0249c	Probable succinate dehydrogenase [membrane anchor subunit] (succinic dehydrogenase)	300.834	31077.2
+Rv0252	nirB	Probable nitrite reductase [NAD(P)H] large subunit [FAD flavoprotein] NirB	302.866	90352.6
+Rv0253	nirD	Probable nitrite reductase [NAD(P)H] small subunit NirD	305.453	12398.1
+Rv0254c	cobU	Probable bifunctional cobalamin biosynthesis protein CobU: cobinamide kinase + cobinamide phosphate guanylyltransferase	305.825	18109.8
+Rv0255c	cobQ1	Probable cobyric acid synthase CobQ1	306.374	52134.6
+Rv0266c	oplA	Probable 5-oxoprolinase OplA (5-oxo-L-prolinase) (pyroglutamase) (5-OPASE)	317.525	129618
+Rv0291	mycP3	Probable membrane-anchored mycosin MycP3 (serine protease) (subtilisin-like protease) (subtilase-like) (mycosin-3)	354.498	46127.1
+Rv0294	tam	Probable trans-aconitate methyltransferase Tam	358.171	29268.3
+Rv0296c	Rv0296c	Probable sulfatase	359.758	51814
+Rv0303	Rv0303	Probable dehydrogenase/reductase	365.234	32711.4
+Rv0306	Rv0306	Putative oxidoreductase	375.914	24865.7
+Rv0315	Rv0315	Possible beta-1,3-glucanase precursor	383.602	32186.1
+Rv0316	Rv0316	Possible muconolactone isomerase	384.535	22331.7
+Rv0317c	glpQ2	Possible glycerophosphoryl diester phosphodiesterase GlpQ2 (glycerophosphodiester phosphodiesterase)	385.173	28286.6
+Rv0319	pcp	Probable pyrrolidone-carboxylate peptidase Pcp (5-oxoprolyl-peptidase) (pyroglutamyl-peptidase I) (PGP-I) (pyrase)	387.148	23192.9
+Rv0321	dcd	Probable deoxycytidine triphosphate deaminase Dcd (dCTP deaminase)	388.582	20837.6
+Rv0322	udgA	Probable UDP-glucose 6-dehydrogenase UdgA (UDP-GLC dehydrogenase) (UDP-GLCDH) (UDPGDH)	389.26	47330.2
+Rv0327c	cyp135A1	Possible cytochrome P450 135A1 Cyp135A1	392.696	50010.8
+Rv0331	Rv0331	Possible dehydrogenase/reductase	396.201	40788.4
+Rv0334	rmlA	Alpha-D-glucose-1-phosphate thymidylyltransferase RmlA (dTDP-glucose synthase) (dTDP-glucose pyrophosphorylase)	398.658	31492
+Rv0337c	aspC	Probable aspartate aminotransferase AspC (transaminase A) (ASPAT)	401.873	47318
+Rv0338c	Rv0338c	Probable iron-sulfur-binding reductase	403.193	95453.7
+Rv0357c	purA	Probable adenylosuccinate synthetase PurA (imp--aspartate ligase) (ADSS) (ampsase)	435.471	46822.5
+Rv0363c	fba	Probable fructose-bisphosphate aldolase Fba	441.265	36544.5
+Rv0369c	Rv0369c	Possible membrane oxidoreductase	446.531	18268.8
+Rv0370c	Rv0370c	Possible oxidoreductase	447.147	32505.9
+Rv0373c	Rv0373c	Probable carbon monoxyde dehydrogenase (large chain)	449.404	85888.9
+Rv0374c	Rv0374c	Probable carbon monoxyde dehydrogenase (small chain)	451.8	17214.8
+Rv0375c	Rv0375c	Probable carbon monoxyde dehydrogenase (medium chain)	452.294	29965.2
+Rv0380c	Rv0380c	Possible RNA methyltransferase (RNA methylase)	456.268	19879.5
+Rv0382c	pyrE	Probable orotate phosphoribosyltransferase PyrE (OPRT) (oprtase)	457.841	18860.4
+Rv0385	Rv0385	Probable monooxygenase	462.135	43245.1
+Rv0389	purT	Probable phosphoribosylglycinamide formyltransferase 2 PurT (GART 2) (gar transformylase 2) (5'-phosphoribosylglycinamide transformylase 2) (formate-dependent gar transformylase)	468.335	43645.7
+Rv0391	metZ	Probable O-succinylhomoserine sulfhydrylase MetZ (OSH sulfhydrylase)	470.01	43345.2
+Rv0392c	ndhA	Probable membrane NADH dehydrogenase NdhA	471.227	50385.3
+Rv0407	fgd1	F420-dependent glucose-6-phosphate dehydrogenase Fgd1	490.783	36956.8
+Rv0408	pta	Probable phosphate acetyltransferase Pta (phosphotransacetylase)	491.786	72930.5
+Rv0409	ackA	Probable acetate kinase AckA (acetokinase)	493.851	41318.2
+Rv0414c	thiE	Thiamine-phosphate pyrophosphorylase ThiE (TMP pyrophosphorylase) (TMP-PPASE) (thiamine-phosphate synthase)	500.35	23239.3
+Rv0415	thiO	Possible thiamine biosynthesis oxidoreductase ThiO	501.148	36534.8
+Rv0416	thiS	Possible protein ThiS	502.167	7367.51
+Rv0417	thiG	Probable thiamin biosynthesis protein ThiG (thiazole biosynthesis protein)	502.366	25845.7
+Rv0422c	thiD	Probable phosphomethylpyrimidine kinase ThiD (HMP-phosphate kinase) (HMP-P kinase)	507.758	27510.5
+Rv0423c	thiC	Probable thiamine biosynthesis protein ThiC	508.582	59897.7
+Rv0428c	Rv0428c	GCN5-related N-acetyltransferase	516.895	32650.1
+Rv0438c	moeA2	Probable molybdopterin biosynthesis protein MoeA2	526.143	41989
+Rv0439c	Rv0439c	Probable dehydrogenase/reductase	527.379	33650.1
+Rv0457c	Rv0457c	Probable peptidase	547.586	74464.1
+Rv0458	Rv0458	Probable aldehyde dehydrogenase	549.675	54574.8
+Rv0462	lpdC	Dihydrolipoamide dehydrogenase LpdC (lipoamide reductase (NADH)) (lipoyl dehydrogenase) (dihydrolipoyl dehydrogenase) (diaphorase)	552.614	49207.1
+Rv0467	icl1	Isocitrate lyase Icl (isocitrase) (isocitratase)	557.527	47086.6
+Rv0478	deoC	Probable deoxyribose-phosphate aldolase DeoC (phosphodeoxyriboaldolase) (deoxyriboaldolase)	567.222	22036.2
+Rv0480c	Rv0480c	Possible amidohydrolase	568.964	28995
+Rv0484c	Rv0484c	Probable short-chain type oxidoreductase	573.046	26416.1
+Rv0486	mshA	Glycosyltransferase MshA	575.348	50541.4
+Rv0489	gpm1	Probable phosphoglycerate mutase 1 Gpm1 (phosphoglyceromutase) (PGAM) (BPG-dependent PGAM)	578.426	27215.8
+Rv0492c	Rv0492c	Probable oxidoreductase GMC-type	581.489	66154.2
+Rv0500	proC	Probable pyrroline-5-carboxylate reductase ProC (P5CR) (P5C reductase)	590.083	30171.6
+Rv0501	galE2	Possible UDP-glucose 4-epimerase GalE2 (galactowaldenase) (UDP-galactose 4-epimerase) (uridine diphosphate galactose 4-epimerase) (uridine diphospho-galactose 4-epimerase)	591.654	41032.1
+Rv0505c	serB1	Possible phosphoserine phosphatase SerB1 (PSP) (O-phosphoserine phosphohydrolase) (pspase)	595.464	39508
+Rv0509	hemA	Probable glutamyl-tRNA reductase HemA (GLUTR)	600.441	49329.3
+Rv0510	hemC	Probable porphobilinogen deaminase HemC (PBG) (hydroxymethylbilane synthase) (HMBS) (pre-uroporphyrinogen synthase)	601.857	31906.3
+Rv0511	hemD	Probable uroporphyrin-III C-methyltransferase HemD (uroporphyrinogen III methylase) (urogen III methylase) (SUMT) (urogen III methylase) (UROM)	602.819	58835.6
+Rv0512	hemB	Probable delta-aminolevulinic acid dehydratase HemB (porphobilinogen synthase) (ALAD) (ALADH)	604.602	34871.5
+Rv0517	Rv0517	Possible membrane acyltransferase	608.746	48178.5
+Rv0520	Rv0520	Possible methyltransferase/methylase (fragment)	612.255	13058.7
+Rv0521	Rv0521	Possible methyltransferase/methylase (fragment)	612.598	11710.3
+Rv0524	hemL	Probable glutamate-1-semialdehyde 2,1-aminomutase HemL (GSA) (glutamate-1-semialdehyde aminotransferase) (GSA-at)	614.835	47515.9
+Rv0526	Rv0526	Possible thioredoxin protein (thiol-disulfide interchange protein)	616.846	23218.3
+Rv0527	ccdA	Possible cytochrome C-type biogenesis protein CcdA	617.493	26488.7
+Rv0529	ccsA	Possible cytochrome C-type biogenesis protein CcsA	619.891	35035.1
+Rv0534c	menA	1,4-dihydroxy-2-naphthoate octaprenyltransferase MenA (DHNA-octaprenyltransferase)	625.562	29982.3
+Rv0535	pnp	Probable 5'-methylthioadenosine phosphorylase Pnp (MTA phosphorylase)	626.457	27963.7
+Rv0536	galE3	Probable UDP-glucose 4-epimerase GalE3 (galactowaldenase) (UDP-galactose 4-epimerase) (uridine diphosphate galactose 4-epimerase) (uridine diphospho-galactose 4-epimerase)	627.248	36219.2
+Rv0539	Rv0539	Probable dolichyl-phosphate sugar synthase (dolichol-phosphate sugar synthetase) (dolichol-phosphate sugar transferase) (sugar phosphoryldolichol synthase)	631.743	22371.8
+Rv0542c	menE	Possible O-succinylbenzoic acid--CoA ligase MenE (OSB-CoA synthetase) (O-succinylbenzoate-CoA synthase)	634.416	36586.8
+Rv0547c	Rv0547c	Possible oxidoreductase	638.032	31834.9
+Rv0548c	menB	Naphthoate synthase MenB (dihydroxynaphthoic acid synthetase) (DHNA synthetase)	639.012	34656.9
+Rv0553	menC	Probable muconate cycloisomerase MenC (cis,cis-muconate lactonizing enzyme) (MLE)	644.49	33943.2
+Rv0555	menD	Probable bifunctional menaquinone biosynthesis protein MenD : 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (SHCHC synthase) + 2-oxoglutarate decarboxylase (alpha- ketoglutarate decarboxylase) (KDC)	646.298	57803.8
+Rv0558	menH	Probable ubiquinone/menaquinone biosynthesis methyltransferase MenH (2-heptaprenyl-1,4-naphthoquinone methyltransferase)	649.689	25298.9
+Rv0560c	Rv0560c	Possible benzoquinone methyltransferase (methylase)	650.779	25945.3
+Rv0561c	Rv0561c	Possible oxidoreductase	651.529	43837.9
+Rv0562	grcC1	Probable polyprenyl-diphosphate synthase GrcC1 (polyprenyl pyrophosphate synthetase)	652.771	35528.3
+Rv0565c	Rv0565c	Probable monooxygenase	656.01	54525.8
+Rv0567	Rv0567	Probable methyltransferase/methylase	658.321	37111.4
+Rv0568	cyp135B1	Possible cytochrome P450 135B1 Cyp135B1	659.45	50687.5
+Rv0573c	pncB2	Nicotinic acid phosphoribosyltransferase PncB2	665.851	50508.6
+Rv0575c	Rv0575c	Possible oxidoreductase	668.579	43366.1
+Rv0618	galTa	Probable galactose-1-phosphate uridylyltransferase GalTa [first part]	711.536	24735.1
+Rv0619	galTb	Probable galactose-1-phosphate uridylyltransferase GalTb [second part]	712.174	20744.7
+Rv0620	galK	Probable galactokinase GalK (galactose kinase)	712.716	37572.4
+Rv0635	hadA	(3R)-hydroxyacyl-ACP dehydratase subunit HadA	731.93	17448.5
+Rv0636	hadB	(3R)-hydroxyacyl-ACP dehydratase subunit HadB	732.393	14934
+Rv0637	hadC	(3R)-hydroxyacyl-ACP dehydratase subunit HadC	732.825	18929.7
+Rv0646c	lipG	Probable lipase/esterase LipG	740.234	32931
+Rv0648	Rv0648	Alpha-mannosidase	742.719	129949
+Rv0650	Rv0650	Possible sugar kinase	747.037	29269.8
+Rv0654	Rv0654	Probable dioxygenase	750	54943.8
+Rv0663	atsD	Possible arylsulfatase AtsD (aryl-sulfate sulphohydrolase) (arylsulphatase)	756.137	86127.6
+Rv0669c	Rv0669c	Possible hydrolase	767.684	69490.1
+Rv0687	Rv0687	Probable short-chain type dehydrogenase/reductase	787.099	28995.9
+Rv0688	Rv0688	Putative ferredoxin reductase	787.94	43017.8
+Rv0691A	Rv0691A	Mycofactocin precursor protein	791.658	7066.04
+Rv0693	pqqE	Probable coenzyme PQQ synthesis protein E PqqE (coenzyme PQQ synthesis protein III)	792.157	42448.2
+Rv0694	lldD1	Possible L-lactate dehydrogenase (cytochrome) LldD1	793.335	42129.2
+Rv0696	Rv0696	Probable membrane sugar transferase	795.519	50666.6
+Rv0697	Rv0697	Probable dehydrogenase	796.933	50259.4
+Rv0711	atsA	Possible arylsulfatase AtsA (aryl-sulfate sulphohydrolase) (arylsulphatase)	806.335	86214.5
+Rv0727c	fucA	Possible L-fuculose phosphate aldolase FucA (L-fuculose-1-phosphate aldolase)	819.843	23066.3
+Rv0728c	serA2	Possible D-3-phosphoglycerate dehydrogenase SerA2 (phosphoglycerate dehydrogenase) (PGDH)	820.496	34407.2
+Rv0729	xylB	Possible D-xylulose kinase XylB (xylulokinase) (xylulose kinase)	821.507	46543.7
+Rv0730	Rv0730	GCN5-related N-acetyltransferase	822.866	25980.1
+Rv0733	adk	Adenylate kinase Adk (ATP-AMP transphosphorylase)	826.122	20092.8
+Rv0734	mapA	Methionine aminopeptidase MapA (map) (peptidase M) (MetAP)	826.67	27276.9
+Rv0751c	mmsB	Probable 3-hydroxyisobutyrate dehydrogenase MmsB (hibadh)	842.347	29679
+Rv0753c	mmsA	Probable methylmalonate-semialdehyde dehydrogenase MmsA (methylmalonic acid semialdehyde dehydrogenase) (MMSDH)	844.421	54453.9
+Rv0761c	adhB	Possible zinc-containing alcohol dehydrogenase NAD dependent AdhB	854.699	39715.6
+Rv0763c	Rv0763c	Possible ferredoxin	856.473	7680.71
+Rv0764c	cyp51	Cytochrome P450 51 Cyp51 (CYPL1) (P450-L1A1) (sterol 14-alpha demethylase) (lanosterol 14-alpha demethylase) (P450-14DM)	856.682	50877.8
+Rv0765c	Rv0765c	Probable oxidoreductase	858.037	29064.4
+Rv0766c	cyp123	Probable cytochrome P450 123 Cyp123	858.864	45421.4
+Rv0768	aldA	Probable aldehyde dehydrogenase NAD dependent AldA (aldehyde dehydrogenase [NAD+])	860.912	51183.9
+Rv0769	Rv0769	Probable dehydrogenase/reductase	862.412	25965.9
+Rv0770	Rv0770	Probable dehydrogenase/reductase	863.256	30445.8
+Rv0771	Rv0771	Possible 4-carboxymuconolactone decarboxylase (CMD)	864.14	16073.4
+Rv0772	purD	Probable phosphoribosylamine--glycine ligase PurD (GARS) (glycinamide ribonucleotide synthetase) (phosphoribosylglycinamide synthetase) (5'-phosphoribosylglycinamide synthetase)	864.586	43476.6
+Rv0773c	ggtA	Probable bifunctional acylase GgtA: cephalosporin acylase (GL-7ACA acylase) + gamma-glutamyltranspeptidase (GGT)	865.851	54592.9
+Rv0777	purB	Probable adenylosuccinate lyase PurB (adenylosuccinase) (ASL) (ASASE)	870.008	51008.4
+Rv0778	cyp126	Possible cytochrome P450 126 Cyp126	871.431	45954
+Rv0780	purC	Phosphoribosylaminoimidazole- succinocarboxamide synthase PurC (SAICAR synthetase)	873.343	32930.2
+Rv0781	ptrBa	Probable protease II PtrBa [first part] (oligopeptidase B)	874.233	26916
+Rv0782	ptrBb	Probable protease II PtrBb [second part] (oligopeptidase B)	874.732	60864.2
+Rv0788	purQ	Probable phosphoribosylformylglycinamidine synthase I PURG (FGAM synthase I)	882.76	23600.8
+Rv0793	Rv0793	Possible monooxygenase	886.719	11191.7
+Rv0794c	Rv0794c	Probable oxidoreductase	887.137	52476.4
+Rv0800	pepC	Probable aminopeptidase PepC	893.318	46013
+Rv0802c	Rv0802c	Possible succinyltransferase in the GCN5-related N-acetyltransferase family	894.972	24983.3
+Rv0803	purL	Phosphoribosylformylglycinamidine synthase II PurL (FGAM synthase II)	895.82	79475
+Rv0805	Rv0805	Class III cyclic nucleotide phosphodiesterase (cNMP PDE)	898.831	34200.9
+Rv0808	purF	Amidophosphoribosyltransferase PurF (glutamine phosphoribosylpyrophosphate amidotransferase) (ATASE) (gpatase)	902.111	56129.6
+Rv0809	purM	Probable phosphoribosylformylglycinamidine CYCLO-ligase PurM (AIRS) (phosphoribosyl-aminoimidazole synthetase) (air synthase)	903.725	38393.3
+Rv0812	Rv0812	Probable amino acid aminotransferase	906.423	31090.6
+Rv0814c	sseC2	Conserved protein SseC2	908.181	10165.3
+Rv0815c	cysA2	Probable thiosulfate sulfurtransferase CysA2 (rhodanese-like protein) (thiosulfate cyanide transsulfurase) (thiosulfate thiotransferase)	908.485	31014.6
+Rv0816c	thiX	Probable thioredoxin ThiX	909.611	14758
+Rv0819	mshD	GCN5-related N-acetyltransferase, MshD	911.736	33567.1
+Rv0828c	Rv0828c	Possible deaminase	921.191	15900.8
+Rv0840c	pip	Probable proline iminopeptidase Pip (prolyl aminopeptidase) (pap)	936.457	31893.2
+Rv0843	Rv0843	Probable dehydrogenase	939.388	35725.4
+Rv0846c	Rv0846c	Probable oxidase	942.68	53795.9
+Rv0848	cysK2	Possible cysteine synthase a CysK2 (O-acetylserine sulfhydrylase) (O-acetylserine (thiol)-lyase) (CSASE)	944.938	40086.4
+Rv0851c	Rv0851c	Probable short-chain type dehydrogenase/reductase	947.641	29217
+Rv0853c	pdc	Probable pyruvate or indole-3-pyruvate decarboxylase Pdc	949.436	59751.1
+Rv0858c	dapC	Probable N-succinyldiaminopimelate aminotransferase DapC (DAP-at)	953.727	42209.1
+Rv0864	moaC2	Probable molybdenum cofactor biosynthesis protein C 2 MoaC2	962.89	17598.1
+Rv0865	mog	Probable molybdopterin biosynthesis Mog protein	963.39	16188.3
+Rv0866	moaE2	Probable molybdenum cofactor biosynthesis protein E2 MoaE2 (molybdopterin converting factor large subunit) (molybdopterin [MPT] converting factor, subunit 2)	963.869	15048.1
+Rv0868c	moaD2	Probable molybdenum cofactor biosynthesis protein D 2 MoaD2 (molybdopterin converting factor small subunit) (molybdopterin [MPT] converting factor, subunit 1)	965.983	9407.63
+Rv0869c	moaA2	Probable molybdenum cofactor biosynthesis protein A2 MoaA2	966.265	38985.7
+Rv0881	Rv0881	Possible rRNA methyltransferase (rRNA methylase)	979.362	30570
+Rv0884c	serC	Possible phosphoserine aminotransferase SerC (PSAT)	981.424	40233.4
+Rv0886	fprB	Probable NADPH:adrenodoxin oxidoreductase FprB (adrenodoxin reductase) (AR) (ferredoxin-NADP(+) reductase)	983.803	61337.2
+Rv0889c	citA	Probable citrate synthase II CitA	988.74	40146.8
+Rv0892	Rv0892	Probable monooxygenase	993.853	55038.9
+Rv0896	gltA2	Probable citrate synthase I GltA2	999.472	47946.4
+Rv0897c	Rv0897c	Probable oxidoreductase	1000.81	56233.9
+Rv0913c	Rv0913c	Possible dioxygenase	1017.22	56639.1
+Rv0919	Rv0919	GCN5-related N-acetyltransferase	1024.68	18048.6
+Rv0927c	Rv0927c	Probable short-chain type dehydrogenase/reductase	1033.84	26745.7
+Rv0939	Rv0939	Possible bifunctional enzyme: 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase (HHDD isomerase) + cyclase/dehydrase	1048.41	69353.6
+Rv0940c	Rv0940c	Possible oxidoreductase	1050.59	31756.5
+Rv0943c	Rv0943c	Probable monooxygenase	1052.7	37173.7
+Rv0945	Rv0945	Probable short-chain type dehydrogenase/reductase	1054.25	27138.6
+Rv0946c	pgi	Probable glucose-6-phosphate isomerase Pgi (GPI) (phosphoglucose isomerase) (phosphohexose isomerase) (phi)	1055.02	59974.4
+Rv0948c	Rv0948c	Chorismate mutase	1057.65	11770.6
+Rv0951	sucC	Probable succinyl-CoA synthetase (beta chain) SucC (SCS-beta)	1061.96	40925.7
+Rv0952	sucD	Probable succinyl-CoA synthetase (alpha chain) SucD (SCS-alpha)	1063.14	31228.9
+Rv0953c	Rv0953c	Possible oxidoreductase	1064.11	30913.3
+Rv0956	purN	Probable 5'-phosphoribosylglycinamide formyltransferase PurN (GART) (gar transformylase) (5'-phosphoribosylglycinamide transformylase)	1067.56	22383.7
+Rv0957	purH	Probable bifunctional purine biosynthesis protein PurH: phosphoribosylaminoimidazolecarboxamide formyltransferase (AICAR transformylase) (5'-phosphoribosyl-5-aminoimidazole-4-carboxamide formyltransferase) + inosinemonophosphate cyclohydrolase (imp cyclohydrolase) (inosinicase) (imp synthetase) (ATIC)	1068.2	55026.2
+Rv0958	Rv0958	Possible magnesium chelatase	1069.88	49581.4
+Rv0983	pepD	Probable serine protease PepD (serine proteinase) (MTB32B)	1099.07	46452.6
+Rv0984	moaB2	Possible pterin-4-alpha-carbinolamine dehydratase MoaB2 (PHS) (4-alpha- hydroxy-tetrahydropterin dehydratase) (pterin-4-a-carbinolamine dehydratase) (phenylalanine hydroxylase-stimulating protein) (PHS) (pterin carbinolamine dehydratase) (PCD)	1100.46	18441
+Rv0989c	grcC2	Probable polyprenyl-diphosphate synthase GrcC2 (polyprenyl pyrophosphate synthetase)	1106.41	34757.3
+Rv0993	galU	UTP--glucose-1-phosphate uridylyltransferase GalU (UDP-glucose pyrophosphorylase) (UDPGP) (alpha-D-glucosyl-1-phosphate uridylyltransferase) (uridine diphosphoglucose pyrophosphorylase)	1109.27	32378.2
+Rv0994	moeA1	Probable molybdopterin biosynthesis protein MoeA1	1110.27	44304.8
+Rv1001	arcA	Probable arginine deiminase ArcA (adi) (ad) (arginine dihydrolase)	1117.19	43057.1
+Rv1005c	pabB	Probable para-aminobenzoate synthase component I PABD	1122.22	47880.5
+Rv1011	ispE	Probable 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase IspE (CMK) (4-(cytidine-5'-diphospho)-2-C-methyl-D-erythritol kinase)	1130.19	31349.6
+Rv1014c	pth	Probable peptidyl-tRNA hydrolase Pth	1133.33	20455.5
+Rv1017c	prsA	Probable ribose-phosphate pyrophosphokinase PrsA (phosphoribosyl pyrophosphate synthetase) (PRPP synthetase)	1135.5	35459.4
+Rv1023	eno	Probable enolase Eno	1144.56	44929.5
+Rv1050	Rv1050	Probable oxidoreductase	1172.88	32497.4
+Rv1076	lipU	Possible lipase LipU	1200.77	31649.3
+Rv1077	cbs	Probable cystathionine beta-synthase Cbs (serine sulfhydrase) (beta-thionase) (hemoprotein H-450)	1201.72	48635.2
+Rv1079	metB	Cystathionine gamma-synthase MetB (CGS) (O-succinylhomoserine [thiol]-lyase)	1204.07	40982.3
+Rv1089A	celA2a	Probable cellulase CelA2a (endo-1,4-beta-glucanase) (endoglucanase) (carboxymethyl cellulase)	1215.52	3489.89
+Rv1090	celA2b	Probable cellulase CelA2b (endo-1,4-beta-glucanase) (endoglucanase) (carboxymethyl cellulase)	1215.6	16372.2
+Rv1092c	coaA	Probable pantothenate kinase CoaA (pantothenic acid kinase)	1219.25	35656.9
+Rv1093	glyA1	Serine hydroxymethyltransferase 1 GlyA1	1220.57	45029.4
+Rv1095	phoH2	Probable PHOH-like protein PhoH2 (phosphate starvation-inducible protein PSIH)	1223	46881.5
+Rv1096	Rv1096	Possible glycosyl hydrolase	1224.39	31077.1
+Rv1098c	fum	Probable fumarase Fum (fumarate hydratase)	1226.14	50141
+Rv1099c	glpX	Fructose 1,6-bisphosphatase GlpX	1227.6	38084
+Rv1104	Rv1104	Possible para-nitrobenzyl esterase (fragment)	1231.3	25169.5
+Rv1105	Rv1105	Possible para-nitrobenzyl esterase (fragment)	1232.31	19144.8
+Rv1106c	Rv1106c	3-beta-hydroxysteroid dehydrogenase	1232.84	40741.6
+Rv1121	zwf1	Probable glucose-6-phosphate 1-dehydrogenase Zwf1 (G6PD)	1243.71	52155.3
+Rv1122	gnd2	Probable 6-phosphogluconate dehydrogenase, decarboxylating Gnd2	1245.13	36358.1
+Rv1127c	ppdK	Probable pyruvate, phosphate dikinase PpdK	1249.93	52004.7
+Rv1130	prpD	Possible methylcitrate dehydratase PrpD	1254.56	57750.6
+Rv1131	prpC	Probable methylcitrate synthase PrpC	1256.13	42969.4
+Rv1133c	metE	Probable 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase MetE (methionine synthase, vitamin-B12 independent isozyme)	1259.07	81549.5
+Rv1138c	Rv1138c	Possible oxidoreductase	1265.47	36345.6
+Rv1144	Rv1144	Probable short-chain type dehydrogenase/reductase	1271.16	25787.8
+Rv1155	Rv1155	Possible pyridoxamine 5'-phosphate oxidase (PNP/PMP oxidase) (pyridoxinephosphate oxidase) (PNPOX) (pyridoxine 5'-phosphate oxidase)	1281.43	16300.5
+Rv1161	narG	Respiratory nitrate reductase (alpha chain) NarG	1287.33	136924
+Rv1162	narH	Probable respiratory nitrate reductase (beta chain) NarH	1291.06	62037.8
+Rv1163	narJ	Probable respiratory nitrate reductase (delta chain) NarJ	1292.8	21886
+Rv1164	narI	Probable respiratory nitrate reductase (gamma chain) NarI	1293.41	28040.1
+Rv1170	mshB	N-acetyl-1-D-myo-inosityl-2-amino-2-deoxy-alpha-D-glucopyranoside deacetylase MshB (GlcNAc-Ins deacetylase)	1300.3	31742.3
+Rv1173	fbiC	Probable F420 biosynthesis protein FbiC	1302.93	92474.2
+Rv1177	fdxC	Probable ferredoxin FdxC	1309.01	11807.1
+Rv1178	Rv1178	Probable aminotransferase	1309.36	37702.2
+Rv1187	rocA	Probable pyrroline-5-carboxylate dehydrogenase RocA	1329.39	58841.4
+Rv1188	Rv1188	Probable proline dehydrogenase	1331.02	36237.1
+Rv1201c	dapD	Tetrahydrodipicolinate N-succinyltransferase DapD	1344.22	32609.8
+Rv1202	dapE	Probable succinyl-diaminopimelate desuccinylase DapE	1345.26	37241
+Rv1207	folP2	Dihydropteroate synthase 2 FolP2 (DHPS 2) (dihydropteroate pyrophosphorylase 2)	1351.19	33013.7
+Rv1208	gpgS	Probable glucosyl-3-phosphoglycerate synthase GpgS	1352.14	34379.4
+Rv1212c	glgA	Putative glycosyl transferase GlgA	1354.5	41532.5
+Rv1213	glgC	Glucose-1-phosphate adenylyltransferase GlgC (ADP-glucose synthase) (ADP-glucose pyrophosphorylase)	1355.84	43800.4
+Rv1220c	Rv1220c	Probable methyltransferase	1363.5	22107.1
+Rv1223	htrA	Probable serine protease HtrA (DEGP protein)	1365.88	54157.6
+Rv1229c	mrp	Probable Mrp-related protein Mrp	1371.78	41063.3
+Rv1240	mdh	Probable malate dehydrogenase Mdh	1383.21	34289.7
+Rv1245c	Rv1245c	Probable short-chain type dehydrogenase/reductase	1387.8	29215.3
+Rv1248c	Rv1248c	Multifunctional alpha-ketoglutarate metabolic enzyme	1389.36	135870
+Rv1254	Rv1254	Probable acyltransferase	1401.66	42314.4
+Rv1256c	cyp130	Probable cytochrome P450 130 Cyp130	1403.39	44580.5
+Rv1257c	Rv1257c	Probable oxidoreductase	1404.72	47237.9
+Rv1260	Rv1260	Probable oxidoreductase	1408.24	41297.2
+Rv1263	amiB2	Probable amidase AmiB2 (aminohydrolase)	1410.43	49048.9
+Rv1264	Rv1264	Adenylyl cyclase (ATP pyrophosphate-lyase) (adenylate cyclase)	1411.89	42200
+Rv1279	Rv1279	Probable dehydrogenase FAD flavoprotein GMC oxidoreductase	1430.06	57331.2
+Rv1284	canA	Beta-carbonic anhydrase	1437.32	18156.7
+Rv1285	cysD	Probable sulfate adenylyltransferase subunit 2 CysD	1437.91	37512.5
+Rv1286	cysN	Probable bifunctional enzyme CysN/CysC: sulfate adenyltransferase (subunit 1) + adenylylsulfate kinase	1438.91	67838.9
+Rv1293	lysA	Diaminopimelate decarboxylase LysA (DAP decarboxylase)	1448.03	47425.9
+Rv1294	thrA	Probable homoserine dehydrogenase ThrA	1449.38	45520.7
+Rv1295	thrC	Threonine synthase ThrC (ts)	1450.7	37321.9
+Rv1296	thrB	Probable homoserine kinase ThrB	1452	32346.4
+Rv1300	hemK	Probable HemK protein homolog HemK	1456.56	34589.6
+Rv1304	atpB	Probable ATP synthase a chain AtpB (protein 6)	1460.24	27466.6
+Rv1305	atpE	Probable ATP synthase C chain AtpE (lipid-binding protein) (dicyclohexylcarbodiimide-binding protein)	1461.05	8055.49
+Rv1306	atpF	Probable ATP synthase B chain AtpF	1461.32	18324.8
+Rv1307	atpH	Probable ATP synthase delta chain AtpH	1461.84	48805.8
+Rv1308	atpA	Probable ATP synthase alpha chain AtpA	1463.23	59288.3
+Rv1309	atpG	Probable ATP synthase gamma chain AtpG	1464.88	33890.4
+Rv1310	atpD	Probable ATP synthase beta chain AtpD	1465.84	53094.2
+Rv1311	atpC	Probable ATP synthase epsilon chain AtpC	1467.31	13134.8
+Rv1318c	Rv1318c	Possible adenylate cyclase (ATP pyrophosphate-lyase) (adenylyl cyclase)	1479.2	59331.6
+Rv1319c	Rv1319c	Possible adenylate cyclase (ATP pyrophosphate-lyase) (adenylyl cyclase)	1480.89	58097.6
+Rv1320c	Rv1320c	Possible adenylate cyclase (ATP pyrophosphate-lyase) (adenylyl cyclase)	1482.51	61964.8
+Rv1324	Rv1324	Possible thioredoxin	1487.16	32138.2
+Rv1326c	glgB	1,4-alpha-glucan branching enzyme GlgB (glycogen branching enzyme)	1490.12	81729.5
+Rv1327c	glgE	Probable glucanase GlgE	1492.32	78607.9
+Rv1328	glgP	Probable glycogen phosphorylase GlgP	1494.56	95483.3
+Rv1330c	pncB1	Nicotinic acid phosphoribosyltransferase PncB1	1499.21	47194.6
+Rv1333	Rv1333	Probable hydrolase	1501.6	33952.8
+Rv1334	mec	Possible hydrolase	1502.64	16497.5
+Rv1335	cysO	Sulfur carrier protein CysO	1503.1	9556.7
+Rv1336	cysM	Cysteine synthase B CysM (CSASE B) (O-phosphoserine sulfhydrylase B) (O-phosphoserine (thiol)-lyase B)	1503.39	34438
+Rv1355c	moeY	Possible molybdopterin biosynthesis protein MoeY	1521.89	78149.2
+Rv1360	Rv1360	Probable oxidoreductase	1531.35	37251.9
+Rv1373	Rv1373	Glycolipid sulfotransferase	1546.01	37005.8
+Rv1377c	Rv1377c	Putative transferase	1550.58	22815.5
+Rv1380	pyrB	Probable aspartate carbamoyltransferase PyrB (ATCase) (aspartate transcarbamylase)	1553.23	33818.6
+Rv1381	pyrC	Probable dihydroorotase PyrC (DHOase)	1554.19	45160.3
+Rv1383	carA	Probable carbamoyl-phosphate synthase small chain CarA (carbamoyl-phosphate synthetase glutamine chain)	1555.97	39748.7
+Rv1384	carB	Probable carbamoyl-phosphate synthase large chain CarB (carbamoyl-phosphate synthetase ammonia chain)	1557.1	118929
+Rv1385	pyrF	Probable orotidine 5'-phosphate decarboxylase PyrF (OMP decarboxylase) (ompdecase)	1560.44	27345.2
+Rv1389	gmk	Probable guanylate kinase Gmk	1564.4	22063.2
+Rv1391	dfp	Probable DNA/pantothenate metabolism flavoprotein homolog Dfp	1565.44	43544.9
+Rv1392	metK	Probable S-adenosylmethionine synthetase MetK (mat) (AdoMet synthetase) (methionine adenosyltransferase)	1566.82	43014.6
+Rv1393c	Rv1393c	Probable monoxygenase	1568.11	55251.7
+Rv1394c	cyp132	Probable cytochrome P450 132 Cyp132	1569.58	52229.1
+Rv1399c	nlhH	Probable non lipolytic carboxylesterase NlhH	1574.85	33906.5
+Rv1400c	lipI	Probable lipase LipH	1575.83	34052.7
+Rv1403c	Rv1403c	Putative methyltransferase	1579.6	30077.1
+Rv1405c	Rv1405c	Putative methyltransferase	1581.15	29262.3
+Rv1408	rpe	Probable ribulose-phosphate 3-epimerase Rpe (PPE) (R5P3E) (pentose-5-phosphate 3-epimerase)	1584.5	24073.4
+Rv1409	ribG	Probable bifunctional riboflavin biosynthesis protein RibG : diaminohydroxyphosphoribosylaminopyrimidine deaminase (riboflavin-specific deaminase) + 5-amino-6-(5-phosphoribosylamino) uracil reductase (HTP reductase)	1585.19	35366.5
+Rv1412	ribC	Probable riboflavin synthase alpha chain RibC (RibE)	1588.57	21320.2
+Rv1415	ribA2	Probable riboflavin biosynthesis protein RibA2 : GTP cyclohydrolase II + 3,4-dihydroxy-2-butanone 4-phosphate synthase (DHBP synthase)	1590.4	46017.3
+Rv1416	ribH	Probable riboflavin synthase beta chain RibH (6,7-dimethyl-8-ribityllumazine synthase) (DMRL synthase) (lumazine synthase)	1591.67	16338.5
+Rv1426c	lipO	Probable esterase LipO	1601.06	46096.9
+Rv1432	Rv1432	Probable dehydrogenase	1609.85	50476.4
+Rv1436	gap	Probable glyceraldehyde 3-phosphate dehydrogenase Gap (GAPDH)	1613.31	35923.9
+Rv1437	pgk	Probable phosphoglycerate kinase Pgk	1614.33	42512.5
+Rv1438	tpi	Probable triosephosphate isomerase Tpi (TIM)	1615.56	27371
+Rv1442	bisC	Probable biotin sulfoxide reductase BisC (BDS reductase) (BSO reductase)	1619.79	83390.1
+Rv1445c	devB	Probable 6-phosphogluconolactonase DevB (6PGL)	1623.71	25772.2
+Rv1446c	opcA	Putative OXPP cycle protein OpcA	1624.45	32717.6
+Rv1447c	zwf2	Probable glucose-6-phosphate 1-dehydrogenase Zwf2 (G6PD)	1625.42	57343
+Rv1448c	tal	Probable transaldolase Tal	1626.96	40720.7
+Rv1449c	tkt	Transketolase Tkt (TK)	1628.1	75556.7
+Rv1451	ctaB	Probable cytochrome C oxidase assembly factor CtaB	1635.03	33506.1
+Rv1454c	qor	Probable quinone reductase Qor (NADPH:quinone reductase) (zeta-crystallin homolog protein)	1639.67	34046.5
+Rv1464	csd	Probable cysteine desulfurase Csd	1651.52	44596.5
+Rv1465	Rv1465	Possible nitrogen fixation related protein	1652.77	17678.8
+Rv1470	trxA	Probable thioredoxin TrxA	1658.98	13439.5
+Rv1471	trxB1	Probable thioredoxin TrxB1	1659.37	13308.9
+Rv1475c	acn	Probable iron-regulated aconitate hydratase Acn (citrate hydro-lyase) (aconitase)	1663.21	102417
+Rv1485	hemZ	Ferrochelatase HemZ (protoheme ferro-lyase) (heme synthetase)	1675.02	37144
+Rv1497	lipL	Probable esterase LipL	1687.94	45783.6
+Rv1498c	Rv1498c	Probable methyltransferase	1689.3	23110
+Rv1500	Rv1500	Probable glycosyltransferase	1690.85	38095.1
+Rv1511	gmdA	GDP-D-mannose dehydratase GmdA (GDP-mannose 4,6 dehydratase) (GMD)	1703.07	38310.4
+Rv1512	epiA	Probable nucleotide-sugar epimerase EpiA	1704.09	34537.2
+Rv1516c	Rv1516c	Probable sugar transferase	1707.53	37932.4
+Rv1520	Rv1520	Probable sugar transferase	1711.03	39545.9
+Rv1523	Rv1523	Probable methyltransferase	1717.65	37915
+Rv1524	Rv1524	Probable glycosyltransferase	1718.73	44362
+Rv1526c	Rv1526c	Probable glycosyltransferase	1720.78	45696.3
+Rv1530	adh	Probable alcohol dehydrogenase Adh	1731.37	37996.5
+Rv1538c	ansA	Probable L-aparaginase AnsA	1741.21	32946.5
+Rv1542c	glbN	Hemoglobin GlbN	1744.43	14448.6
+Rv1552	frdA	Probable fumarate reductase [flavoprotein subunit] FrdA (fumarate dehydrogenase) (fumaric hydrogenase)	1757.68	63763.1
+Rv1553	frdB	Probable fumarate reductase [iron-sulfur subunit] FrdB (fumarate dehydrogenase) (fumaric hydrogenase)	1759.44	27234.4
+Rv1554	frdC	Probable fumarate reductase [membrane anchor subunit] FrdC (fumarate dehydrogenase) (fumaric hydrogenase)	1760.18	14449.3
+Rv1555	frdD	Probable fumarate reductase [membrane anchor subunit] FrdD (fumarate dehydrogenase) (fumaric hydrogenase)	1760.55	13753.5
+Rv1559	ilvA	Probable threonine dehydratase IlvA	1763.43	45008.9
+Rv1568	bioA	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase BioA	1775.39	46319.4
+Rv1569	bioF1	Probable 8-amino-7-oxononanoate synthase BioF1 (AONS) (8-amino-7-ketopelargonate synthase) (7-keto-8-amino-pelargonic acid synthetase) (7-KAP synthetase) (L-alanine--pimelyl CoA ligase)	1776.7	40027.9
+Rv1570	bioD	Dethiobiotin synthetase BioD	1777.86	22437.9
+Rv1589	bioB	Probable biotin synthetase BioB	1790.28	37517.8
+Rv1594	nadA	Probable quinolinate synthetase NadA	1794.76	37408.4
+Rv1595	nadB	Probable L-aspartate oxidase NadB	1795.81	53784.8
+Rv1596	nadC	Probable nicotinate-nucleotide pyrophosphatase NadC	1797.39	29951.1
+Rv1599	hisD	Probable histidinol dehydrogenase HisD (HDH)	1799.58	45346.2
+Rv1600	hisC1	Probable histidinol-phosphate aminotransferase HisC1	1800.9	40581.1
+Rv1601	hisB	Probable imidazole glycerol-phosphate dehydratase HisB	1802.04	22769.6
+Rv1602	hisH	Probable amidotransferase HisH	1802.66	21386.4
+Rv1603	hisA	Probable phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase HisA	1803.29	25730.9
+Rv1604	impA	Probable inositol-monophosphatase ImpA (imp)	1804.04	27978.9
+Rv1605	hisF	Probable cyclase HisF	1804.85	27220.9
+Rv1606	hisI	Probable phosphoribosyl-AMP 1,6 cyclohydrolase HisI	1805.65	12464.9
+Rv1609	trpE	Anthranilate synthase component I TrpE (glutamine amidotransferase)	1807.9	55816.9
+Rv1611	trpC	Probable indole-3-glycerol phosphate synthase TrpC	1810.24	28023.1
+Rv1612	trpB	Tryptophan synthase, beta subunit TrpB	1811.13	43286.7
+Rv1613	trpA	Probable tryptophan synthase, alpha subunit TrpA	1812.36	27727.7
+Rv1617	pykA	Probable pyruvate kinase PykA	1816.19	50667.1
+Rv1620c	cydC	Probable 'component linked with the assembly of cytochrome' transport transmembrane ATP-binding protein ABC transporter CydC	1819.96	59496.9
+Rv1621c	cydD	Probable 'component linked with the assembly of cytochrome' transport transmembrane ATP-binding protein ABC transporter CydD	1821.69	54766.1
+Rv1622c	cydB	Probable integral membrane cytochrome D ubiquinol oxidase (subunit II) CydB (cytochrome BD-I oxidase subunit II)	1823.36	37595.2
+Rv1623c	cydA	Probable integral membrane cytochrome D ubiquinol oxidase (subunit I) CydA (cytochrome BD-I oxidase subunit I)	1824.43	53826.5
+Rv1625c	cya	Membrane-anchored adenylyl cyclase Cya (ATP pyrophosphate-lyase) (adenylate cyclase)	1826.61	47337.5
+Rv1631	coaE	Probable dephospho-CoA kinase CoaE (dephosphocoenzyme a kinase)	1835.01	44668.6
+Rv1647	Rv1647	Adenylate cyclase (ATP pyrophosphate-lyase) (adenylyl cyclase)	1856.77	33938.7
+Rv1652	argC	Probable N-acetyl-gamma-glutamyl-phoshate reductase ArgC	1865.58	36304.3
+Rv1653	argJ	Probable glutamate N-acetyltransferase ArgJ	1866.63	41115.3
+Rv1654	argB	Probable acetylglutamate kinase ArgB	1867.84	30936.8
+Rv1655	argD	Probable acetylornithine aminotransferase ArgD	1868.72	40909.9
+Rv1656	argF	Probable ornithine carbamoyltransferase, anabolic ArgF	1869.92	33025.2
+Rv1658	argG	Probable argininosuccinate synthase ArgG	1871.36	43682.4
+Rv1659	argH	Probable argininosuccinate lyase ArgH	1872.64	49742.2
+Rv1666c	cyp139	Probable cytochrome P450 139 Cyp139	1892.27	47832.7
+Rv1681	moeX	Possible molybdopterin biosynthesis protein MoeX	1905.25	35338.5
+Rv1692	Rv1692	Probable phosphatase	1916.7	37010.9
+Rv1695	ppnK	Inorganic polyphosphate/ATP-NAD kinase PpnK (poly(P)/ATP NAD kinase)	1918.75	32871.6
+Rv1699	pyrG	Probable CTP synthase PyrG	1923.83	63603
+Rv1703c	Rv1703c	Probable catechol-O-methyltransferase	1929.13	21537.5
+Rv1712	cmk	Cytidylate kinase Cmk (CMP kinase) (cytidine monophosphate kinase) (ck)	1939.6	24145.2
+Rv1713	engA	Probable GTP-binding protein EngA	1940.29	49925.7
+Rv1714	Rv1714	Probable oxidoreductase	1941.85	27953.8
+Rv1723	Rv1723	Probable hydrolase	1949.34	43598.2
+Rv1726	Rv1726	Probable oxidoreductase	1951.85	49372.9
+Rv1731	gabD2	Possible succinate-semialdehyde dehydrogenase [NADP+] dependent (SSDH) GabD2	1957.68	55324.5
+Rv1736c	narX	Probable nitrate reductase NarX	1962.23	72793.3
+Rv1745c	idi	Probable isopentenyl-diphosphate delta-isomerase Idi (IPP isomerase) (isopentenyl pyrophosphate isomerase)	1971.38	22489.7
+Rv1751	Rv1751	Probable oxidoreductase	1979.62	50412.1
+Rv1755c	plcD	Probable phospholipase C 4 (fragment) PlcD	1986.85	29970.2
+Rv1771	Rv1771	L-gulono-1,4-lactone dehydrogenase	2005.16	48045.4
+Rv1774	Rv1774	Probable oxidoreductase	2007.83	48340.6
+Rv1777	cyp144	Probable cytochrome P450 144 Cyp144	2010.66	47186.8
+Rv1781c	malQ	Probable 4-alpha-glucanotransferase MalQ (amylomaltase) (disproportionating enzyme) (D-enzyme)	2015.3	79745
+Rv1785c	cyp143	Probable cytochrome P450 143 Cyp143	2023.45	43541.4
+Rv1786	Rv1786	Probable ferredoxin	2024.83	7353.18
+Rv1796	mycP5	Probable proline rich membrane-anchored mycosin MycP5 (serine protease) (subtilisin-like protease) (subtilase-like) (mycosin-5)	2033.73	60027.6
+Rv1812c	Rv1812c	Probable dehydrogenase	2054.16	41938
+Rv1817	Rv1817	Possible flavoprotein	2059.59	51034.9
+Rv1820	ilvG	Probable acetolactate synthase IlvG (acetohydroxy-acid synthase)(ALS)	2064.8	57520.5
+Rv1826	gcvH	Probable glycine cleavage system H protein GcvH	2071.95	14205.5
+Rv1832	gcvB	Probable glycine dehydrogenase GcvB (glycine decarboxylase) (glycine cleavage system P-protein)	2075.88	99478.8
+Rv1833c	Rv1833c	Possible haloalkane dehalogenase	2078.93	32151.1
+Rv1834	lipZ	Probable hydrolase	2079.83	31644.3
+Rv1837c	glcB	Malate synthase G GlcB	2084.76	80403
+Rv1843c	guaB1	Probable inosine-5'-monophosphate dehydrogenase GuaB1(imp dehydrogenase) (IMPDH) (IMPD)	2092.26	49932.8
+Rv1844c	gnd1	Probable 6-phosphogluconate dehydrogenase Gnd1	2093.73	51547.1
+Rv1848	ureA	Urease gamma subunit UreA (urea amidohydrolase)	2097.35	11089.7
+Rv1849	ureB	Urease beta subunit UreB (urea amidohydrolase)	2097.65	11189.9
+Rv1850	ureC	Urease alpha subunit UreC (urea amidohydrolase)	2097.96	60825.1
+Rv1851	ureF	Urease accessory protein UreF	2099.69	22355.5
+Rv1852	ureG	Urease accessory protein UreG	2100.34	23348.4
+Rv1853	ureD	Probable urease accessory protein UreD	2101.02	22303.2
+Rv1854c	ndh	Probable NADH dehydrogenase Ndh	2101.65	49619
+Rv1855c	Rv1855c	Possible oxidoreductase	2103.18	33188.2
+Rv1856c	Rv1856c	Possible oxidoreductase	2104.15	23228.1
+Rv1862	adhA	Probable alcohol dehydrogenase AdhA	2109.54	36631.7
+Rv1865c	Rv1865c	Probable short-chain type dehydrogenase	2112.11	30372.9
+Rv1869c	Rv1869c	Probable reductase	2119.46	43629.3
+Rv1872c	lldD2	Possible L-lactate dehydrogenase (cytochrome) LldD2	2121.91	45341.6
+Rv1876	bfrA	Probable bacterioferritin BfrA	2125.34	18340.7
+Rv1878	glnA3	Probable glutamine synthetase GlnA3 (glutamine synthase) (GS-I)	2128.02	46720.1
+Rv1880c	cyp140	Probable cytochrome P450 140 Cyp140	2130.54	48839.9
+Rv1882c	Rv1882c	Probable short-chain type dehydrogenase/reductase	2132.37	30010.4
+Rv1885c	Rv1885c	Chorismate mutase	2134.27	21926.8
+Rv1895	Rv1895	Possible dehydrogenase	2142.52	39479.2
+Rv1900c	lipJ	Probable lignin peroxidase LipJ	2146.25	49684.4
+Rv1905c	aao	Probable D-amino acid oxidase Aao	2151.43	34076.2
+Rv1915	aceAa	Probable isocitrate lyase AceAa [first part] (isocitrase) (isocitratase) (Icl)	2160.46	40489.8
+Rv1916	aceAb	Probable isocitrate lyase AceAb [second part] (isocitrase) (isocitratase) (Icl)	2161.57	44581.8
+Rv1923	lipD	Probable lipase LipD	2175.17	47151.8
+Rv1928c	Rv1928c	Probable short-chain type dehydrogenase/reductase	2180.45	27031.2
+Rv1936	Rv1936	Possible monooxygenase	2187.38	41829.7
+Rv1937	Rv1937	Possible oxygenase	2188.5	93428.7
+Rv1939	Rv1939	Probable oxidoreductase	2192.09	18378.1
+Rv1940	ribA1	Probable riboflavin biosynthesis protein RibA1 (GTP cyclohydrolase II)	2192.61	36869.2
+Rv1941	Rv1941	Probable short-chain type dehydrogenase/reductase	2193.66	25816.7
+Rv1988	erm(37)	Probable 23S rRNA methyltransferase Erm(37)	2231.68	19573.9
+Rv1990A	Rv1990A	Possible dehydrogenase (fragment)	2233.88	11752.3
+Rv2007c	fdxA	Ferredoxin FdxA	2256.08	12031.7
+Rv2029c	pfkB	6-phosphofructokinase PfkB (phosphohexokinase) (phosphofructokinase)	2275.41	35401.4
+Rv2043c	pncA	Pyrazinamidase/nicotinamidase PncA (PZase)	2288.68	19604.6
+Rv2045c	lipT	Carboxylesterase LipT	2289.69	56055.8
+Rv2062c	cobN	Cobalamin biosynthesis protein CobN	2317.17	129178
+Rv2064	cobG	Precorrin-3B synthase CobG	2321.45	37496.7
+Rv2065	cobH	Precorrin-8X methylmutase CobH (aka precorrin isomerase)	2322.55	21581.7
+Rv2066	cobI	Probable bifunctional protein, CobI-COBJ fusion protein: S-adenosyl-L-methionine-precorrin-2 methyl transferase + precorrin-3 methylase	2323.18	53911
+Rv2068c	blaC	Class a beta-lactamase BlaC	2325.89	32567.9
+Rv2070c	cobK	Precorrin-6X reductase CobK	2327.49	25704.8
+Rv2071c	cobM	Precorrin-3 methylase CobM (precorrin-4 C11-methyltransferase)	2328.22	26420.4
+Rv2072c	cobL	Precorrin-6Y C(5,15)-methyltransferase (decarboxylating) CobL	2328.97	41854.4
+Rv2073c	Rv2073c	Probable shortchain dehydrogenase	2330.21	25890
+Rv2074	Rv2074	Possible pyridoxamine 5'-phosphate oxidase (PNP/PMP oxidase) (pyridoxinephosphate oxidase) (PNPOX) (pyridoxine 5'-phosphate oxidase)	2330.99	14992
+Rv2089c	pepE	Dipeptidase PepE	2346.2	39439.8
+Rv2095c	pafC	Proteasome accessory factor C PafC	2353.36	33764.4
+Rv2096c	pafB	Proteasome accessory factor B PafB	2354.31	35300
+Rv2097c	pafA	Proteasome accessory factor a PafA	2355.32	51352
+Rv2109c	prcA	Proteasome alpha subunit PrcA; assembles with beta subunit PrcB.	2368.98	26849
+Rv2110c	prcB	Proteasome beta subunit PrcB; assembles with alpha subunit PrcA.	2369.73	30273
+Rv2111c	pup	Prokaryotic ubiquitin-like protein Pup	2370.6	6944.31
+Rv2112c	dop	Deamidase of pup Dop	2370.91	60129.2
+Rv2118c	Rv2118c	RNA methyltransferase	2377.47	30090.4
+Rv2121c	hisG	ATP phosphoribosyltransferase HisG	2379.81	30480.8
+Rv2122c	hisE	Phosphoribosyl-AMP pyrophosphatase HisE	2380.66	10242.5
+Rv2124c	metH	5-methyltetrahydrofolate--homocystein methyltransferase MetH (methionine synthase, vitamin-B12 dependent isozyme) (ms)	2382.49	130291
+Rv2129c	Rv2129c	Probable oxidoreductase	2390.31	31331.3
+Rv2130c	mshC	Cysteine:1D-myo-inosityl 2-amino-2-deoxy--D-glucopyranoside ligase MshC	2391.22	45594.5
+Rv2131c	cysQ	Monophosphatase CysQ	2392.52	28415.1
+Rv2139	pyrD	Probable dihydroorotate dehydrogenase PyrD	2398.72	37998.6
+Rv2141c	Rv2141c	Conserved protein	2400.38	48110.3
+Rv2161c	Rv2161c	Conserved protein	2422.27	30768.3
+Rv2170	Rv2170	GCN5-related N-acetyltransferase	2432.24	22926.2
+Rv2178c	aroG	3-deoxy-D-arabino-heptulosonate 7-phosphate synthase AroG (DAHP synthetase, phenylalanine-repressible)	2440.33	50641.4
+Rv2192c	trpD	Probable anthranilate phosphoribosyltransferase TrpD	2455.63	37707.8
+Rv2193	ctaE	Probable cytochrome C oxidase (subunit III) CtaE	2456.9	22388.1
+Rv2194	qcrC	Probable ubiquinol-cytochrome C reductase QcrC (cytochrome C subunit)	2457.55	29120.4
+Rv2195	qcrA	Probable rieske iron-sulfur protein QcrA	2458.39	46922.6
+Rv2196	qcrB	Probable ubiquinol-cytochrome C reductase QcrB (cytochrome B subunit)	2459.68	61014.4
+Rv2200c	ctaC	Probable transmembrane cytochrome C oxidase (subunit II) CtaC	2463.66	40447.6
+Rv2201	asnB	Probable asparagine synthetase AsnB	2465	72117.5
+Rv2202c	adoK	Adenosine kinase	2467.05	34440
+Rv2207	cobT	Probable nicotinate-nucleotide-dimethylbenzimidazol phosphoribosyltransferase CobT	2471.41	36411.3
+Rv2208	cobS	Probable cobalamin 5'-phosphate synthase CobS	2472.49	24313.7
+Rv2210c	ilvE	Branched-chain amino acid transaminase IlvE	2474.86	39666.1
+Rv2211c	gcvT	Probable aminomethyltransferase GcvT (glycine cleavage system T protein)	2476.04	39597
+Rv2212	Rv2212	Adenylyl cyclase (ATP pyrophosphate-lyase) (adenylate cyclase)	2477.19	39743
+Rv2213	pepB	Probable aminopeptidase PepB	2478.34	53449.3
+Rv2215	dlaT	DlaT, dihydrolipoamide acyltransferase, E2 component of pyruvate dehydrogenase	2481.97	57087.7
+Rv2217	lipB	Probable lipoate biosynthesis protein B LipB	2484.58	24178.6
+Rv2218	lipA	Probable lipoate biosynthesis protein A LipA	2485.27	34718.5
+Rv2220	glnA1	Glutamine synthetase GlnA1 (glutamine synthase) (GS-I)	2487.61	53537.9
+Rv2221c	glnE	Glutamate-ammonia-ligase adenylyltransferase GlnE (glutamine-synthetase adenylyltransferase)	2489.37	109106
+Rv2222c	glnA2	Probable glutamine synthetase GlnA2 (glutamine synthase) (GS-II)	2492.4	49607.8
+Rv2225	panB	3-methyl-2-oxobutanoate hydroxymethyltransferase PanB	2497.74	29336.4
+Rv2231c	cobC	Possible aminotransferase CobC	2504.6	38904.7
+Rv2236c	cobD	Probable cobalamin biosynthesis transmembrane protein CobD	2508.43	32944.1
+Rv2241	aceE	Pyruvate dehydrogenase E1 component AceE (pyruvate decarboxylase) (pyruvate dehydrogenase) (pyruvic dehydrogenase)	2512.54	100185
+Rv2249c	glpD1	Probable glycerol-3-phosphate dehydrogenase GlpD1	2523.24	54143.9
+Rv2250A	Rv2250A	Possible flavoprotein	2525.4	15458.6
+Rv2251	Rv2251	Possible flavoprotein	2525.56	49782.5
+Rv2259	mscR	S-nitrosomycothiol reductase MscR	2532.25	37888.2
+Rv2263	Rv2263	Possible oxidoreductase	2535.64	33965.9
+Rv2266	cyp124	Probable cytochrome P450 124 Cyp124	2540.1	47825
+Rv2268c	cyp128	Probable cytochrome P450 128 Cyp128	2542.81	53313.1
+Rv2276	cyp121	Cytochrome P450 121 Cyp121	2547.75	43256
+Rv2277c	Rv2277c	Possible glycerolphosphodiesterase	2549.12	32163.3
+Rv2280	Rv2280	Probable dehydrogenase	2551.56	48052
+Rv2284	lipM	Probable esterase LipM	2556.15	46681.4
+Rv2291	sseB	Probable thiosulfate sulfurtransferase SseB	2563.17	29367.9
+Rv2294	Rv2294	Probable aminotransferase	2565.33	44251.1
+Rv2296	Rv2296	Probable haloalkane dehalogenase	2567.5	33357.9
+Rv2321c	rocD2	Probable ornithine aminotransferase (C-terminus part) RocD2 (ornithine--oxo-acid aminotransferase)	2594.15	18880.7
+Rv2322c	rocD1	Probable ornithine aminotransferase (N-terminus part) RocD1 (ornithine--oxo-acid aminotransferase)	2594.7	22714.3
+Rv2332	mez	Probable [NAD] dependent malate oxidoreductase Mez (malic enzyme) (NAD-malic enzyme) (malate dehydrogenase (oxaloacetate decarboxylating)) (pyruvic-malic carboxylase) (NAD-me)	2605.11	59422.6
+Rv2334	cysK1	Cysteine synthase a CysK1 (O-acetylserine sulfhydrylase A) (O-acetylserine (thiol)-lyase A) (CSASE A)	2608.8	32752.7
+Rv2335	cysE	Probable serine acetyltransferase CysE (sat)	2609.73	23770.4
+Rv2338c	moeW	Possible molybdopterin biosynthesis protein MoeW	2613.11	35271.3
+Rv2344c	dgt	Probable deoxyguanosine triphosphate triphosphohydrolase Dgt (dGTPase) (dGTP triphosphohydrolase)	2622.46	46879.6
+Rv2349c	plcC	Probable phospholipase C 3 PlcC	2627.17	55047.5
+Rv2350c	plcB	Membrane-associated phospholipase C 2 PlcB	2628.78	55623.3
+Rv2351c	plcA	Membrane-associated phospholipase C 1 PlcA (MTP40 antigen)	2630.54	55381.2
+Rv2363	amiA2	Probable amidase AmiA2 (aminohydrolase)	2644.32	50851.7
+Rv2364c	era	Probable GTP-binding protein Era	2645.77	32460.4
+Rv2368c	phoH1	Probable PHOH-like protein PhoH1 (phosphate starvation-inducible protein PSIH)	2648.92	37767.3
+Rv2388c	hemN	Probable oxygen-independent coproporphyrinogen III oxidase HemN (coproporphyrinogenase) (coprogen oxidase)	2682.01	40333.6
+Rv2391	sirA	Ferredoxin-dependent sulfite reductase SirA	2684.68	62997.5
+Rv2392	cysH	Probable 3'-phosphoadenosine 5'-phosphosulfate reductase CysH (PAPS reductase, thioredoxin DEP.) (padops reductase) (3'- phosphoadenylylsulfate reductase) (PAPS sulfotransferase)	2686.37	27422.9
+Rv2393	che1	Ferrochelatase Che1	2687.13	29749.3
+Rv2394	ggtB	Probable gamma-glutamyltranspeptidase precursor GgtB (gamma-glutamyltransferase) (glutamyl transpeptidase)	2688.01	66527.5
+Rv2404c	lepA	Probable GTP-binding protein LepA (GTP-binding elongation factor)	2701.29	72363.7
+Rv2419c	gpgP	Glucosyl-3-phosphoglycerate phosphatase GpgP	2717.13	24174.3
+Rv2421c	nadD	Probable nicotinate-nucleotide adenylyltransferase NadD (deamido-NAD(+) pyrophosphorylase) (deamido-NAD(+) diphosphorylase) (nicotinate mononucleotide adenylyltransferase) (NAMN adenylyltransferase)	2718.17	23053
+Rv2427c	proA	Probable gamma-glutamyl phosphate reductase protein ProA (GPR) (glutamate-5-semialdehyde dehydrogenase) (glutamyl-gamma-semialdehyde dehydrogenase)	2724.23	43744.7
+Rv2435c	Rv2435c	Probable cyclase (adenylyl- or guanylyl-)(adenylate- or guanylate-)	2730.56	80245.8
+Rv2436	rbsK	Ribokinase RbsK	2733.23	30280.2
+Rv2438c	nadE	Glutamine-dependent NAD(+) synthetase NadE (NAD(+) synthase [glutamine-hydrolysing])	2734.79	74682.5
+Rv2439c	proB	Probable glutamate 5-kinase protein ProB (gamma-glutamyl kinase) (GK)	2737.12	38788.3
+Rv2440c	obg	Probable GTP1/Obg-family GTP-binding protein Obg	2738.25	50429
+Rv2445c	ndkA	Probable nucleoside diphosphate kinase NdkA (NDK) (NDP kinase) (nucleoside-2-P kinase)	2745.31	14475.5
+Rv2447c	folC	Probable folylpolyglutamate synthase protein FolC (folylpoly-gamma-glutamate synthetase) (FPGS)	2746.14	50779.3
+Rv2453c	mobA	Probable molybdopterin-guanine dinucleotide biosynthesis protein A MobA	2753.02	21052.4
+Rv2454c	Rv2454c	Probable oxidoreductase (beta subunit)	2753.62	40143.2
+Rv2455c	Rv2455c	Probable oxidoreductase (alpha subunit)	2754.74	69150.4
+Rv2457c	clpX	Probable ATP-dependent CLP protease ATP-binding subunit ClpX	2758.21	46782.7
+Rv2458	mmuM	Probable homocysteine S-methyltransferase MmuM (S-methylmethionine:homocysteine methyltransferase) (cysteine methyltransferase)	2759.78	31560.8
+Rv2460c	clpP2	Probable ATP-dependent CLP protease proteolytic subunit 2 ClpP2 (endopeptidase CLP 2)	2762.53	23507.7
+Rv2461c	clpP1	Probable ATP-dependent CLP protease proteolytic subunit 1 ClpP1 (endopeptidase CLP)	2763.17	21675.6
+Rv2463	lipP	Probable esterase/lipase LipP	2765.66	42839.3
+Rv2465c	rpiB	Ribose-5-phosphate isomerase	2767.67	17277.5
+Rv2467	pepN	Probable aminopeptidase N PepN (Lysyl aminopeptidase) (LYS-AP) (alanine aminopeptidase)	2768.99	94252.7
+Rv2470	glbO	Globin (oxygen-binding protein) GlbO	2773.18	14949.8
+Rv2471	aglA	Probable alpha-glucosidase AglA (maltase) (glucoinvertase) (glucosidosucrase) (maltase-glucoamylase) (lysosomal alpha-glucosidase) (acid maltase)	2773.56	60443.6
+Rv2476c	gdh	Probable NAD-dependent glutamate dehydrogenase Gdh (NAD-Gdh) (NAD-dependent glutamic dehydrogenase)	2777.39	176900
+Rv2485c	lipQ	Probable carboxylesterase LipQ	2792.72	45249.5
+Rv2495c	bkdC	Probable branched-chain keto acid dehydrogenase E2 component BkdC	2808.76	41061
+Rv2496c	bkdB	Probable branched-chain keto acid dehydrogenase E1 component, beta subunit BkdB	2809.94	38064.3
+Rv2497c	bkdA	Probable branched-chain keto acid dehydrogenase E1 component, alpha subunit BkdA	2810.99	40615.8
+Rv2498c	citE	Probable citrate (pro-3S)-lyase (beta subunit) CitE (citrase) (citratase) (citritase) (citridesmolase) (citrase aldolase)	2812.35	28885.8
+Rv2499c	Rv2499c	Possible oxidase regulatory-related protein	2813.17	20226.9
+Rv2509	Rv2509	Probable short-chain type dehydrogenase/reductase	2824.68	28013.2
+Rv2511	orn	Oligoribonuclease Orn	2827.16	23410.4
+Rv2531c	Rv2531c	Probable amino acid decarboxylase	2854.94	106029
+Rv2535c	pepQ	Probable cytoplasmic peptidase PepQ	2859.3	38758.9
+Rv2537c	aroD	3-dehydroquinate dehydratase AroD (AROQ) (3-dehydroquinase) (type II dhqase)	2861.15	15790
+Rv2538c	aroB	3-dehydroquinate synthase AroB	2861.59	38119.1
+Rv2539c	aroK	Shikimate kinase AroK (SK)	2862.67	18583.3
+Rv2540c	aroF	Probable chorismate synthase AroF (5-enolpyruvylshikimate-3-phosphate phospholyase)	2863.21	41760.4
+Rv2552c	aroE	Probable shikimate 5-dehydrogenase AroE (5-dehydroshikimate reductase)	2871.21	27208.1
+Rv2579	dhaA	Possible haloalkane dehalogenase DhaA (1-chlorohexane halidohydrolase)	2903.64	33728.2
+Rv2583c	relA	Probable GTP pyrophosphokinase RelA (ATP:GTP 3'- pyrophosphotransferase) (PPGPP synthetase I) ((P)PPGPP synthetase) (GTP diphosphokinase)	2907.83	87321.8
+Rv2584c	apt	Adenine phosphoribosyltransferase Apt (APRT) (AMP diphosphorylase) (AMP pyrophosphorylase) (transphosphoribosidase)	2910.23	23155.7
+Rv2589	gabT	4-aminobutyrate aminotransferase GabT (gamma-amino-N-butyrate transaminase) (GABA transaminase) (glutamate:succinic semialdehyde transaminase) (GABA aminotransferase) (GABA-at)	2916.36	46780.6
+Rv2601	speE	Probable spermidine synthase SpeE (putrescine aminopropyltransferase) (aminopropyltransferase) (SPDSY)	2928.39	54683.2
+Rv2604c	snoP	Probable glutamine amidotransferase SnoP	2931.69	21040.2
+Rv2606c	snzP	Possible pyridoxine biosynthesis protein SnzP	2933.17	31365.1
+Rv2607	pdxH	Probable pyridoxamine 5'-phosphate oxidase PdxH (PNP/PMP oxidase) (pyridoxinephosphate oxidase) (PNPOX) (pyridoxine 5'-phosphate oxidase)	2934.2	25186.3
+Rv2622	Rv2622	Possible methyltransferase (methylase)	2948.64	29542
+Rv2667	clpC2	Possible ATP-dependent protease ATP-binding subunit ClpC2	2983.9	26627
+Rv2669	Rv2669	GCN5-related N-acetyltransferase	2985.28	17162.6
+Rv2671	ribD	Possible bifunctional enzyme riboflavin biosynthesis protein RibD: diaminohydroxyphosphoribosylaminopyrimidine deaminase (riboflavin-specific deaminase) + 5-amino-6-(5-phosphoribosylamino)uracil reductase (HTP reductase)	2986.84	27693.5
+Rv2672	Rv2672	Possible secreted protease	2987.68	54015.7
+Rv2674	msrB	Probable peptide methionine sulfoxide reductase MsrB (protein-methionine-R-oxide reductase) (peptide met(O) reductase)	2990.71	15318.2
+Rv2677c	hemY	Probable protoporphyrinogen oxidase HemY (protoporphyrinogen-IX oxidase) (protoporphyrinogenase) (PPO)	2992.63	46846.4
+Rv2678c	hemE	Probable uroporphyrinogen decarboxylase HemE (uroporphyrinogen III decarboxylase) (URO-D) (UPD)	2993.99	37606.3
+Rv2682c	dxs1	Probable 1-deoxy-D-xylulose 5-phosphate synthase Dxs1 (1-deoxyxylulose-5-phosphate synthase) (DXP synthase) (DXPS)	2998.05	67885.4
+Rv2697c	dut	Probable deoxyuridine 5'-triphosphate nucleotidohydrolase Dut (dUTPase) (dUTP pyrophosphatase) (deoxyuridine 5'-triphosphatase) (dUTP diphosphatase) (deoxyuridine-triphosphatase)	3013.68	15770.9
+Rv2701c	suhB	Inositol-1-monophosphatase SuhB	3015.86	29995
+Rv2702	ppgK	Polyphosphate glucokinase PpgK (polyphosphate-glucose phosphotransferase)	3016.86	27429.1
+Rv2713	sthA	Probable soluble pyridine nucleotide transhydrogenase SthA (STH) (NAD(P)(+) transhydrogenase [B-specific]) (nicotinamide nucleotide transhydrogenase)	3025.44	50754
+Rv2715	Rv2715	Possible hydrolase	3028.1	36932.6
+Rv2725c	hflX	Probable GTP-binding protein HflX	3037.43	53327.7
+Rv2726c	dapF	Probable diaminopimelate epimerase DapF (DAP epimerase)	3038.93	29697.6
+Rv2727c	miaA	Probable tRNA delta(2)-isopentenylpyrophosphate transferase MiaA (IPP transferase) (isopentenyl-diphosphate:tRNA isopentenyltransferase) (iptase) (IPPT)	3039.82	34414.3
+Rv2739c	Rv2739c	Possible alanine rich transferase	3052.02	39962.3
+Rv2747	argA	Probable L-glutamate alpha-N-acetyltranferase ArgA (alpha-N-acetylglutamate synthase)	3059.26	19556.6
+Rv2750	Rv2750	Probable dehydrogenase	3062.82	28190.9
+Rv2753c	dapA	Probable dihydrodipicolinate synthase DapA (DHDPS) (dihydrodipicolinate synthetase)	3066.22	30826.2
+Rv2754c	thyX	Probable thymidylate synthase ThyX (ts) (TSase)	3067.19	27559.2
+Rv2763c	dfrA	Dihydrofolate reductase DfrA (DHFR) (tetrahydrofolate dehydrogenase)	3073.13	17640
+Rv2764c	thyA	Probable thymidylate synthase ThyA (ts) (TSASE)	3073.68	29820.8
+Rv2765	Rv2765	Probable alanine rich hydrolase	3074.64	26159.5
+Rv2766c	Rv2766c	Probable short-chain type dehydrogenase/reductase	3075.59	27140.1
+Rv2773c	dapB	Dihydrodipicolinate reductase DapB (DHPR)	3081.6	25733.4
+Rv2775	Rv2775	GCN5-related N-acetyltransferase	3082.91	17405.9
+Rv2776c	Rv2776c	Probable oxidoreductase	3083.37	33485.3
+Rv2780	ald	Secreted L-alanine dehydrogenase Ald (40 kDa antigen) (TB43)	3086.82	38713.2
+Rv2781c	Rv2781c	Possible alanine rich oxidoreductase	3087.95	35392.8
+Rv2782c	pepR	Probable zinc protease PepR	3089.04	47072.5
+Rv2786c	ribF	Probable bifunctional FAD synthetase/riboflavin biosynthesis protein RibF: riboflavin kinase (flavokinase) + FMN adenylyltransferase (FAD pyrophosphorylase) (FAD synthetase)(FAD diphosphorylase) (flavin adenine dinucleotide synthetase)	3093.91	36058.1
+Rv2800	Rv2800	Possible hydrolase	3108.42	60252.4
+Rv2847c	cysG	Possible multifunctional enzyme siroheme synthase CysG: uroporphyrin-III C-methyltransferase (urogen III methylase) (SUMT) (uroporphyrinogen III methylase) (UROM) + precorrin-2 oxidase + ferrochelatase	3154.65	41938.4
+Rv2848c	cobB	Probable cobyrinic acid A,C-diamide synthase CobB	3156.15	46958.3
+Rv2849c	cobO	Probable cob(I)alamin adenosyltransferase CobO (corrinoid adenosyltransferase) (corrinoid adotransferase activity)	3157.52	22810
+Rv2850c	Rv2850c	Possible magnesium chelatase	3158.17	66955
+Rv2851c	Rv2851c	GCN5-related N-acetyltransferase	3160.05	17670.2
+Rv2852c	mqo	Probable malate:quinone oxidoreductase Mqo (malate dehydrogenase [acceptor])	3160.58	53563.2
+Rv2855	mtr	NADPH-dependent mycothiol reductase Mtr	3165.21	49945.7
+Rv2857c	Rv2857c	Probable short-chain type dehydrogenase/reductase	3168.58	26772.4
+Rv2858c	aldC	Probable aldehyde dehydrogenase AldC	3169.36	48258.7
+Rv2859c	Rv2859c	Possible amidotransferase	3170.72	32409.6
+Rv2860c	glnA4	Probable glutamine synthetase GlnA4 (glutamine synthase) (GS-II)	3171.63	49715.4
+Rv2861c	mapB	Methionine aminopeptidase MapB (map) (peptidase M)	3173.16	30891
+Rv2867c	Rv2867c	GCN5-related N-acetyltransferase	3178.46	30326.7
+Rv2870c	dxr	Probable 1-deoxy-D-xylulose 5-phosphate reductoisomerase Dxr (DXP reductoisomerase) (1-deoxyxylulose-5-phosphate reductoisomerase)	3181.77	42821.4
+Rv2874	dipZ	Possible integral membrane C-type cytochrome biogenesis protein DipZ	3184.85	74168.4
+Rv2883c	pyrH	Probable uridylate kinase PyrH (UK) (uridine monophosphate kinase) (UMP kinase)	3192.37	27429.6
+Rv2888c	amiC	Probable amidase AmiC (aminohydrolase)	3196.86	50916.1
+Rv2893	Rv2893	Possible oxidoreductase	3202.42	34617.2
+Rv2895c	viuB	Possible mycobactin utilization protein ViuB	3204.38	30570.6
+Rv2899c	fdhD	Possible FdhD protein homolog	3208.58	29058.2
+Rv2900c	fdhF	Possible formate dehydrogenase H FdhF (formate-hydrogen-lyase-linked, selenocysteine-containing polypeptide) (formate dehydrogenase-H alpha subunit) (FDH-H)	3209.41	84566.1
+Rv2913c	Rv2913c	Possible D-amino acid aminohydrolase (D-amino acid hydrolase)	3219.86	67205.2
+Rv2918c	glnD	Probable [protein-PII] uridylyltransferase GlnD (PII uridylyl- transferase) (uridylyl removing enzyme) (UTASE)	3228.25	86437.8
+Rv2922A	acyP	Probable acylphosphatase AcyP (acylphosphate phosphohydrolase)	3237.82	10205.6
+Rv2949c	Rv2949c	Chorismate pyruvate lyase	3299.97	22587
+Rv2951c	Rv2951c	Possible oxidoreductase	3303.1	41315.6
+Rv2952	Rv2952	Possible methyltransferase (methylase)	3304.44	30651.6
+Rv2957	Rv2957	Possible glycosyl transferase	3309.47	31046.1
+Rv2958c	Rv2958c	Possible glycosyl transferase	3310.71	46795.9
+Rv2959c	Rv2959c	Possible methyltransferase (methylase)	3312.1	27844.5
+Rv2962c	Rv2962c	Possible glycosyl transferase	3313.77	49401
+Rv2964	purU	Probable formyltetrahydrofolate deformylase PurU (formyl-FH(4) hydrolase)	3316.53	34006
+Rv2966c	Rv2966c	Possible methyltransferase (methylase)	3318.9	19788.5
+Rv2967c	pca	Probable pyruvate carboxylase Pca (pyruvic carboxylase)	3319.66	120392
+Rv2970c	lipN	Probable lipase/esterase LipN	3324.57	40134.7
+Rv2971	Rv2971	Probable oxidoreductase	3326.1	30332
+Rv2977c	thiL	Probable thiamine-monophosphate kinase ThiL (thiamine-phosphate kinase)	3332.79	34298.5
+Rv2984	ppk1	Polyphosphate kinase PPK (polyphosphoric acid kinase) (ATP-polyphosphate phosphotransferase)	3339.85	83039.3
+Rv2987c	leuD	Probable 3-isopropylmalate dehydratase (small subunit) LeuD (isopropylmalate isomerase) (alpha-IPM isomerase) (IPMI)	3344.03	21779.8
+Rv2988c	leuC	Probable 3-isopropylmalate dehydratase (large subunit) LeuC (isopropylmalate isomerase) (alpha-IPM isomerase) (IPMI)	3344.65	50185
+Rv2993c	Rv2993c	Possible 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase (HHDD isomerase)	3350.27	25341.1
+Rv2995c	leuB	Probable 3-isopropylmalate dehydrogenase LeuB (beta-IPM dehydrogenase) (IMDH) (3-IPM-DH)	3352.46	35306.1
+Rv2996c	serA1	Probable D-3-phosphoglycerate dehydrogenase SerA1 (PGDH)	3353.48	54522.2
+Rv2997	Rv2997	Possible alanine rich dehydrogenase	3355.1	50905.4
+Rv3001c	ilvC	Probable KETOL-acid reductoisomerase IlvC (acetohydroxy-acid isomeroreductase) (alpha-keto-beta-hydroxylacil reductoisomerase)	3359.58	36090.1
+Rv3002c	ilvN	Probable acetolactate synthase (small subunit) IlvN (acetohydroxy-acid synthase) (AHAS) (ALS)	3360.62	18186.9
+Rv3003c	ilvB1	Acetolactate synthase (large subunit) IlvB1 (acetohydroxy-acid synthase)	3361.13	66090.7
+Rv3007c	Rv3007c	Possible oxidoreductase	3365.84	22555.1
+Rv3010c	pfkA	Probable 6-phosphofructokinase PfkA (phosphohexokinase) (phosphofructokinase)	3368.82	36880
+Rv3025c	iscS	Cysteine desulfurase IscS (NIFS protein homolog) (nitrogenase metalloclusters biosynthesis protein NIFS)	3383.89	40947.4
+Rv3027c	Rv3027c	GCN5-related N-acetyltransferase	3386.07	30513.7
+Rv3028c	fixB	Probable electron transfer flavoprotein (alpha-subunit) FixB (alpha-ETF) (electron transfer flavoprotein large subunit) (ETFLS)	3387.07	31691
+Rv3029c	fixA	Probable electron transfer flavoprotein (beta-subunit) FixA (beta-ETF) (electron transfer flavoprotein small subunit) (ETFSS)	3388.07	28080.8
+Rv3032	Rv3032	Alpha (1->4) glucosyltransferase	3391.53	44805
+Rv3034c	Rv3034c	Possible transferase	3394.02	33032.3
+Rv3042c	serB2	Probable phosphoserine phosphatase SerB2 (PSP) (O-phosphoserine phosphohydrolase) (pspase)	3401.93	43058.7
+Rv3043c	ctaD	Probable cytochrome C oxidase polypeptide I CtaD (cytochrome AA3 subunit 1)	3403.2	63654.7
+Rv3045	adhC	Probable NADP-dependent alcohol dehydrogenase AdhC	3406.28	37075.3
+Rv3049c	Rv3049c	Probable monooxygenase	3409.51	58744.6
+Rv3057c	Rv3057c	Probable short chain alcohol dehydrogenase/reductase	3417.8	31153.8
+Rv3059	cyp136	Probable cytochrome P450 136 Cyp136	3419.49	56227.7
+Rv3068c	pgmA	Probable phosphoglucomutase PgmA (glucose phosphomutase) (PGM)	3431.98	58265.7
+Rv3077	Rv3077	Possible hydrolase	3439.54	66740.9
+Rv3078	hab	Probable hydroxylaminobenzene mutase Hab	3441.35	14062.1
+Rv3083	Rv3083	Probable monooxygenase (hydroxylase)	3448.5	55482.4
+Rv3084	lipR	Probable acetyl-hydrolase/esterase LipR	3450	32616.7
+Rv3085	Rv3085	Probable short-chain type dehydrogenase/reductase	3450.92	29217.5
+Rv3086	adhD	Probable zinc-type alcohol dehydrogenase AdhD (aldehyde reductase)	3451.78	38341.7
+Rv3093c	Rv3093c	Hypothetical oxidoreductase	3461.76	34565.6
+Rv3106	fprA	NADPH:adrenodoxin oxidoreductase FprA (NADPH-ferredoxin reductase)	3474.01	49341.1
+Rv3109	moaA1	Probable molybdenum cofactor biosynthesis protein A MoaA1	3477.65	39959.9
+Rv3110	moaB1	Probable pterin-4-alpha-carbinolamine dehydratase MoaB1 (PHS) (4-alpha- hydroxy-tetrahydropterin dehydratase) (pterin-4-a-carbinolamine dehydratase) (phenylalanine hydroxylase-stimulating protein) (PHS) (pterin carbinolamine dehydratase) (PCD)	3478.78	14558.3
+Rv3111	moaC1	Probable molybdenum cofactor biosynthesis protein C MoaC1	3479.17	17844.9
+Rv3112	moaD1	Probable molybdenum cofactor biosynthesis protein D MoaD1 (molybdopterin converting factor small subunit) (molybdopterin [MPT] converting factor, subunit 1)	3479.7	9188.39
+Rv3113	Rv3113	Possible phosphatase	3480.07	24801.2
+Rv3116	moeB2	Probable molybdenum cofactor biosynthesis protein MoeB2 (MPT-synthase sulfurylase) (molybdopterin synthase sulphurylase)	3482.78	41667.6
+Rv3117	cysA3	Probable thiosulfate sulfurtransferase CysA3 (rhodanese-like protein) (thiosulfate cyanide transsulfurase) (thiosulfate thiotransferase)	3483.97	31014.6
+Rv3118	sseC1	Conserved hypothetical protein SseC1	3484.81	10165.3
+Rv3119	moaE1	Probable molybdenum cofactor biosynthesis protein E MoaE1 (molybdopterin converting factor large subunit) (molybdopterin [MPT] converting factor, subunit 2)	3485.13	15920.2
+Rv3121	cyp141	Probable cytochrome P450 141 Cyp141	3486.51	43730.9
+Rv3137	Rv3137	Probable monophosphatase	3503.39	27661.1
+Rv3138	pflA	Probable pyruvate formate lyase activating protein PflA (formate acetyltransferase activating enzyme) ([pyruvate formate-lyase] activating enzyme)	3504.2	40432.9
+Rv3145	nuoA	Probable NADH dehydrogenase I (chain A) NuoA (NADH-ubiquinone oxidoreductase chain A)	3511.68	13957.4
+Rv3146	nuoB	Probable NADH dehydrogenase I (chain B) NuoB (NADH-ubiquinone oxidoreductase chain B)	3512.08	20186.8
+Rv3147	nuoC	Probable NADH dehydrogenase I (chain C) NuoC (NADH-ubiquinone oxidoreductase chain C)	3512.63	26932.1
+Rv3148	nuoD	Probable NADH dehydrogenase I (chain D) NuoD (NADH-ubiquinone oxidoreductase chain D)	3513.34	48164.5
+Rv3149	nuoE	Probable NADH dehydrogenase I (chain E) NuoE (NADH-ubiquinone oxidoreductase chain E)	3514.66	27165.6
+Rv3150	nuoF	Probable NADH dehydrogenase I (chain F) NuoF (NADH-ubiquinone oxidoreductase chain F)	3515.41	48101.6
+Rv3151	nuoG	Probable NADH dehydrogenase I (chain G) NuoG (NADH-ubiquinone oxidoreductase chain G)	3516.75	85392.1
+Rv3152	nuoH	Probable NADH dehydrogenase I (chain H) NuoH (NADH-ubiquinone oxidoreductase chain H)	3519.28	44657.6
+Rv3153	nuoI	Probable NADH dehydrogenase I (chain I) NuoI (NADH-ubiquinone oxidoreductase chain I)	3520.51	23434.4
+Rv3154	nuoJ	Probable NADH dehydrogenase I (chain J) NuoJ (NADH-ubiquinone oxidoreductase chain J)	3521.14	27589.3
+Rv3155	nuoK	Probable NADH dehydrogenase I (chain K) NuoK (NADH-ubiquinone oxidoreductase chain K)	3521.92	10858.1
+Rv3156	nuoL	Probable NADH dehydrogenase I (chain L) NuoL (NADH-ubiquinone oxidoreductase chain L)	3522.23	66135.7
+Rv3157	nuoM	Probable NADH dehydrogenase I (chain M) NUOK (NADH-ubiquinone oxidoreductase chain M)	3524.13	59175.1
+Rv3158	nuoN	Probable NADH dehydrogenase I (chain N) NuoN (NADH-ubiquinone oxidoreductase chain N)	3525.79	55342.2
+Rv3161c	Rv3161c	Possible dioxygenase	3529.99	42504.2
+Rv3170	aofH	Probable flavin-containing monoamine oxidase AofH (amine oxidase) (MAO)	3538.5	48407.6
+Rv3174	Rv3174	Probable short-chain dehydrogenase/reductase	3542.14	24849.4
+Rv3175	Rv3175	Possible amidase (aminohydrolase)	3542.86	52081.9
+Rv3198A	Rv3198A	Possible glutaredoxin protein	3571.33	8963.21
+Rv3199c	nudC	Probable NADH pyrophosphatase NudC (NAD+ diphosphatase) (NAD+ pyrophosphatase) (NADP pyrophosphatase)	3571.6	33794.2
+Rv3203	lipV	Possible lipase LipV	3580.64	23624.1
+Rv3206c	moeB1	Probable molybdenum cofactor biosynthesis protein MoeB1 (MPT-synthase sulfurylase) (molybdopterin synthase sulphurylase)	3582.53	42141.4
+Rv3214	gpm2	Possible phosphoglycerate mutase Gpm2 (phosphoglyceromutase) (PGAM) (BPG-dependent PGAM)	3591.65	21948.8
+Rv3215	entC	Probable isochorismate synthase EntC (isochorismate hydroxymutase) (enterochelin biosynthesis)	3592.25	38905.7
+Rv3216	Rv3216	GCN5-related N-acetyltransferase, pseudogene	3593.37	17898.3
+Rv3224	Rv3224	Possible iron-regulated short-chain dehydrogenase/reductase	3599.85	29814.4
+Rv3225c	Rv3225c	GCN5-related N-acetyltransferase, phosphorylase	3601.02	51239.3
+Rv3227	aroA	3-phosphoshikimate 1-carboxyvinyltransferase AroA (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS)	3603.38	46393.8
+Rv3230c	Rv3230c	Hypothetical oxidoreductase	3607.11	40794.7
+Rv3232c	ppk2	Polyphosphate kinase Ppk2 (polyphosphoric acid kinase)	3608.87	34092
+Rv3247c	tmk	Thymidylate kinase Tmk (dTMP kinase) (thymidylic acid kinase) (TMPK)	3627.42	22602.5
+Rv3248c	sahH	Probable adenosylhomocysteinase SahH (S-adenosyl-L-homocysteine hydrolase) (adohcyase)	3628.16	54323.6
+Rv3250c	rubB	Probable rubredoxin RubB	3630.38	6765.42
+Rv3251c	rubA	Probable rubredoxin RubA	3630.57	6106.73
+Rv3255c	manA	Probable mannose-6-phosphate isomerase ManA (phosphomannose isomerase) (phosphomannoisomerase) (PMI) (phosphohexoisomerase) (phosphohexomutase)	3635.04	43339.2
+Rv3257c	pmmA	Probable phosphomannomutase PmmA (PMM) (phosphomannose mutase)	3637.31	49041
+Rv3261	fbiA	Probable F420 biosynthesis protein FbiA	3640.54	35303.1
+Rv3262	fbiB	Probable F420 biosynthesis protein FbiB	3641.53	47560.3
+Rv3266c	rmlD	dTDP-6-deoxy-L-lyxo-4-hexulose reductase RmlD (dTDP-rhamnose modification protein) (dTDP-rhamnose biosynthesis protein) (dTDP-rhamnose synthase)	3646.9	32044.8
+Rv3273	Rv3273	Probable transmembrane carbonic anhydrase (carbonate dehydratase) (carbonic dehydratase)	3654.64	80533.6
+Rv3275c	purE	Probable phosphoribosylaminoimidazole carboxylase catalytic subunit PurE (air carboxylase) (AIRC)	3658.11	17674.5
+Rv3276c	purK	Probable phosphoribosylaminoimidazole carboxylase ATPase subunit PurK (air carboxylase) (AIRC)	3658.64	45695.1
+Rv3279c	birA	Possible bifunctional protein BirA: biotin operon repressor + biotin--[acetyl-CoA-carboxylase] synthetase (biotin--protein ligase)	3661.21	28089
+Rv3283	sseA	Probable thiosulfate sulfurtransferase SseA (rhodanese) (thiosulfate cyanide transsulfurase) (thiosulfate thiotransferase)	3664.93	33288.4
+Rv3290c	lat	Probable L-lysine-epsilon aminotransferase Lat (L-lysine aminotransferase) (lysine 6-aminotransferase)	3670.45	49012.1
+Rv3293	pcd	Probable piperideine-6-carboxilic acid dehydrogenase Pcd (piperideine-6-carboxylate dehydrogenase)	3673.6	51312.2
+Rv3299c	atsB	Probable arylsulfatase AtsB (aryl-sulfate sulphohydrolase) (sulfatase)	3683.05	105648
+Rv3302c	glpD2	Probable glycerol-3-phosphate dehydrogenase GlpD2	3687.69	62745.8
+Rv3303c	lpdA	NAD(P)H quinone reductase LpdA	3689.46	51456.9
+Rv3305c	amiA1	Possible N-acyl-L-amino acid amidohydrolase AmiA1 (N-acyl-L-amino acid aminohydrolase)	3691.64	41227.1
+Rv3306c	amiB1	Probable amidohydrolase AmiB1 (aminohydrolase)	3692.8	40740.3
+Rv3307	deoD	Probable purine nucleoside phosphorylase DeoD (inosine phosphorylase) (PNP)	3694.05	27539.5
+Rv3308	pmmB	Probable phosphomannomutase PmmB (phosphomannose mutase)	3694.86	56163.8
+Rv3309c	upp	Probable uracil phosphoribosyltransferase Upp (UMP pyrophosphorylase) (uprtase) (UMP diphosphorylase)	3696.47	21866.2
+Rv3313c	add	Probable adenosine deaminase Add (adenosine aminohydrolase)	3701.09	39743.2
+Rv3314c	deoA	Probable thymidine phosphorylase DeoA (tdrpase) (pyrimidine phosphorylase)	3702.18	44454
+Rv3315c	cdd	Probable cytidine deaminase Cdd (cytidine aminohydrolase) (cytidine nucleoside deaminase)	3703.46	14072.1
+Rv3316	sdhC	Probable succinate dehydrogenase (cytochrome B-556 subunit) SdhC (succinic dehydrogenase) (fumarate reductase) (fumarate dehydrogenase) (fumaric hydrogenase)	3704.1	12837.4
+Rv3317	sdhD	Probable succinate dehydrogenase (hydrophobic membrane anchor subunit) SdhD (succinic dehydrogenase) (fumarate reductase) (fumarate dehydrogenase) (fumaric hydrogenase)	3704.44	16886.7
+Rv3318	sdhA	Probable succinate dehydrogenase (flavoprotein subunit) SdhA (succinic dehydrogenase) (fumarate reductase) (fumarate dehydrogenase) (fumaric hydrogenase)	3705	64807.5
+Rv3319	sdhB	Probable succinate dehydrogenase (iron-sulphur protein subunit) SdhB (succinic dehydrogenase) (fumarate reductase) (fumarate dehydrogenase) (fumaric hydrogenase)	3706.77	29334.9
+Rv3322c	Rv3322c	Possible methyltransferase	3708.44	21614.6
+Rv3323c	moaX	Probable MoaD-MoaE fusion protein MoaX	3709.05	24050.4
+Rv3324c	moaC3	Probable molybdenum cofactor biosynthesis protein C 3 MoaC3	3709.72	18523.2
+Rv3324A	Rv3324A	Probable fragment of pterin-4-alpha-carbinolamine dehydratase MOAB3 (PHS) (4-alpha-hydroxy-tetrahydropterin dehydratase) (pterin-4-a-carbinolamine dehydratase) (phenylalanine hydroxylase-stimulating protein) (PHS) (pterin carbinolamine dehydratase) (PCD)	3710.25	5173.86
+Rv3329	Rv3329	Probable aminotransferase	3714.39	47699.2
+Rv3339c	icd1	Probable isocitrate dehydrogenase [NADP] Icd1 (oxalosuccinate decarboxylase) (IDH) (NADP+-specific ICDH) (IDP)	3724.61	45513.8
+Rv3340	metC	Probable O-acetylhomoserine sulfhydrylase MetC (homocysteine synthase) (O-acetylhomoserine (thiol)-lyase) (OAH sulfhydrylase) (O-acetyl-L-homoserine sulfhydrylase)	3726.13	47371.2
+Rv3341	metA	Probable homoserine O-acetyltransferase MetA (homoserine O-trans-acetylase) (homoserine transacetylase) (HTA)	3727.49	39768.8
+Rv3342	Rv3342	Possible methyltransferase (methylase)	3728.62	26608.6
+Rv3352c	Rv3352c	Possible oxidoreductase	3768.22	12046.5
+Rv3356c	folD	Probable bifunctional protein FolD: methylenetetrahydrofolate dehydrogenase + methenyltetrahydrofolate cyclohydrolase	3769.8	29451.7
+Rv3359	Rv3359	Possible oxidoreductase	3771.34	42803.2
+Rv3368c	Rv3368c	Possible oxidoreductase	3780.33	23733
+Rv3375	amiD	Probable amidase AmiD (acylamidase) (acylase)	3788.62	50645.7
+Rv3377c	Rv3377c	Halimadienyl diphosphate synthase	3790.85	55262.4
+Rv3378c	Rv3378c	Diterpene synthase	3792.36	34030.5
+Rv3379c	dxs2	Probable 1-deoxy-D-xylulose 5-phosphate synthase Dxs2 (1-deoxyxylulose-5-phosphate synthase) (DXP synthase) (DXPS)	3793.26	57148.8
+Rv3389c	htdY	Probable 3-hydroxyacyl-thioester dehydratase HtdY	3803.92	30296.3
+Rv3393	iunH	Probable nucleoside hydrolase IunH (purine nucleosidase)	3808.46	32937.6
+Rv3396c	guaA	Probable GMP synthase [glutamine-hydrolyzing] GuaA (glutamine amidotransferase) (GMP synthetase)	3812.5	56027.8
+Rv3397c	phyA	Probable phytoene synthase PhyA	3814.09	33141.9
+Rv3400	Rv3400	Probable hydrolase	3817.24	28227.7
+Rv3401	Rv3401	Conserved protein	3818.04	87315.5
+Rv3406	Rv3406	Probable dioxygenase	3825.33	32578.9
+Rv3410c	guaB3	Probable inosine-5'-monophosphate dehydrogenase GuaB3 (imp dehydrogenase) (inosinic acid dehydrogenase) (inosinate dehydrogenase) (imp oxidoreductase) (inosine-5'-monophosphate oxidoreductase) (IMPDH) (IMPD)	3828.78	38990.6
+Rv3411c	guaB2	Probable inosine-5'-monophosphate dehydrogenase GuaB2 (imp dehydrogenase) (inosinic acid dehydrogenase) (inosinate dehydrogenase) (imp oxidoreductase) (inosine-5'-monophosphate oxidoreductase) (IMPDH) (IMPD)	3829.93	54867
+Rv3419c	gcp	Probable O-sialoglycoprotein endopeptidase Gcp (glycoprotease)	3837.55	35091
+Rv3423c	alr	Alanine racemase Alr	3840.19	43355.6
+Rv3432c	gadB	Probable glutamate decarboxylase GadB	3850.37	50747.7
+Rv3436c	glmS	Probable glucosamine--fructose-6-phosphate aminotransferase [isomerizing] GlmS (hexosephosphate aminotransferase) (D-fructose-6-phosphate amidotransferase) (GFAT) (L-glutamine-D-fructose-6-phosphate amidotransferase) (glucosamine-6-phosphate synthase)	3855.01	67539.7
+Rv3441c	mrsA	Probable phospho-sugar mutase / MrsA protein homolog	3860.02	45873.1
+Rv3449	mycP4	Probable membrane-anchored mycosin MycP4 (serine protease) (subtilisin-like protease) (subtilase-like) (mycosin-4)	3869.75	46015.9
+Rv3464	rmlB	dTDP-glucose 4,6-dehydratase RmlB	3881.84	37557.7
+Rv3465	rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase RmlC (dTDP-4-keto-6-deoxyglucose 3,5-epimerase) (dTDP-L-rhamnose synthetase) (thymidine diphospho-4-keto-rhamnose 3,5-epimerase)	3882.83	22314
+Rv3468c	Rv3468c	Possible dTDP-glucose 4,6-dehydratase	3884.98	39482.8
+Rv3469c	mhpE	Probable 4-hydroxy-2-oxovalerate aldolase MhpE (HOA)	3886.07	36297.1
+Rv3470c	ilvB2	Probable acetolactate synthase (large subunit) IlvB2 (AHAS) (acetohydroxy-acid synthase large subunit) (ALS)	3887.14	57224.8
+Rv3485c	Rv3485c	Probable short-chain type dehydrogenase/reductase	3904.62	33193.8
+Rv3487c	lipF	Probable esterase/lipase LipF	3906.17	29397.6
+Rv3502c	Rv3502c	Probable short-chain type dehydrogenase/reductase. Possible 17-beta-hydroxysteroid dehydrogenase.	3921.09	32734.8
+Rv3503c	fdxD	Probable ferredoxin FdxD	3922.06	6871.64
+Rv3509c	ilvX	Probable acetohydroxyacid synthase IlvX (acetolactate synthase)	3936.88	52040.3
+Rv3518c	cyp142	Probable cytochrome P450 monooxygenase 142 Cyp142	3954.32	44398.5
+Rv3520c	Rv3520c	Possible coenzyme F420-dependent oxidoreductase	3956.32	37584.9
+Rv3525c	Rv3525c	Possible siderophore-binding protein	3961.8	17665.4
+Rv3526	kshA	Oxygenase component of 3-ketosteroid-9-alpha-hydroxylase KshA	3962.44	44235.5
+Rv3530c	Rv3530c	Possible oxidoreductase	3967.04	27757.6
+Rv3534c	hsaF	Probable 4-hydroxy-2-oxovalerate aldolase (HOA)	3972.55	36442.4
+Rv3535c	hsaG	Probable acetaldehyde dehydrogenase (acetaldehyde dehydrogenase [acetylating])	3973.59	32008.5
+Rv3536c	hsaE	Probable hydratase	3974.51	27891.6
+Rv3537	kstD	Probable dehydrogenase	3975.37	60636
+Rv3538	Rv3538	Probable dehydrogenase. Possible 2-enoyl acyl-CoA hydratase.	3977.06	30216.4
+Rv3545c	cyp125	Probable cytochrome P450 125 Cyp125	3984.14	48400.6
+Rv3547	ddn	Deazaflavin-dependent nitroreductase Ddn	3986.84	17371
+Rv3548c	Rv3548c	Probable short-chain type dehydrogenase/reductase	3987.38	31070.1
+Rv3549c	Rv3549c	Probable short-chain type dehydrogenase/reductase	3988.32	26823.4
+Rv3551	Rv3551	Possible CoA-transferase (alpha subunit)	3989.9	31690.9
+Rv3552	Rv3552	Possible CoA-transferase (beta subunit)	3990.77	27360.9
+Rv3553	Rv3553	Possible oxidoreductase	3991.62	36830.8
+Rv3554	fdxB	Possible electron transfer protein FdxB	3992.69	76533.7
+Rv3559c	Rv3559c	Probable oxidoreductase	3999.65	27429.9
+Rv3565	aspB	Possible aspartate aminotransferase AspB (transaminase A) (ASPAT) (glutamic--oxaloacetic transaminase) (glutamic--aspartic transaminase)	4006.2	41048.7
+Rv3566c	nat	Arylamine N-acetyltransferase Nat (arylamine acetylase)	4007.33	31029.2
+Rv3567c	hsaB	Possible oxidoreductase. Possible 3-hydroxy-9,10-seconandrost-1,3,5(10)-triene-9,17-dione hydroxylase.	4008.72	20539.3
+Rv3568c	hsaC	3,4-DHSA dioxygenase	4009.3	33582.3
+Rv3569c	hsaD	4,9-DHSA hydrolase	4010.2	31875.4
+Rv3570c	hsaA	Possible oxidoreductase. Possible 3-hydroxy-9,10-seconandrost-1,3,5(10)-triene-9,17-dione hydroxylase.	4011.09	43110.5
+Rv3571	kshB	Reductase component of 3-ketosteroid-9-alpha-hydroxylase KshB	4012.42	38247.2
+Rv3579c	Rv3579c	Possible tRNA/rRNA methyltransferase	4021.43	34009.8
+Rv3581c	ispF	Probable 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase IspF (MECPS)	4023.87	16425.8
+Rv3582c	ispD	4-diphosphocytidyl-2C-methyl-D-erythritol synthase IspD (MEP cytidylyltransferase) (MCT)	4024.34	24041.5
+Rv3588c	canB	Beta-carbonic anhydrase CanB	4029.87	21791.8
+Rv3591c	Rv3591c	Possible hydrolase	4033.27	28510.4
+Rv3592	mhuD	Possible heme degrading protein MhuD	4034.06	11184.7
+Rv3596c	clpC1	Probable ATP-dependent protease ATP-binding subunit ClpC1	4038.16	93552.4
+Rv3601c	panD	Probable aspartate 1-decarboxylase precursor PanD (aspartate alpha-decarboxylase)	4043.86	14885
+Rv3602c	panC	Pantoate--beta-alanine ligase PanC (pantothenate synthetase) (pantoate activating enzyme)	4044.28	32677.5
+Rv3606c	folK	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase FolK (7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase) (HPPK) (6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase) (PPPK) (2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase) (7,8-dihydro-6-hydroxymethylpterin-diphosphokinase) (6-hydroxymethyl-7,8-dihydropterin diphosphokinase)	4048.18	20731.6
+Rv3607c	folB	Probable dihydroneopterin aldolase FolB (DHNA)	4048.74	14552.5
+Rv3608c	folP1	Dihydropteroate synthase 1 FolP (DHPS 1) (dihydropteroate pyrophosphorylase 1) (dihydropteroate diphosphorylase 1)	4049.14	28810.9
+Rv3609c	folE	GTP cyclohydrolase I FolE (GTP-ch-I)	4049.98	22394.7
+Rv3618	Rv3618	Possible monooxygenase	4058.7	43277.1
+Rv3624c	hpt	Hypoxanthine-guanine phosphoribosyltransferase Hpt (HGPRT) (HGPRTase) (hypoxanthine phosphoribosyltransferase) (imp pyrophosphorylase) (imp diphosphorylase) (transphosphoribosyltransferase) (guanine phosphoribosyltransferase)	4063.25	23603.8
+Rv3628	ppa	Inorganic pyrophosphatase Ppa (pyrophosphate phospho-hydrolase) (PPASE) (inorganic diphosphatase) (diphosphate phospho-hydrolase)	4067.42	18296.6
+Rv3631	Rv3631	Possible transferase (possibly glycosyltransferase)	4070.51	26212.9
+Rv3634c	galE1	UDP-glucose 4-epimerase GalE1 (galactowaldenase) (UDP-galactose 4-epimerase) (uridine diphosphate galactose 4-epimerase) (uridine diphospho-galactose 4-epimerase)	4072.67	33549.6
+Rv3668c	Rv3668c	Possible protease	4109.78	23102.4
+Rv3671c	Rv3671c	Membrane-associated serine protease	4112.32	40721.4
+Rv3673c	Rv3673c	Possible membrane-anchored thioredoxin-like protein (thiol-disulfide interchange related protein)	4114.47	23643.2
+Rv3677c	Rv3677c	Possible hydrolase	4117.26	28490
+Rv3684	Rv3684	Probable lyase	4125.44	37623.3
+Rv3685c	cyp137	Probable cytochrome P450 137 Cyp137	4127.29	52265.6
+Rv3696c	glpK	Probable glycerol kinase GlpK (ATP:glycerol 3-phosphotransferase) (glycerokinase) (GK)	4138.2	55827.8
+Rv3700c	Rv3700c	Conserved hypothetical protein	4142.75	40446.1
+Rv3704c	gshA	Glutamate--cysteine ligase GshA (gamma-glutamylcysteine synthetase) (gamma-ECS) (GCS) (gamma-glutamyl-L-cysteine synthetase)	4146.89	45795.2
+Rv3708c	asd	Aspartate-semialdehyde dehydrogenase Asd (ASA dehydrogenase) (ASADH) (aspartic semialdehyde dehydrogenase) (L-aspartate-beta-semialdehyde dehydrogenase)	4151.18	36230.2
+Rv3709c	ask	Aspartokinase Ask (aspartate kinase) [contains: aspartokinase alpha subunit (Ask-alpha); and aspartokinase beta subunit (Ask-beta)]	4152.22	44429.6
+Rv3710	leuA	2-isopropylmalate synthase LeuA (alpha-isopropylmalate synthase) (alpha-IPM synthetase) (IPMS)	4153.74	70081.6
+Rv3712	Rv3712	Possible ligase	4156.98	43389.4
+Rv3713	cobQ2	Possible cobyric acid synthase CobQ2	4158.23	24125.7
+Rv3725	Rv3725	Possible oxidoreductase	4170.21	32725.7
+Rv3726	Rv3726	Possible dehydrogenase	4171.42	42035.8
+Rv3727	Rv3727	Possible oxidoreductase	4172.96	66293.8
+Rv3729	Rv3729	Possible transferase	4178.29	84129
+Rv3741c	Rv3741c	Possible oxidoreductase	4192.18	24676.2
+Rv3742c	Rv3742c	Possible oxidoreductase	4192.85	14195.2
+Rv3752c	Rv3752c	Possible cytidine/deoxycytidylate deaminase	4199.25	15845.2
+Rv3754	tyrA	Prephenate dehydrogenase TyrA (PDH) (hydroxyphenylpyruvate synthase)	4200.42	30991.1
+Rv3762c	Rv3762c	Possible hydrolase	4207	68451
+Rv3772	hisC2	Probable histidinol-phosphate aminotransferase HisC2 (imidazole acetol-phosphate transaminase) (imidazolylacetolphosphate aminotransferase)	4217.13	38007.5
+Rv3775	lipE	Probable lipase LipE	4219.69	45273.7
+Rv3777	Rv3777	Probable oxidoreductase	4222.69	33931.3
+Rv3778c	Rv3778c	Possible aminotransferase	4223.7	41851.7
+Rv3784	Rv3784	Possible dTDP-glucose 4,6-dehydratase	4230.26	36305.7
+Rv3814c	Rv3814c	Possible acyltransferase	4279.23	29290.9
+Rv3815c	Rv3815c	Possible acyltransferase	4280.03	27672.9
+Rv3816c	Rv3816c	Possible acyltransferase	4280.79	28421.8
+Rv3817	Rv3817	Possible phosphotransferase	4281.65	27209.8
+Rv3829c	Rv3829c	Probable dehydrogenase	4303.4	57073.2
+Rv3837c	Rv3837c	Probable phosphoglycerate mutase (phosphoglyceromutase) (phosphoglycerate phosphomutase)	4311.01	25019.1
+Rv3838c	pheA	Prephenate dehydratase PheA	4311.7	33601.2
+Rv3841	bfrB	Bacterioferritin BfrB	4314.18	20442
+Rv3842c	glpQ1	Probable glycerophosphoryl diester phosphodiesterase GlpQ1 (glycerophosphodiester phosphodiesterase)	4314.74	29917
+Rv3854c	ethA	Monooxygenase EthA	4326	55326.1
+Rv3858c	gltD	Probable NADH-dependent glutamate synthase (small subunit) GltD (L-glutamate synthase) (L-glutamate synthetase) (NADH-glutamate synthase) (glutamate synthase (NADH)) (GLTS beta chain) (NADPH-GOGAT)	4330.04	53451.8
+Rv3859c	gltB	Probable ferredoxin-dependent glutamate synthase [NADPH] (large subunit) GltB (L-glutamate synthase) (L-glutamate synthetase) (NADH-glutamate synthase) (glutamate synthase (NADH))(NADPH-GOGAT)	4331.5	165943
+Rv3883c	mycP1	Membrane-anchored mycosin MycP1 (serine protease) (subtilisin-like protease) (subtilase-like) (mycosin-1)	4363.42	45086
+Rv3886c	mycP2	Probable alanine and proline rich membrane-anchored mycosin MycP2 (serine protease) (subtilisin-like protease) (subtilase-like) (mycosin-2)	4368.52	55594.4
+Rv3913	trxB2	Probable thioredoxin reductase TrxB2 (TRXR) (TR)	4401.73	35643
+Rv3914	trxC	Thioredoxin TrxC (TRX) (MPT46)	4402.73	12544.5
+Rv3915	Rv3915	Probable peptidoglycan hydrolase	4403.19	43911.5

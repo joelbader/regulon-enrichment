@@ -1,0 +1,272 @@
+Rv0033	acpA	Probable acyl carrier protein AcpA (ACP)	36.607	9612.96
+Rv0035	fadD34	Probable fatty-acid-CoA ligase FadD34 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	37.259	60961.6
+Rv0045c	Rv0045c	Possible hydrolase	49.043	32099.1
+Rv0088	Rv0088	Possible polyketide cyclase/dehydrase	96.927	24617.3
+Rv0098	fcoT	Probable fatty acyl CoA thioesterase type III FcoT	107.6	20528.5
+Rv0099	fadD10	Possible fatty-acid-CoA ligase FadD10 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	108.156	56589.7
+Rv0101	nrp	Probable peptide synthetase Nrp (peptide synthase)	110.001	269377
+Rv0119	fadD7	Probable fatty-acid-CoA ligase FadD7 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	144.049	55158.8
+Rv0129c	fbpC	Secreted antigen 85-C FbpC (85C) (antigen 85 complex C) (AG58C) (mycolyl transferase 85C) (fibronectin-binding protein C)	156.578	36771.3
+Rv0131c	fadE1	Probable acyl-CoA dehydrogenase FadE1	158.315	50223.6
+Rv0145	Rv0145	Possible S-adenosylmethionine-dependent methyltransferase	171.215	34349.6
+Rv0146	Rv0146	Possible S-adenosylmethionine-dependent methyltransferase	172.211	34016.4
+Rv0154c	fadE2	Probable acyl-CoA dehydrogenase FadE2	181.987	44343.4
+Rv0166	fadD5	Probable fatty-acid-CoA ligase FadD5 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	194.993	59887.8
+Rv0214	fadD4	Probable fatty-acid-CoA ligase FadD4 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	256.064	58871
+Rv0215c	fadE3	Probable acyl-CoA dehydrogenase FadE3	257.783	38616.9
+Rv0221	Rv0221	Possible triacylglycerol synthase (diacylglycerol acyltransferase)	264.067	51829.6
+Rv0222	echA1	Probable enoyl-CoA hydratase EchA1 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	265.507	27280.3
+Rv0230c	php	Probable phosphotriesterase Php (parathion hydrolase) (PTE) (aryldialkylphosphatase) (paraoxonase) (a-esterase) (aryltriphosphatase) (paraoxon hydrolase)	274.983	35853.8
+Rv0231	fadE4	Probable acyl-CoA dehydrogenase FadE4	276.058	63494.8
+Rv0242c	fabG4	Probable 3-oxoacyl-[acyl-carrier protein] reductase FabG4 (3-ketoacyl-acyl carrier protein reductase)	290.665	46798.1
+Rv0243	fadA2	Probable acetyl-CoA acyltransferase FadA2 (3-ketoacyl-CoA thiolase) (beta-ketothiolase)	292.171	46075.2
+Rv0244c	fadE5	Probable acyl-CoA dehydrogenase FadE5	293.798	66014.2
+Rv0270	fadD2	Probable fatty-acid-CoA ligase FadD2 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	324.567	59892.6
+Rv0271c	fadE6	Probable acyl-CoA dehydrogenase FadE6	326.266	78477.2
+Rv0281	Rv0281	Possible S-adenosylmethionine-dependent methyltransferase	340.998	32965.9
+Rv0400c	fadE7	Acyl-CoA dehydrogenase FadE7	478.566	42297.4
+Rv0404	fadD30	Fatty-acid-AMP ligase FadD30 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)	483.977	63843.4
+Rv0405	pks6	Probable membrane bound polyketide synthase Pks6	485.731	147613
+Rv0436c	pssA	Probable CDP-diacylglycerol--serine O-phosphatidyltransferase PssA (PS synthase) (phosphatidylserine synthase)	524.53	31218.2
+Rv0437c	psd	Possible phosphatidylserine decarboxylase Psd (PS decarboxylase)	525.387	24227.9
+Rv0447c	ufaA1	Probable cyclopropane-fatty-acyl-phospholipid synthase UfaA1 (cyclopropane fatty acid synthase) (CFA synthase)	535.224	47767.5
+Rv0456c	echA2	enoyl-CoA hydratase EchA2 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	545.889	33085.8
+Rv0468	fadB2	3-hydroxybutyryl-CoA dehydrogenase FadB2 (beta-hydroxybutyryl-CoA dehydrogenase) (BHBD)	558.895	30696.4
+Rv0469	umaA	Possible mycolic acid synthase UmaA	559.888	33095.7
+Rv0470c	pcaA	Mycolic acid synthase PcaA (cyclopropane synthase)	560.848	33027.7
+Rv0503c	cmaA2	Cyclopropane-fatty-acyl-phospholipid synthase 2 CmaA2 (cyclopropane fatty acid synthase) (CFA synthase) (cyclopropane mycolic acid synthase 2) (mycolic acid trans-cyclopropane synthetase)	593.871	34660.1
+Rv0533c	fabH	3-oxoacyl-[acyl-carrier-protein] synthase III FabH (beta-ketoacyl-ACP synthase III) (KAS III)	624.473	34872.5
+Rv0551c	fadD8	Probable fatty-acid-CoA ligase FadD8 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	641.096	61065.9
+Rv0557	mgtA	Mannosyltransferase MgtA	648.536	41205.4
+Rv0564c	gpdA1	Probable glycerol-3-phosphate dehydrogenase [NAD(P)+] GpdA1 (NAD(P)H-dependent glycerol-3-phosphate dehydrogenase) (NAD(P)H-dependent dihydroxyacetone-phosphate reductase)	654.924	36153.4
+Rv0632c	echA3	Probable enoyl-CoA hydratase EchA3 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	728.583	24354.9
+Rv0642c	mmaA4	Methoxy mycolic acid synthase 4 MmaA4 (methyl mycolic acid synthase 4) (MMA4) (hydroxy mycolic acid synthase)	736.298	34670.4
+Rv0643c	mmaA3	Methoxy mycolic acid synthase 3 MmaA3 (methyl mycolic acid synthase 3) (MMA3) (hydroxy mycolic acid synthase)	737.268	33262.9
+Rv0644c	mmaA2	Methoxy mycolic acid synthase 2 MmaA2 (methyl mycolic acid synthase 2) (MMA2) (hydroxy mycolic acid synthase)	738.297	32724.3
+Rv0645c	mmaA1	Methoxy mycolic acid synthase 1 MmaA1 (methyl mycolic acid synthase 1) (MMA1) (hydroxy mycolic acid synthase)	739.327	33149.4
+Rv0649	fabD2	Possible malonyl CoA-acyl carrier protein transacylase FabD2 (MCT)	746.363	23616.8
+Rv0672	fadE8	Probable acyl-CoA dehydrogenase FadE8	771.484	58534.5
+Rv0673	echA4	Possible enoyl-CoA hydratase EchA4 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	773.123	33541.1
+Rv0675	echA5	Probable enoyl-CoA hydratase EchA5 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	774.783	27441.4
+Rv0726c	Rv0726c	Possible S-adenosylmethionine-dependent methyltransferase	818.537	40875.9
+Rv0731c	Rv0731c	Possible S-adenosylmethionine-dependent methyltransferase	823.683	34950
+Rv0752c	fadE9	Probable acyl-CoA dehydrogenase FadE9	843.242	41451.2
+Rv0824c	desA1	Probable acyl-[acyl-carrier protein] desaturase DesA1 (acyl-[ACP] desaturase) (stearoyl-ACP desaturase) (protein Des)	917.734	38770.2
+Rv0830	Rv0830	Possible S-adenosylmethionine-dependent methyltransferase	921.97	33416.5
+Rv0852	fadD16	Possible fatty-acid-CoA ligase FadD16 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	948.559	30075.9
+Rv0855	far	Probable fatty-acid-CoA racemase Far	951.632	38026.5
+Rv0859	fadA	Possible acyl-CoA thiolase FadA	955.077	42414.5
+Rv0860	fadB	Probable fatty oxidation protein FadB	956.293	76104.1
+Rv0873	fadE10	Probable acyl-CoA dehydrogenase FadE10	970.505	70744.6
+Rv0893c	Rv0893c	Possible S-adenosylmethionine-dependent methyltransferase	995.318	36073.5
+Rv0895	Rv0895	Possible triacylglycerol synthase (diacylglycerol acyltransferase)	997.782	53840.5
+Rv0904c	accD3	Putative acetyl-coenzyme A carboxylase carboxyl transferase (subunit beta) AccD3 (accase beta chain)	1006.69	51740.3
+Rv0905	echA6	Possible enoyl-CoA hydratase EchA6 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	1008.21	26028.8
+Rv0914c	Rv0914c	Possible lipid carrier protein or keto acyl-CoA thiolase	1018.73	43874.9
+Rv0947c	Rv0947c	Probable mycolyl transferase, pseudogene	1057.3	8431.59
+Rv0971c	echA7	Probable enoyl-CoA hydratase EchA7 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	1081.78	27604.5
+Rv0972c	fadE12	Acyl-CoA dehydrogenase FadE12	1082.58	41483.3
+Rv0973c	accA2	Probable acetyl-/propionyl-coenzyme A carboxylase alpha chain (alpha subunit) AccA2: biotin carboxylase + biotin carboxyl carrier protein (BCCP)	1083.75	70744.8
+Rv0974c	accD2	Probable acetyl-/propionyl-CoA carboxylase (beta subunit) AccD2	1085.76	56224.3
+Rv0975c	fadE13	Probable acyl-CoA dehydrogenase FadE13	1087.35	40715.1
+Rv1013	pks16	Putative polyketide synthase Pks16	1131.62	58449.3
+Rv1058	fadD14	Probable medium chain fatty-acid-CoA ligase FadD14 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	1180.68	59624.6
+Rv1070c	echA8	Probable enoyl-CoA hydratase EchA8 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	1194.27	27273.1
+Rv1071c	echA9	Possible enoyl-CoA hydratase EchA9 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	1195.06	36322
+Rv1074c	fadA3	Probable beta-ketoacyl CoA thiolase FadA3	1198.16	42655.4
+Rv1094	desA2	Possible acyl-[acyl-carrier protein] desaturase DesA2 (acyl-[ACP] desaturase) (stearoyl-ACP desaturase)	1221.96	31359.5
+Rv1135A	Rv1135A	Possible acetyl-CoA acetyltransferase (acetoacetyl-CoA thiolase)	1264.31	8801.14
+Rv1136	Rv1136	Possible enoyl-CoA hydratase	1264.61	11825.1
+Rv1141c	echA11	Probable enoyl-CoA hydratase EchA11 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	1268.2	27615.8
+Rv1142c	echA10	Probable enoyl-CoA hydratase EchA10 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	1269.15	27648.9
+Rv1143	mcr	Probable alpha-methylacyl-CoA racemase Mcr (2-methylacyl-CoA racemase) (2-arylpropionyl-CoA epimerase )	1270.06	38684.9
+Rv1153c	omt	Probable O-methyltransferase Omt	1280	30854.9
+Rv1175c	fadH	Probable NADPH dependent 2,4-dienoyl-CoA reductase FadH (2,4-dienoyl coenzyme A reductase) (4-enoyl-CoA reductase)	1306.2	72901.5
+Rv1180	pks3	Probable polyketide beta-ketoacyl synthase Pks3	1313.72	50566.5
+Rv1181	pks4	Probable polyketide beta-ketoacyl synthase Pks4	1315.23	168084
+Rv1182	papA3	Probable conserved polyketide synthase associated protein PapA3	1320.04	51575.4
+Rv1185c	fadD21	Probable fatty-acid-AMP ligase FadD21 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)	1325.78	62756.9
+Rv1193	fadD36	Probable fatty-acid-CoA ligase FadD36 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	1335.79	49488.3
+Rv1206	fadD6	Probable fatty-acid-CoA ligase FadD6 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	1349.33	64305
+Rv1323	fadA4	Probable acetyl-CoA acetyltransferase FadA4 (acetoacetyl-CoA thiolase)	1485.86	40048.5
+Rv1344	mbtL	Acyl carrier protein (ACP) MbtL	1508.97	11400
+Rv1345	mbtM	Probable fatty acyl-AMP ligase MbtM	1509.28	53957.4
+Rv1346	mbtN	Acyl-CoA dehydrogenase MbtN	1510.85	41180.1
+Rv1347c	mbtK	Lysine N-acetyltransferase MbtK	1511.97	23799
+Rv1350	fabG2	Probable 3-oxoacyl-[acyl-carrier protein] reductase FabG2 (3-ketoacyl-acyl carrier protein reductase)	1517.49	25870.9
+Rv1425	Rv1425	Possible triacylglycerol synthase (diacylglycerol acyltransferase)	1599.66	50062.7
+Rv1427c	fadD12	Possible long-chain-fatty-acid--CoA ligase FadD12 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	1602.32	58064.1
+Rv1467c	fadE15	Probable acyl-CoA dehydrogenase FadE15	1653.67	65905.9
+Rv1472	echA12	Possible enoyl-CoA hydratase EchA12 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	1659.76	30543.1
+Rv1483	fabG1	3-oxoacyl-[acyl-carrier protein] reductase FabG1 (3-ketoacyl-acyl carrier protein reductase) (mycolic acid biosynthesis a protein)	1673.44	25665.2
+Rv1484	inhA	NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase)	1674.2	28527.8
+Rv1492	mutA	Probable methylmalonyl-CoA mutase small subunit MutA (MCM)	1682.16	64712.3
+Rv1493	mutB	Probable methylmalonyl-CoA mutase large subunit MutB (MCM)	1684.01	80604.2
+Rv1521	fadD25	Probable fatty-acid-AMP ligase FadD25 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)	1712.3	63141.6
+Rv1527c	pks5	Probable polyketide synthase Pks5	1722.08	223857
+Rv1528c	papA4	Probable conserved polyketide synthase associated protein PapA4	1728.95	18044.4
+Rv1529	fadD24	Probable fatty-acid-AMP ligase FadD24 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)	1729.5	62797.4
+Rv1543	Rv1543	Possible fatty acyl-CoA reductase	1745.06	36820.9
+Rv1544	Rv1544	Possible ketoacyl reductase	1746.09	28199.6
+Rv1549	fadD11.1	Possible fatty-acid-CoA ligase FadD11.1 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	1753.51	19303
+Rv1550	fadD11	Probable fatty-acid-CoA ligase FadD11 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	1753.72	62309.4
+Rv1551	plsB1	Possible acyltransferase PlsB1	1755.44	69192
+Rv1618	tesB1	Probable acyl-CoA thioesterase II TesB1	1817.61	33140.2
+Rv1627c	Rv1627c	Probable nonspecific lipid-transfer protein	1828.86	42386
+Rv1660	pks10	Chalcone synthase Pks10	1874.16	37113.5
+Rv1661	pks7	Probable polyketide synthase Pks7	1875.3	221046
+Rv1662	pks8	Probable polyketide synthase Pks8	1881.7	167096
+Rv1663	pks17	Probable polyketide synthase Pks17	1886.51	53524.8
+Rv1664	pks9	Probable polyketide synthase Pks9	1888.03	106371
+Rv1665	pks11	Chalcone synthase Pks11	1891.23	37639.2
+Rv1679	fadE16	Possible acyl-CoA dehydrogenase FadE16	1903.3	37876.2
+Rv1683	Rv1683	Possible bifunctional enzyme; long-chain acyl-CoA synthase and lipase.	1907.59	107362
+Rv1715	fadB3	Probable 3-hydroxybutyryl-CoA dehydrogenase FadB3 (beta-hydroxybutyryl-CoA dehydrogenase) (BHBD)	1942.66	31506.1
+Rv1722	Rv1722	Possible carboxylase	1947.86	55428.8
+Rv1729c	Rv1729c	Possible S-adenosylmethionine-dependent methyltransferase	1954.63	33622.1
+Rv1750c	fadD1	Possible fatty-acid-CoA ligase FadD1 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	1977.97	57413.5
+Rv1760	Rv1760	Possible triacylglycerol synthase (diacylglycerol acyltransferase)	1993.15	54092.4
+Rv1814	erg3	Membrane-bound C-5 sterol desaturase Erg3 (sterol-C5-desaturase)	2056.52	34882.4
+Rv1822	pgsA2	Probable CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase PgsA2 (PGP synthase) (phosphatidylglycerophosphate synthase) (3-phosphatidyl-1'-glycerol-3'phosphate synthase)	2069.08	22911.3
+Rv1866	Rv1866	Conserved protein	2113.14	83182.5
+Rv1867	Rv1867	Conserved protein	2115.76	53560.5
+Rv1886c	fbpB	Secreted antigen 85-B FbpB (85B) (antigen 85 complex B) (mycolyl transferase 85B) (fibronectin-binding protein B) (extracellular alpha-antigen)	2134.89	34580.9
+Rv1912c	fadB5	Possible oxidoreductase FadB5	2158.09	35813.2
+Rv1925	fadD31	Probable acyl-CoA ligase FadD31 (acyl-CoA synthetase) (acyl-CoA synthase)	2177.09	66310.1
+Rv1933c	fadE18	Probable acyl-CoA dehydrogenase FadE18	2183.87	38477.1
+Rv1934c	fadE17	Probable acyl-CoA dehydrogenase FadE17	2184.96	44651.6
+Rv1935c	echA13	Possible enoyl-CoA hydratase EchA13 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	2186.2	35250
+Rv2002	fabG3	Possible 20-beta-hydroxysteroid dehydrogenase FabG3 (cortisone reductase) ((R)-20-hydroxysteroid dehydrogenase)	2247.66	27029.7
+Rv2048c	pks12	Polyketide synthase Pks12	2294.53	431607
+Rv2173	idsA2	Probable geranylgeranyl pyrophosphate synthetase IdsA2 (ggppsase) (GGPP synthetase) (geranylgeranyl diphosphate synthase)	2434.85	37762.9
+Rv2187	fadD15	Long-chain-fatty-acid-CoA ligase FadD15 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	2448.16	64002.9
+Rv2188c	pimB	Mannosyltransferase PimB	2449.99	41188.1
+Rv2243	fabD	Malonyl CoA-acyl carrier protein transacylase FabD (malonyl CoA:ACPM acyltransferase) (MCT)	2516.79	30756.1
+Rv2244	acpM	Meromycolate extension acyl carrier protein AcpM	2517.77	12491.9
+Rv2245	kasA	3-oxoacyl-[acyl-carrier protein] synthase 1 KasA (beta-ketoacyl-ACP synthase) (KAS I)	2518.11	43284.1
+Rv2246	kasB	3-oxoacyl-[acyl-carrier protein] synthase 2 KasB (beta-ketoacyl-ACP synthase) (KAS I)	2519.4	46388.7
+Rv2247	accD6	Acetyl/propionyl-CoA carboxylase (beta subunit) AccD6	2520.74	50136
+Rv2252	Rv2252	Diacylglycerol kinase	2526.99	32805.4
+Rv2261c	Rv2261c	Conserved hypothetical protein	2534.04	14923.1
+Rv2262c	Rv2262c	Conserved hypothetical protein	2534.47	37258.5
+Rv2285	Rv2285	Possible triacylglycerol synthase (diacylglycerol acyltransferase)	2557.47	47675
+Rv2289	cdh	Probable CDP-diacylglycerol pyrophosphatase Cdh (CDP-diacylglycerol diphosphatase) (CDP-diacylglycerol phosphatidylhydrolase)	2561.68	28576.4
+Rv2377c	mbtH	Putative conserved protein MbtH	2656.22	8049.86
+Rv2378c	mbtG	Lysine-N-oxygenase MbtG (L-lysine 6-monooxygenase) (lysine N6-hydroxylase)	2656.41	46943.9
+Rv2379c	mbtF	Peptide synthetase MbtF (peptide synthase)	2657.7	156748
+Rv2380c	mbtE	Peptide synthetase MbtE (peptide synthase)	2662.07	183282
+Rv2381c	mbtD	Polyketide synthetase MbtD (polyketide synthase)	2667.25	105592
+Rv2382c	mbtC	Polyketide synthetase MbtC (polyketide synthase)	2670.27	46624.3
+Rv2383c	mbtB	Phenyloxazoline synthase MbtB (phenyloxazoline synthetase)	2671.59	151602
+Rv2384	mbtA	Bifunctional enzyme MbtA: salicyl-AMP ligase (SAL-AMP ligase) + salicyl-S-ArCP synthetase	2675.94	59280.6
+Rv2385	mbtJ	Putative acetyl hydrolase MbtJ	2677.73	32876.8
+Rv2386c	mbtI	Isochorismate synthase MbtI	2678.65	48722.3
+Rv2482c	plsB2	Probable glycerol-3-phosphate acyltransferase PlsB2 (GPAT)	2786.91	88283
+Rv2483c	plsC	Possible transmembrane phospholipid biosynthesis bifunctional enzyme PlsC: putative L-3-phosphoserine phosphatase (O-phosphoserine phosphohydrolase) (PSP) (pspase) + 1-acyl-SN-glycerol-3-phosphate acyltransferase (1-AGP acyltransferase) (1-AGPAT) (lysophosphatidic acid acyltransferase) (LPAAT)	2789.28	61788.1
+Rv2484c	Rv2484c	Possible triacylglycerol synthase (diacylglycerol acyltransferase)	2791.02	52309.1
+Rv2486	echA14	Probable enoyl-CoA hydratase EchA14 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	2794.35	26280.1
+Rv2500c	fadE19	Possible acyl-CoA dehydrogenase FadE19 (MMGC)	2813.73	41916.4
+Rv2501c	accA1	Probable acetyl-/propionyl-coenzyme A carboxylase alpha chain (alpha subunit) AccA1: biotin carboxylase + biotin carboxyl carrier protein (BCCP)	2814.92	70592.2
+Rv2502c	accD1	Probable acetyl-/propionyl-CoA carboxylase (beta subunit) AccD1	2816.89	56745.7
+Rv2503c	scoB	Probable succinyl-CoA:3-ketoacid-coenzyme A transferase (beta subunit) ScoB (3-oxo-acid:CoA transferase) (OXCT B) (succinyl CoA:3-oxoacid CoA-transferase)	2818.47	22898.4
+Rv2504c	scoA	Probable succinyl-CoA:3-ketoacid-coenzyme A transferase (alpha subunit) ScoA (3-oxo acid:CoA transferase) (OXCT A) (succinyl-CoA:3-oxoacid-coenzyme A transferase)	2819.12	26275.7
+Rv2505c	fadD35	Probable fatty-acid-CoA ligase FadD35 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	2819.95	59746.4
+Rv2523c	acpS	holo-[acyl-carrier protein] synthase AcpS (holo-ACP synthase) (CoA:APO-[ACP]pantetheinephosphotransferase) (CoA:APO-[acyl-carrier protein]pantetheinephosphotransferase)	2839.54	14002.8
+Rv2524c	fas	Probable fatty acid synthase Fas (fatty acid synthetase)	2840.12	326222
+Rv2590	fadD9	Probable fatty-acid-CoA ligase FadD9 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	2917.87	127328
+Rv2605c	tesB2	Probable acyl-CoA thioesterase II TesB2 (TEII)	2932.3	31536.7
+Rv2610c	pimA	Alpha-mannosyltransferase PimA	2937.86	40445.5
+Rv2611c	Rv2611c	Probable acyltransferase	2939.01	35094.3
+Rv2612c	pgsA1	PI synthase PgsA1 (phosphatidylinositol synthase) (CDP-diacylglycerol--inositol-3-phosphatidyltransferase)	2939.96	23251.5
+Rv2613c	Rv2613c	Conserved protein	2940.61	21836.7
+Rv2679	echA15	Probable enoyl-CoA hydratase EchA15 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	2995.11	29634.9
+Rv2724c	fadE20	Probable acyl-CoA dehydrogenase FadE20	3036.13	42844.7
+Rv2746c	pgsA3	Probable PGP synthase PgsA3 (CDP-diacylglycerol--glycerol-3-phosphate 3- phosphatidyltransferase) (phosphatidylglycerophosphate synthase)	3058.6	22136.3
+Rv2789c	fadE21	Probable acyl-CoA dehydrogenase FadE21	3097.71	44743.4
+Rv2794c	pptT	Phosphopantetheinyl transferase PptT (CoA:APO-[ACP]pantetheinephosphotransferase) (CoA:APO-[acyl-carrier protein]pantetheinephosphotransferase)	3103.26	24708.5
+Rv2831	echA16	Probable enoyl-CoA hydratase EchA16 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	3137.27	26630.4
+Rv2881c	cdsA	Probable integral membrane phosphatidate cytidylyltransferase CdsA (CDP-diglyceride synthetase) (CDP-diglyceride pyrophosphorylase) (CDP-diacylglycerol synthase) (CDS) (CTP:phosphatidate cytidylyltransferase) (CDP-DAG synthase) (CDP-DG synthetase)	3190.7	32002.9
+Rv2928	tesA	Probable thioesterase TesA	3242.2	29151.8
+Rv2930	fadD26	Fatty-acid-AMP ligase FadD26 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)	3243.7	63044
+Rv2931	ppsA	Phenolpthiocerol synthesis type-I polyketide synthase PpsA	3245.45	198835
+Rv2932	ppsB	Phenolpthiocerol synthesis type-I polyketide synthase PpsB	3251.07	162496
+Rv2933	ppsC	Phenolpthiocerol synthesis type-I polyketide synthase PpsC	3255.69	230622
+Rv2934	ppsD	Phenolpthiocerol synthesis type-I polyketide synthase PpsD	3262.25	193315
+Rv2935	ppsE	Phenolpthiocerol synthesis type-I polyketide synthase PpsE	3267.74	158713
+Rv2939	papA5	Possible conserved polyketide synthase associated protein PapA5	3274.95	45428.8
+Rv2940c	mas	Probable multifunctional mycocerosic acid synthase membrane-associated Mas	3276.38	224380
+Rv2941	fadD28	Fatty-acid-AMP ligase FadD28 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)	3283.33	62640.7
+Rv2946c	pks1	Probable polyketide synthase Pks1	3291.5	166640
+Rv2947c	pks15	Probable polyketide synthase Pks15	3296.35	51669.8
+Rv2948c	fadD22	P-hydroxybenzoyl-AMP ligase FadD22	3297.84	75198.2
+Rv2950c	fadD29	Fatty-acid-AMP ligase FadD29 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)	3300.6	67446.5
+Rv2953	Rv2953	Enoyl reductase	3305.28	45104.2
+Rv2982c	gpdA2	Probable glycerol-3-phosphate dehydrogenase [NAD(P)+] GpdA2 (NAD(P)H- dependent glycerol-3-phosphate dehydrogenase)	3338	33992
+Rv3039c	echA17	Probable enoyl-CoA hydratase EchA17 (crotonase) (unsatured acyl-CoA hydratase) (enoyl hydrase)	3399.42	26505.9
+Rv3061c	fadE22	Probable acyl-CoA dehydrogenase FadE22	3423.26	76741.1
+Rv3087	Rv3087	Possible triacylglycerol synthase (diacylglycerol acyltransferase)	3452.93	52597.1
+Rv3088	tgs4	Putative triacylglycerol synthase (diacylglycerol acyltransferase) Tgs4	3454.34	50886.5
+Rv3089	fadD13	Probable chain -fatty-acid-CoA ligase FadD13 (fatty-acyl-CoA synthetase)	3455.76	54459.5
+Rv3107c	agpS	Possible alkyldihydroxyacetonephosphate synthase AgpS (alkyl-DHAP synthase) (alkylglycerone-phosphate synthase)	3475.38	56520.5
+Rv3130c	tgs1	Triacylglycerol synthase (diacylglycerol acyltransferase) Tgs1	3494.98	50720.6
+Rv3139	fadE24	Probable acyl-CoA dehydrogenase FadE24	3505.36	49646.4
+Rv3140	fadE23	Probable acyl-CoA dehydrogenase FadE23	3506.79	43344.2
+Rv3141	fadB4	Probable NADPH quinone oxidoreductase FadB4 (NADPH:quinone reductase) (zeta-crystallin)	3508.09	33852.8
+Rv3221c	TB7.3	Biotinylated protein TB7.3	3597.55	7306.46
+Rv3229c	desA3	Possible linoleoyl-CoA desaturase (delta(6)-desaturase)	3605.75	48443
+Rv3233c	Rv3233c	Possible triacylglycerol synthase (diacylglycerol acyltransferase)	3609.78	20449.3
+Rv3234c	tgs3	Putative triacylglycerol synthase (diacylglycerol acyltransferase) Tgs3	3610.37	30346.8
+Rv3252c	alkB	Probable transmembrane alkane 1-monooxygenase AlkB (alkane 1-hydroxylase) (lauric acid omega-hydroxylase) (omega-hydroxylase) (fatty acid omega-hydroxylase) (alkane hydroxylase-rubredoxin)	3630.74	47014.3
+Rv3274c	fadE25	Probable acyl-CoA dehydrogenase FadE25	3656.92	41723.4
+Rv3280	accD5	Probable propionyl-CoA carboxylase beta chain 5 AccD5 (pccase) (propanoyl-CoA:carbon dioxide ligase)	3662.06	59354.2
+Rv3281	accE5	Probable bifunctional protein acetyl-/propionyl-coenzyme A carboxylase (epsilon chain) AccE5	3663.69	19013.5
+Rv3285	accA3	Probable bifunctional protein acetyl-/propionyl-coenzyme A carboxylase (alpha chain) AccA3: biotin carboxylase + biotin carboxyl carrier protein (BCCP)	3666.36	63751
+Rv3371	Rv3371	Possible triacylglycerol synthase (diacylglycerol acyltransferase)	3784.93	48847.2
+Rv3373	echA18	Probable enoyl-CoA hydratase EchA18 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	3787.73	22662.2
+Rv3374	echA18.1	Probable enoyl-CoA hydratase (fragment) EchA18.1 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	3788.37	8597.84
+Rv3383c	idsB	Possible polyprenyl synthetase IdsB (polyprenyl transferase) (polyprenyl diphosphate synthase)	3797.44	36431.8
+Rv3391	acrA1	Possible multi-functional enzyme with acyl-CoA-reductase activity AcrA1	3805.62	70940.2
+Rv3392c	cmaA1	Cyclopropane-fatty-acyl-phospholipid synthase 1 CmaA1 (cyclopropane fatty acid synthase) (CFA synthase) (cyclopropane mycolic acid synthase 1)	3807.57	32461.2
+Rv3398c	idsA1	Probable multifunctional geranylgeranyl pyrophosphate synthetase IdsA1 (GGPP synthetase) (ggppsase) (geranylgeranyl diphosphate synthase): dimethylallyltransferase (prenyltransferase) (geranyl-diphosphate synthase) + geranyltranstransferase (farnesyl-diphosphate synthase) (farnesyl-pyrophosphate synthetase) (farnesyl diphosphate synthetase) (FPP synthetase) + farnesyltranstransferase (geranylgeranyl-diphosphate synthase)	3815.03	38852.1
+Rv3399	Rv3399	Possible S-adenosylmethionine-dependent methyltransferase	3816.13	38140.2
+Rv3409c	choD	Cholesterol oxidase ChoD (cholesterol-O2 oxidoreductase)	3826.99	63023.8
+Rv3480c	Rv3480c	Possible triacylglycerol synthase (diacylglycerol acyltransferase)	3898.91	53282.5
+Rv3504	fadE26	Probable acyl-CoA dehydrogenase FadE26	3922.47	43784.6
+Rv3505	fadE27	Probable acyl-CoA dehydrogenase FadE27	3923.7	39007.9
+Rv3506	fadD17	Fatty-acid-CoA synthetase FadD17 (fatty-acid-CoA synthase) (fatty-acid-CoA ligase)	3924.89	53738.8
+Rv3513c	fadD18	Probable fatty-acid-CoA ligase FadD18 (fragment) (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	3945.09	23630.4
+Rv3515c	fadD19	Fatty-acid-CoA ligase FadD19 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	3950.82	59708.5
+Rv3516	echA19	Possible enoyl-CoA hydratase EchA19 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	3952.54	28216.5
+Rv3522	ltp4	Possible lipid transfer protein or keto acyl-CoA thiolase Ltp4	3958.45	37864.9
+Rv3523	ltp3	Probable lipid carrier protein or keto acyl-CoA thiolase Ltp3	3959.53	41421.3
+Rv3540c	ltp2	Probable lipid transfer protein or keto acyl-CoA thiolase Ltp2	3979.5	40555.7
+Rv3543c	fadE29	Probable acyl-CoA dehydrogenase FadE29	3981.98	42715.4
+Rv3544c	fadE28	Probable acyl-CoA dehydrogenase FadE28	3983.12	35468.5
+Rv3546	fadA5	Probable acetyl-CoA acetyltransferase FadA5 (acetoacetyl-CoA thiolase)	3985.56	41328.8
+Rv3550	echA20	Probable enoyl-CoA hydratase EchA20 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	3989.15	26332.9
+Rv3556c	fadA6	Probable acetyl-CoA acetyltransferase FadA6 (acetoacetyl-CoA thiolase)	3995.8	40902.3
+Rv3560c	fadE30	Probable acyl-CoA dehydrogenase FadE30	4000.43	42732.1
+Rv3561	fadD3	Probable fatty-acid-CoA ligase FadD3 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)	4001.64	54076.5
+Rv3562	fadE31	Probable acyl-CoA dehydrogenase FadE31	4003.16	41332.5
+Rv3563	fadE32	Probable acyl-CoA dehydrogenase FadE32	4004.29	33455.1
+Rv3564	fadE33	Probable acyl-CoA dehydrogenase FadE33	4005.25	33558.3
+Rv3573c	fadE34	Probable acyl-CoA dehydrogenase FadE34	4014.08	74546.2
+Rv3667	acs	Acetyl-coenzyme A synthetase Acs (acetate--CoA ligase) (acetyl-CoA synthetase) (acetyl-CoA synthase) (acyl-activating enzyme) (acetate thiokinase) (acetyl-activating enzyme) (acetate--coenzyme A ligase) (acetyl-coenzyme A synthase)	4107.79	71443.9
+Rv3720	Rv3720	Possible fatty acid synthase	4163.74	46852.8
+Rv3734c	tgs2	Putative triacylglycerol synthase (diacylglycerol acyltransferase) Tgs2	4184.53	49303.8
+Rv3740c	Rv3740c	Possible triacylglycerol synthase (diacylglycerol acyltransferase)	4190.83	48352.9
+Rv3761c	fadE36	Possible acyl-CoA dehydrogenase FadE36	4205.86	38532.7
+Rv3767c	Rv3767c	Possible S-adenosylmethionine-dependent methyltransferase	4213	34723.2
+Rv3774	echA21	Possible enoyl-CoA hydratase EchA21 (enoyl hydrase) (unsaturated acyl-CoA hydratase) (crotonase)	4218.85	29101.2
+Rv3790	dprE1	Decaprenylphosphoryl-beta-D-ribose 2'-oxidase	4235.78	50163.2
+Rv3791	dprE2	Decaprenylphosphoryl-D-2-keto erythro pentose reductase	4237.17	27468.8
+Rv3797	fadE35	Probable acyl-CoA dehydrogenase FadE35	4251.08	65322.2
+Rv3799c	accD4	Probable propionyl-CoA carboxylase beta chain 4 AccD4 (pccase) (propanoyl-CoA:carbon dioxide ligase)	4254.38	56647.7
+Rv3800c	pks13	Polyketide synthase Pks13	4255.94	186446
+Rv3801c	fadD32	Fatty-acid-AMP ligase FadD32 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase). Also shown to have acyl-ACP ligase activity.	4261.15	69232
+Rv3803c	fbpD	Secreted MPT51/MPB51 antigen protein FbpD (MPT51/MPB51 antigen 85 complex C) (AG58C) (mycolyl transferase 85C) (fibronectin-binding protein C) (85C)	4264.56	31088.9
+Rv3804c	fbpA	Secreted antigen 85-a FbpA (mycolyl transferase 85A) (fibronectin-binding protein A) (antigen 85 complex A)	4265.64	35686.2
+Rv3820c	papA2	Possible conserved polyketide synthase associated protein PapA2	4284.42	52118
+Rv3824c	papA1	Conserved polyketide synthase associated protein PapA1	4291.64	56095.8
+Rv3825c	pks2	Polyketide synthase Pks2	4293.23	225758
+Rv3826	fadD23	Probable fatty-acid-AMP ligase FadD23 (fatty-acid-AMP synthetase) (fatty-acid-AMP synthase)	4299.81	62840.8
