@@ -12,8 +12,10 @@ See makefile_dependency_graph.png and makefile_full_dependency_graph.png for a u
 If you want make to replicate the read mapping done by EDGE-pro you will need to take the following steps:
 
 1. Uncomment the following two lines from the Makefile: 
-\#deseqFile: $(SAMPLE_NAMES_WPATH)
-\#	${EDGE_PRO_FOLDER}/additionalScripts/edgeToDeseq.perl $(SAMPLE_NAMES_WPATH) 
+```bash
+#deseqFile: $(SAMPLE_NAMES_WPATH)
+#	${EDGE_PRO_FOLDER}/additionalScripts/edgeToDeseq.perl $(SAMPLE_NAMES_WPATH) 
+```
 
 2. Ensure you have EDGE_pro v1.3.1 installed. You will furthermore need to update EDGE_PRO_FOLDER at the top of the Makefile to be the location of these scripts.
 
@@ -23,5 +25,4 @@ If you want make to replicate the read mapping done by EDGE-pro you will need to
 
 If you have issues or feedback, please feel free to contact me:
 
-Will Matern
-maternwill@gmail.com
+Will Matern - maternwill@gmail.com
