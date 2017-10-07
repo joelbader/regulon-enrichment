@@ -9,6 +9,8 @@ Run make to reproduce the analysis.
 
 See makefile_dependency_graph.png and makefile_full_dependency_graph.png for a useful graph of the dependecy structure of the Makefile.
 
+Note: For testing purposes you may wish to reduce the number of Monte-Carlo samples used for calculation with the regulon enrichment test. To do this edit num_MC_samp at the top of rnaseq_enrichment_analysis.py and lit_microarray_enrichment_analysis.py.
+
 If you want make to replicate the read mapping done by EDGE-pro you will need to take the following steps:
 
 1. Uncomment the following two lines from the Makefile: 
